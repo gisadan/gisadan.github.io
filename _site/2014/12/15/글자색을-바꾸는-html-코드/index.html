@@ -62,7 +62,7 @@
 1. 문단 스타일이다. 보통 <code>&lt;p&gt;글자 글자&lt;/p&gt;</code> 이런식인데 스타일일 바꾸고 싶다면 다음과 같이 하면된다.▼</p>
 
 <div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;p style=<span class="string"><span class="delimiter">&quot;</span><span class="content">font-size: 00px; line-height: 1.4px</span><span class="delimiter">&quot;</span></span>&gt; 글자 글자 &lt;<span class="regexp"><span class="delimiter">/</span><span class="content">p&gt;
+  <div class="code"><pre>&lt;p style=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">font-size: 00px; line-height: 1.4px</span><span style="color:#710">&quot;</span></span>&gt; 글자 글자 &lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">p&gt;
 </span></span></pre></div>
 </div>
 </div>
@@ -70,7 +70,7 @@
 <p>2. 이를 응용하면 각종 <code>&lt;span&gt;&lt;/span&gt;</code>등등에 응용할 수 있다.▼</p>
 
 <div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;span style=<span class="string"><span class="delimiter">&quot;</span><span class="content">font-size: 00px; line-height: 1.4px</span><span class="delimiter">&quot;</span></span>&gt; 글자 글자 &lt;<span class="regexp"><span class="delimiter">/</span><span class="content">span&gt;
+  <div class="code"><pre>&lt;span style=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">font-size: 00px; line-height: 1.4px</span><span style="color:#710">&quot;</span></span>&gt; 글자 글자 &lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">span&gt;
 </span></span></pre></div>
 </div>
 </div>
@@ -79,17 +79,17 @@
 
 <div class="highlighter-coderay"><div class="CodeRay">
   <div class="code"><pre>&lt;body&gt;
-&lt;p&gt;&lt;font&gt;기본값 <span class="integer">3</span>&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">font&gt;&lt;br&gt;
-&lt;font size=&quot;3&quot;&gt;폰트 사이즈 3&lt;</span><span class="delimiter">/</span></span>font&gt;&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">p&gt;
-&lt;p&gt;&lt;font size=&quot;6&quot;&gt;폰트 사이즈 6&lt;</span><span class="delimiter">/</span></span>font&gt;&lt;br&gt;
-&lt;font size=<span class="string"><span class="delimiter">&quot;</span><span class="content">+3</span><span class="delimiter">&quot;</span></span>&gt;폰트 사이즈(기본값3+<span class="integer">3</span>) <span class="integer">6</span>&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">font&gt;&lt;</span><span class="delimiter">/</span></span>p&gt;
-&lt;p&gt;&lt;font size=<span class="string"><span class="delimiter">&quot;</span><span class="content">2</span><span class="delimiter">&quot;</span></span>&gt;폰트 사이즈 <span class="integer">2</span>&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">font&gt;&lt;br&gt;
-&lt;font size=&quot;-1&quot;&gt;폰트 사이즈(기본값3-1) 2&lt;</span><span class="delimiter">/</span></span>font&gt;&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">p&gt;
-&lt;p&gt;&lt;font size=&quot;7&quot;&gt;폰트 사이즈 7&lt;</span><span class="delimiter">/</span></span>font&gt;&lt;br&gt;
-&lt;font size=<span class="string"><span class="delimiter">&quot;</span><span class="content">+6</span><span class="delimiter">&quot;</span></span>&gt;폰트 사이즈(기본값3+<span class="integer">6</span>=<span class="integer">9</span>[<span class="constant">X</span>]) <span class="integer">7</span>&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">font&gt;&lt;br&gt;
-폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.&lt;</span><span class="delimiter">/</span></span>p&gt;
-&lt;<span class="regexp"><span class="delimiter">/</span><span class="content">body&gt;
-&lt;</span><span class="delimiter">/</span></span>html&gt;
+&lt;p&gt;&lt;font&gt;기본값 <span style="color:#00D">3</span>&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">font&gt;&lt;br&gt;
+&lt;font size=&quot;3&quot;&gt;폰트 사이즈 3&lt;</span><span style="color:#404">/</span></span>font&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">p&gt;
+&lt;p&gt;&lt;font size=&quot;6&quot;&gt;폰트 사이즈 6&lt;</span><span style="color:#404">/</span></span>font&gt;&lt;br&gt;
+&lt;font size=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">+3</span><span style="color:#710">&quot;</span></span>&gt;폰트 사이즈(기본값3+<span style="color:#00D">3</span>) <span style="color:#00D">6</span>&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">font&gt;&lt;</span><span style="color:#404">/</span></span>p&gt;
+&lt;p&gt;&lt;font size=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">2</span><span style="color:#710">&quot;</span></span>&gt;폰트 사이즈 <span style="color:#00D">2</span>&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">font&gt;&lt;br&gt;
+&lt;font size=&quot;-1&quot;&gt;폰트 사이즈(기본값3-1) 2&lt;</span><span style="color:#404">/</span></span>font&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">p&gt;
+&lt;p&gt;&lt;font size=&quot;7&quot;&gt;폰트 사이즈 7&lt;</span><span style="color:#404">/</span></span>font&gt;&lt;br&gt;
+&lt;font size=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">+6</span><span style="color:#710">&quot;</span></span>&gt;폰트 사이즈(기본값3+<span style="color:#00D">6</span>=<span style="color:#00D">9</span>[<span style="color:#036;font-weight:bold">X</span>]) <span style="color:#00D">7</span>&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">font&gt;&lt;br&gt;
+폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.&lt;</span><span style="color:#404">/</span></span>p&gt;
+&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">body&gt;
+&lt;</span><span style="color:#404">/</span></span>html&gt;
 </pre></div>
 </div>
 </div>
