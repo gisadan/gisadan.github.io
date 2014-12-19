@@ -1,0 +1,86 @@
+---  
+layout: post  
+title: ✚ coderay 테스트
+---  
+
+1\. 내 경우는 main.sass 파일을 가지고 있는데 여기에 아래 코드를 붙여넣었다.  
+
+~~~
+.center-image
+  margin: 0 auto
+  display: block
+~~~  
+{:.language-ruby}
+
+
+2\. 그리고 markdown을 redcarpet에서 kramdown으로 바꿨다. 그러기위해 터미널에 명령어를 입력했다.  
+
+~~~
+sudo gem install kramdown
+sudo gem install coderay
+~~~
+{:.language-ruby}
+
+3\. 그리고 나서 config.yml 파일에 다음과 같이 붙여넣었다.
+
+~~~
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+kramdown:
+  auto_ids:      true
+  footnote_nr:   1
+  entity_output: as_char
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
+  use_coderay:   true
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      nil
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style
+
+
+highlighter: pygments
+permalink: /:title/
+~~~
+{:.language-ruby}
+
+
+4\. 이제 마크다운으로 글을 작성하면서 이미지를 넣을 때 마지막에 '{: .center-image }'만 붙여넣으면 이미지가 가운데 정렬된다.  
+
+
+5\. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. 
+
+~~~
+def what?
+  42
+end
+~~~
+{: .language-ruby}
+
+
+~~~ ruby
+def what?
+  42
+end
+~~~
+
+
+    puts "hello world"
+{:lang="ruby"}
+
+
+~~~
+def hello
+  puts "hello world"
+end
+~~~
+{:lang="ruby"}
+
+
+---
