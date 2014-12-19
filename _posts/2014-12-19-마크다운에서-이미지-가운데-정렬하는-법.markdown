@@ -4,7 +4,7 @@ title: ✚ 마크다운에서 이미지 가운데 정렬하는 법
 ---  
 
 1\. 내 경우는 main.sass 파일을 가지고 있는데 여기에 아래 코드를 붙여넣었다.  
-
+~~내 경우는 main.sass 파일을~~
 ~~~
 .center-image
   margin: 0 auto
