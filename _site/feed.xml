@@ -6,8 +6,8 @@
 </description>
     <link>http://gisadan.github.io/</link>
     <atom:link href="http://gisadan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Dec 2014 22:23:58 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2014 22:23:58 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2014 23:53:32 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2014 23:53:32 +0900</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -57,7 +57,7 @@ sudo gem install coderay
 
 &lt;p&gt;4. 이제 마크다운으로 글을 작성하면서 이미지를 넣을 때 마지막에 ‘‘만 붙여넣으면 이미지가 가운데 정렬된다.  &lt;/p&gt;
 
-&lt;p&gt;5. 여기서 kramdown의 coderay효과를 제대로 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다.  &lt;/p&gt;
+&lt;p&gt;5. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. &lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;/* http://www.andrewthorp.com/posts/github-theme-for-coderay */
 .CodeRay {
