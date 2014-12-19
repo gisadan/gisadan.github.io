@@ -1,0 +1,16 @@
+## kramdown 0.1.0 released
+
+This is the first release of kramdown, yet-another-Markdown converter for Ruby, with the following
+features:
+
+* Written in pure Ruby, no need to compile an extension (like BlueCloth or rdiscount)
+
+* Fast (current impl ~5x faster than Maruku, ~10x faster than BlueFeather, although ~30x slower than
+  native code like rdiscount)
+
+* Strict syntax definition (special cases for which the original Markdown page does not account for
+  are explicitly listed and it is shown how kramdown parses them - see the [Syntax] page)
+
+* Supports common Markdown extension (similar to Maruku)
+
+[Syntax]: ../syntax.html

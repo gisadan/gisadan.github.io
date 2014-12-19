@@ -1,0 +1,9 @@
+## kramdown 1.3.3 released
+
+This release just fixes a bug with the default HTML document template.
+
+## Changes
+
+* 1 bug fix:
+
+  - The string `charset=` was missing from a `<meta>` tag in the HTML document template.
