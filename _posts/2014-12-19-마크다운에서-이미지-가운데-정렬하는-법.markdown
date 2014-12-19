@@ -4,7 +4,7 @@ title: ✚ 마크다운에서 이미지 가운데 정렬하는 법
 ---  
 
 1\. 내 경우는 main.sass 파일을 가지고 있는데 여기에 아래 코드를 붙여넣었다.  
-~~내 경우는 main.sass 파일을~~
+
 ~~~
 .center-image
   margin: 0 auto
@@ -53,7 +53,7 @@ permalink: /:title/
 4\. 이제 마크다운으로 글을 작성하면서 이미지를 넣을 때 마지막에 '{: .center-image }'만 붙여넣으면 이미지가 가운데 정렬된다.  
 
 
-5\. 여기서 kramdown의 coderay효과를 제대로 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다.  
+5\. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. 
 
 
 ~~~
