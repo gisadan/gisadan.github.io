@@ -19,7 +19,7 @@ title: ✚ 글자색을 바꾸는 html 코드
 
 3\. font는 다음과 같이 이용된다.▼
 
-~~~
+```
 <body>
 <p><font>기본값 3</font><br>
 <font size="3">폰트 사이즈 3</font></p>
@@ -32,7 +32,7 @@ title: ✚ 글자색을 바꾸는 html 코드
 폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.</p>
 </body>
 </html>
-~~~
+```
 {:.language-ruby}
 
 
