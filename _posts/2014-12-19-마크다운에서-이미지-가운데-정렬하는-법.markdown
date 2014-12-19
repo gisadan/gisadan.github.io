@@ -191,6 +191,7 @@ ol.CodeRay li { white-space: pre }
 .CodeRay .change .change { color: #66f; }
 .CodeRay .head .head { color: #f4f; }
 ~~~
+{:.language-ruby}
 
 
 ---

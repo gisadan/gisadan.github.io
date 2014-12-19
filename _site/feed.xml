@@ -6,8 +6,8 @@
 </description>
     <link>http://gisadan.github.io/</link>
     <atom:link href="http://gisadan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Dec 2014 23:53:32 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2014 23:53:32 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2014 23:59:24 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2014 23:59:24 +0900</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -59,10 +59,11 @@ sudo gem install coderay
 
 &lt;p&gt;5. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;/* http://www.andrewthorp.com/posts/github-theme-for-coderay */
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;* http:&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;/www.andrewthorp.com/posts/github-theme-&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;for&lt;/span&gt;-coderay *&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;
 .CodeRay {
   background-color: #efefef;
-  font-family: Monaco, &quot;Courier New&quot;, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, monospace;
+  font-family: Monaco, &amp;quot;Courier New&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, monospace;
   color: #000;
   margin-bottom: 14px;
 }
@@ -192,7 +193,9 @@ ol.CodeRay li { white-space: pre }
 .CodeRay .delete .delete { color: #800; font-weight:bold }
 .CodeRay .change .change { color: #66f; }
 .CodeRay .head .head { color: #f4f; }
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 </description>
@@ -381,20 +384,22 @@ ol.CodeRay li { white-space: pre }
 
 &lt;p&gt;3. font는 다음과 같이 이용된다.▼&lt;/p&gt;
 
-&lt;p&gt;```&lt;/p&gt;
-&lt;body&gt;
-&lt;p&gt;&lt;font&gt;기본값 3&lt;/font&gt;&lt;br /&gt;
-&lt;font size=&quot;3&quot;&gt;폰트 사이즈 3&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&quot;6&quot;&gt;폰트 사이즈 6&lt;/font&gt;&lt;br /&gt;
-&lt;font size=&quot;+3&quot;&gt;폰트 사이즈(기본값3+3) 6&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&quot;2&quot;&gt;폰트 사이즈 2&lt;/font&gt;&lt;br /&gt;
-&lt;font size=&quot;-1&quot;&gt;폰트 사이즈(기본값3-1) 2&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&quot;7&quot;&gt;폰트 사이즈 7&lt;/font&gt;&lt;br /&gt;
-&lt;font size=&quot;+6&quot;&gt;폰트 사이즈(기본값3+6=9[X]) 7&lt;/font&gt;&lt;br /&gt;
-폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.&lt;/p&gt;
-&lt;/body&gt;
-&lt;p class=&quot;language-ruby&quot;&gt;&amp;lt;/html&amp;gt;
-```&lt;/p&gt;
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&amp;lt;body&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;font&amp;gt;기본값 &lt;span style=&quot;color:#00D&quot;&gt;3&lt;/span&gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;font&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;font size=&amp;quot;3&amp;quot;&amp;gt;폰트 사이즈 3&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;font&amp;gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;font size=&amp;quot;6&amp;quot;&amp;gt;폰트 사이즈 6&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;font&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;font size=&lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span style=&quot;color:#D20&quot;&gt;+3&lt;/span&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&amp;gt;폰트 사이즈(기본값3+&lt;span style=&quot;color:#00D&quot;&gt;3&lt;/span&gt;) &lt;span style=&quot;color:#00D&quot;&gt;6&lt;/span&gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;font&amp;gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;font size=&lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span style=&quot;color:#D20&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&amp;gt;폰트 사이즈 &lt;span style=&quot;color:#00D&quot;&gt;2&lt;/span&gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;font&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;font size=&amp;quot;-1&amp;quot;&amp;gt;폰트 사이즈(기본값3-1) 2&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;font&amp;gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;font size=&amp;quot;7&amp;quot;&amp;gt;폰트 사이즈 7&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;font&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;font size=&lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span style=&quot;color:#D20&quot;&gt;+6&lt;/span&gt;&lt;span style=&quot;color:#710&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&amp;gt;폰트 사이즈(기본값3+&lt;span style=&quot;color:#00D&quot;&gt;6&lt;/span&gt;=&lt;span style=&quot;color:#00D&quot;&gt;9&lt;/span&gt;[&lt;span style=&quot;color:#036;font-weight:bold&quot;&gt;X&lt;/span&gt;]) &lt;span style=&quot;color:#00D&quot;&gt;7&lt;/span&gt;&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;font&amp;gt;&amp;lt;br&amp;gt;
+폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;p&amp;gt;
+&amp;lt;&lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;body&amp;gt;
+&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;html&amp;gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
