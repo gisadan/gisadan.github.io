@@ -1,0 +1,82 @@
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+kramdown:
+  auto_ids:      true
+  footnote_nr:   1
+  entity_output: as_char
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
+  use_coderay:   true
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      nil
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               class
+
+highlighter: pygments
+permalink: pretty
+
+
+
+
+# Site settings
+title: “Thinker”
+description: > # this means to ignore newlines until "email:"
+   Gisadan’s Thought
+
+email: hyunsoo56@naver.com
+#blog logo
+logo: "/assets/images/gt_logo.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: ‘Gisadan’
+author: ‘Gisadan’
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://gisadan.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter-square
+    url:	https://twitter.com/hyunsoo56
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook-square
+    url:	
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	envelope
+    url:	mailto:hyunsoo56@naver.com
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	rss-square
+    url:	http://gisadan.github.io/feed.xml
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	archive
+    url:	/archive
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:

@@ -1,0 +1,125 @@
+---  
+layout: post  
+title: ✚ bigfoot(빅풋) 스타일 변경하는 법2
+tag: bigfoot, 빅풋, 스타일
+---  
+
+빅풋의 css파일을 변경했다. 그 이유는 페이지 맨 밑에 있는 각주옆에 화살표를 눌렀을 때 해당 각주의 본문으로 돌아오는 기능이 작동하지 않았기 때문이다. .js파일과 .css파일을 여러번 바꿔봤지만 결론은 min.js는 순정을 쓰고 .css는 제대로 된 numbering 스타일을 쓰는 것이 좋다. .css 파일이 변경되서 다시한 번 포스팅한다.
+
+
+.bigfoot-footnote__button {
+  position: relative;
+  z-index: 5;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  display: inline-block;
+  padding: 0.35em;
+  **margin: 0 0.1em 0 -0.3em;** [^1]
+  **border: 2px solid #ff6347;** [^2]
+  border-radius: 1em;
+  cursor: pointer;
+  background-color: rgba(110, 110, 110, 0.4);
+  -webkit-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+  **font-size: 1rem;** [^3]
+  line-height: 0;
+  vertical-align: middle;
+  text-decoration: none;
+  font-smoothing: antialiased;
+  -webkit-transition-property: background-color;
+  transition-property: background-color;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+}
+
+.bigfoot-footnote__button {
+  position: relative;
+  **height: 1.2em;** [^4]
+  **width: 30px;** [^5]
+  **border-radius: 1em;** [^6]
+  **top: -0.4em;** [^7]
+  padding-top: 0.4em;
+
+}
+
+
+.bigfoot-footnote__button:hover,
+.bigfoot-footnote__button:focus {
+  outline: none;
+  **background-color: rgba(110, 110, 110, 0.8);** [^8]
+}
+
+.bigfoot-footnote__button:active {
+  **background-color: rgba(110, 110, 110, 0.8);** [^9]
+}
+
+.bigfoot-footnote {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  max-width: 90%;
+  margin: 1.96924em 0;
+  background: #fafafa;
+  opacity: 0;
+  border-radius: 0.5em;
+  **border: 2px solid #ff6347;** [^10]
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+  line-height: 0;
+  
+  .bigfoot-footnote__content {
+  position: relative;
+  z-index: 8;
+  display: inline-block;
+  max-height: 15em;
+  **padding: 1.2em 1.3em 0em;** [^11]
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  background: #fafafa;
+  border-radius: 0.5em;
+  font-smoothing: subpixel-antialiased;
+  line-height: normal;
+}
+
+.bigfoot-footnote__tooltip {
+  position: absolute;
+  z-index: 12;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-left: -0.65em;
+  width: 1.3em;
+  height: 1.3em;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  background: #fafafa;
+  **border: 2px solid #ff6347;** [^12]
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  border-top-left-radius: 0;
+}
+
+---
+[^1]: 버튼 주위에 여백을 조절한다.
+[^2]: 버튼 경계의 색깔과 굵기를 조절한다.
+[^3]: 버튼의 글자크기를 조절한다.
+[^4]: 버튼의 높이를 조절한다.
+[^5]: 버튼의 폭을 조절한다.
+[^6]: 버튼 좌우의 원의 반경인데 지금 수치가 가장 좋다.
+[^7]: 버튼을 정 가운데에서 위로 치우치게 만드는데 쓰인다. 윗 첨자처럼
+[^8]: 마우스가 버튼 위로 올라갔을 때 배경색의 변화를 타나내는데 rvba의 괄호안에 맨 마지막이 진하기를 조절한다.
+[^9]: 실제 버튼을 눌렀을 때 배경색이다. 위의 9번과 동일하게 맞춰주는 것이 좋다.
+[^10]: 버튼을 눌렀을 때 테두리의 굵기와 색을 조절한다.
+[^11]: 버튼을 눌렀을 때 뜨는 창의 크기를 조절할 수 있다. 직접적으로 창을 조절하는 것이 아니라 글자 여백 때문에 늘어나는 창의 여백을 조절한다.
+[^12]: 버튼을 눌렀을 때 글자와 연결되는 삼각형 모양의 테두리의 굵기와 색을 조절한다.

@@ -1,0 +1,22 @@
+---
+layout: post
+title: ✚ Bigfoot(빅풋)이란? 
+---  
+
+**아래 글의 내용은 읽어볼 필요가 없다**.. 그것보다 글 중간중간에 있는 숫자[^5]을 눌러보면 빅풋이 뭔지 알게된다.
+
+introduction[^1]
+Footnotes on the web are a pain in the ass. You click on a tiny number, get transported somewhere near the bottom of the page, find the footnote you were looking for, and click[^2] on a link to go back to where you were on the page.
+
+This script looks to make that whole process painless. It automatically detects the footnote link and content, turns the link into an easy-to-click button, and puts up a popover when the reader clicks on the footnote button.[^3]
+
+The script and default styles are built to work great on any size viewport; the popover will be positioned on the top/ bottom automatically (based on the relative amount of space), will update its location[^4] as the viewport changes size, and will ensure that the popover never scrolls offscreen. All of that adds up to a much-improved user experience.
+
+
+
+---
+[^1]: 테스트중~  
+[^2]: 잘 되나??
+[^3]: 어떻게 햇지? 왜 됐지??
+[^4]: 되기만 하면 된다!
+[^5]: 신기하지 않은가?

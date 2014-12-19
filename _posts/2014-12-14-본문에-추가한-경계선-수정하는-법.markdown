@@ -1,0 +1,23 @@
+---  
+layout: post  
+title: ✚ 본문에 추가한 경계선 수정하는 법
+---  
+
+1\. main.css를 텍스트 편집기로 연다.  
+2\. hr를 찾아 본다.  
+3\. 아래의 내용이 나올 것이다.  
+
+~~~
+    hr
+      border: 0
+      padding: 0
+      display: block
+      width: 90%
+      margin: 30px auto
+      border: 0px solid #ddd
+      border-top: 1px solid #ddd
+      
+~~~
+{:.language-ruby}
+
+4\. 난 특히 width를 수정했다. 처음에 15%였다. 매우 보기 싫었다.

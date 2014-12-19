@@ -1,0 +1,30 @@
+---
+layout: post
+title: ✚ 소셜아이콘의 크기를 조절하는 법
+---  
+우선, 소셜아이콘이랑 이 페이지 우측 하단쯤에 보이는 트위터와 페이스북같은 아이콘을 말한다. 저 아래 있는 아이콘이 사실 지금 보이는 것보다 절반밖에 되질 않았다. 그러한 이유로 있는 지 없는 지 모를 정도였다. 그래서 여러 방면으로 조사해본 결과 비교적 빠르게 크기를 키우는 법을 알 수 있었다. 다음의 순서를 따르면 된다.
+
+1\. post.html 파일을 사파리로 불러온다.  
+2\. 그리고 마우스 오른쪽을 클릭해 "소스보기"를 누른다.  
+3\. 아래 구문을 찾아  
+변경전  
+
+~~~
+<i class="fa fa-{{ social.icon }}"></i>  
+<span class="hidden">`
+~~~
+{:.language-ruby}
+
+4\. 다음과 같이 바꾼다.▼  
+변경 후  
+
+~~~
+<i class="fa fa-{{ social.icon }} fa-2x"></i>  
+<span class="hidden">  
+~~~
+{:.language-ruby}
+
+                
+---  
+* 참고 사이트   
+[아이콘 키우는 법](http://fortawesome.github.io/Font-Awesome/examples/)

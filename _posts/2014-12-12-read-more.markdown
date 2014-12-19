@@ -1,0 +1,51 @@
+---
+layout: post
+title: ✚ Read more 버튼을 만드는 법
+---
+
+Read more 버튼을 만드는 법은 생각보다 간단하다. 지금까지 다른 작업에 바하면.. 
+ 
+1. cd gisadan.github.io 를 누른다.
+2. jekyll serve —watch 를 키고 나서
+3. 인터넷 창에서 http://localhost:4000/ 를 켜 놓고 작업한다.
+4. 위에는 1,2,3은 안해도 되지만 해놓으면 수정 여부를 쉽게 확인가능하다.
+5. 그리고 gisadan.github.io로 이동한다.
+6. index.html를 더블 클릭해서 실행시킨다.
+7. 사파리 기준으로 오른쪽마우스를 클릭해서 '소스보기'를 누른다.
+   
+~~~   
+<header class="post-header">
+             <h2 class="post-title" itemprop="name">
+ <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+</header>
+<section class="post-excerpt" itemprop="description">
+<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            </section>
+
+============================================================
+여기서부터 시작이다. 위에는 넣을 위치를 파악할 수 있도록 하기 위해 첨부했다. 
+<p style="text-align:right"> <a href="{{ post.url }}" class="more-link"><span class="post-read-more-link">Read more  
+</span></a></p>  
+<style type="text/css">
+a:link { color: rgb(179, 111, 73); text-decoration: none;} 
+a:visited { color: rgb(162, 162, 162); text-decoration: none;} 
+a:hover { color: rgb(34, 33, 81); text-decoration:none ;}
+</style>
+여기가 끝이다. 아래는 넣을 위치를 참고할 수 있도록 하기 위해 첨부했다.
+============================================================
+
+<div class="post-meta">
+~~~
+{:.language-ruby}
+
+* 아래는 현재 내 스탈이다. - 2014-12-15
+
+~~~
+<p style="text-align:right"> <a href="{{ post.url }}" class="more-link"><span class="post-read-more-link"><span style="font-size:19px; ">Read more</span></span></a></p>
+			  <style type="text/css">
+  a:link { color: rgb(179, 111, 73); text-decoration: none;} 
+  a:visited { color: rgb(179, 111, 73); text-decoration: none;} 
+  a:hover { color: rgb(179, 111, 73); text-decoration:underline ;}
+			  </style>
+~~~
+{:.language-ruby}

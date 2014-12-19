@@ -1,0 +1,41 @@
+---  
+layout: post  
+title: ✚ 글자색을 바꾸는 html 코드 
+---  
+블로그의 스타일을 바꿀 때 반드시 필요한 것이 '코드'이다. 하지만 이를 배운적이 없어서 몇몇개만 이용중인데 그나마도 할 때마다 검색을 하니 효율이 매우 떨어지고, 시간이 많이 든다. 그래서 내 블로그에 포스팅해 두면 나중에 좀 더 편하게 찾을 수 있을 것 같아 이렇게 글을 쓰게 됐다. 정말 기초지만, 전체 css스타일 대로 적용된 것 말고 특정 글에만 글의 크기나 색깔을 바꾸고 싶을 때가 있다. 그럴때 사용하면 좋다.
+1\. 문단 스타일이다. 보통 `<p>글자 글자</p>` 이런식인데 스타일일 바꾸고 싶다면 다음과 같이 하면된다.▼
+
+~~~
+<p style="font-size: 00px; line-height: 1.4px"> 글자 글자 </p>
+~~~
+{:.language-ruby}
+
+2\. 이를 응용하면 각종 `<span></span>`등등에 응용할 수 있다.▼
+
+~~~
+<span style="font-size: 00px; line-height: 1.4px"> 글자 글자 </span>
+~~~
+{:.language-ruby}
+
+3\. font는 다음과 같이 이용된다.▼
+
+~~~
+<body>
+<p><font>기본값 3</font><br>
+<font size="3">폰트 사이즈 3</font></p>
+<p><font size="6">폰트 사이즈 6</font><br>
+<font size="+3">폰트 사이즈(기본값3+3) 6</font></p>
+<p><font size="2">폰트 사이즈 2</font><br>
+<font size="-1">폰트 사이즈(기본값3-1) 2</font></p>
+<p><font size="7">폰트 사이즈 7</font><br>
+<font size="+6">폰트 사이즈(기본값3+6=9[X]) 7</font><br>
+폰트 사이즈는 7보다 클 수 없으므로 최대값인 7이 됩니다.</p>
+</body>
+</html>
+~~~
+{:.language-ruby}
+
+
+---
+* 더 많은 자료는 아래에
+[html코드](http://blog.naver.com/naripuru/220175714978)
