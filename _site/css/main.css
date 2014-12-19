@@ -2085,22 +2085,6 @@ body {
 .post-tag-articleimage {
   display: none; }
 
-pre,
-code {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eee; }
-
-code {
-  padding: 1px 5px; }
-
-pre {
-  padding: 8px 3px;
-  overflow-x: scroll; }
-  pre > code {
-    border: 0; }
-
 .center-image {
   margin: 0 auto;
   display: block; }
