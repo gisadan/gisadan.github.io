@@ -6,97 +6,9 @@
 </description>
     <link>http://gisadan.github.io/</link>
     <atom:link href="http://gisadan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Dec 2014 00:24:45 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2014 00:24:45 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2014 00:28:01 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2014 00:28:01 +0900</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
-    
-      <item>
-        <title>✚ coderay 테스트</title>
-        <description>&lt;p&gt;1. 내 경우는 main.sass 파일을 가지고 있는데 여기에 아래 코드를 붙여넣었다.  &lt;/p&gt;
-
-&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;.center-image
-  &lt;span style=&quot;color:#606&quot;&gt;margin&lt;/span&gt;: &lt;span style=&quot;color:#00D&quot;&gt;0&lt;/span&gt; auto
-  &lt;span style=&quot;color:#606&quot;&gt;display&lt;/span&gt;: block
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;2. 그리고 markdown을 redcarpet에서 kramdown으로 바꿨다. 그러기위해 터미널에 명령어를 입력했다.  &lt;/p&gt;
-
-&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;sudo gem install kramdown
-sudo gem install coderay
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;3. 그리고 나서 config.yml 파일에 다음과 같이 붙여넣었다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#777&quot;&gt;# Build settings&lt;/span&gt;
-&lt;span style=&quot;color:#606&quot;&gt;markdown&lt;/span&gt;: kramdown
-&lt;span style=&quot;color:#606&quot;&gt;kramdown&lt;/span&gt;:
-    &lt;span style=&quot;color:#606&quot;&gt;input&lt;/span&gt;: &lt;span style=&quot;color:#036;font-weight:bold&quot;&gt;GFM&lt;/span&gt;
-&lt;span style=&quot;color:#606&quot;&gt;kramdown&lt;/span&gt;:
-  &lt;span style=&quot;color:#606&quot;&gt;auto_ids&lt;/span&gt;:      &lt;span style=&quot;color:#069&quot;&gt;true&lt;/span&gt;
-  &lt;span style=&quot;color:#606&quot;&gt;footnote_nr&lt;/span&gt;:   &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;
-  &lt;span style=&quot;color:#606&quot;&gt;entity_output&lt;/span&gt;: as_char
-  &lt;span style=&quot;color:#606&quot;&gt;toc_levels&lt;/span&gt;:    &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;..&lt;span style=&quot;color:#00D&quot;&gt;6&lt;/span&gt;
-  &lt;span style=&quot;color:#606&quot;&gt;smart_quotes&lt;/span&gt;:  lsquo,rsquo,ldquo,rdquo
-  &lt;span style=&quot;color:#606&quot;&gt;use_coderay&lt;/span&gt;:   &lt;span style=&quot;color:#069&quot;&gt;true&lt;/span&gt;
-
-  &lt;span style=&quot;color:#606&quot;&gt;coderay&lt;/span&gt;:
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_wrap&lt;/span&gt;:              div
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_line_numbers&lt;/span&gt;:      &lt;span style=&quot;color:#069&quot;&gt;nil&lt;/span&gt;
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_line_number_start&lt;/span&gt;: &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_tab_width&lt;/span&gt;:         &lt;span style=&quot;color:#00D&quot;&gt;4&lt;/span&gt;
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_bold_every&lt;/span&gt;:        &lt;span style=&quot;color:#00D&quot;&gt;10&lt;/span&gt;
-    &lt;span style=&quot;color:#606&quot;&gt;coderay_css&lt;/span&gt;:               style
-
-
-&lt;span style=&quot;color:#606&quot;&gt;highlighter&lt;/span&gt;: pygments
-&lt;span style=&quot;color:#606&quot;&gt;permalink&lt;/span&gt;: &lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;:title&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;4. 이제 마크다운으로 글을 작성하면서 이미지를 넣을 때 마지막에 ‘‘만 붙여넣으면 이미지가 가운데 정렬된다.  &lt;/p&gt;
-
-&lt;p&gt;5. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. &lt;/p&gt;
-
-&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color:#06B;font-weight:bold&quot;&gt;what?&lt;/span&gt;
-  &lt;span style=&quot;color:#00D&quot;&gt;42&lt;/span&gt;
-&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;end&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color:#06B;font-weight:bold&quot;&gt;what?&lt;/span&gt;
-  &lt;span style=&quot;color:#00D&quot;&gt;42&lt;/span&gt;
-&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;end&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;pre lang=&quot;ruby&quot;&gt;&lt;code&gt;puts &quot;hello world&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre lang=&quot;ruby&quot;&gt;&lt;code&gt;def hello
-  puts &quot;hello world&quot;
-end
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 19 Dec 2014 00:00:00 +0900</pubDate>
-        <link>http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/</link>
-        <guid isPermaLink="true">http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/</guid>
-        
-        
-      </item>
     
       <item>
         <title>✚ 마크다운에서 이미지 가운데 정렬하는 법</title>
@@ -290,6 +202,94 @@ ol.CodeRay li { white-space: pre }
         <pubDate>Fri, 19 Dec 2014 00:00:00 +0900</pubDate>
         <link>http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8/</link>
         <guid isPermaLink="true">http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>✚ coderay 테스트</title>
+        <description>&lt;p&gt;1. 내 경우는 main.sass 파일을 가지고 있는데 여기에 아래 코드를 붙여넣었다.  &lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;.center-image
+  &lt;span style=&quot;color:#606&quot;&gt;margin&lt;/span&gt;: &lt;span style=&quot;color:#00D&quot;&gt;0&lt;/span&gt; auto
+  &lt;span style=&quot;color:#606&quot;&gt;display&lt;/span&gt;: block
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2. 그리고 markdown을 redcarpet에서 kramdown으로 바꿨다. 그러기위해 터미널에 명령어를 입력했다.  &lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;sudo gem install kramdown
+sudo gem install coderay
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;3. 그리고 나서 config.yml 파일에 다음과 같이 붙여넣었다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#777&quot;&gt;# Build settings&lt;/span&gt;
+&lt;span style=&quot;color:#606&quot;&gt;markdown&lt;/span&gt;: kramdown
+&lt;span style=&quot;color:#606&quot;&gt;kramdown&lt;/span&gt;:
+    &lt;span style=&quot;color:#606&quot;&gt;input&lt;/span&gt;: &lt;span style=&quot;color:#036;font-weight:bold&quot;&gt;GFM&lt;/span&gt;
+&lt;span style=&quot;color:#606&quot;&gt;kramdown&lt;/span&gt;:
+  &lt;span style=&quot;color:#606&quot;&gt;auto_ids&lt;/span&gt;:      &lt;span style=&quot;color:#069&quot;&gt;true&lt;/span&gt;
+  &lt;span style=&quot;color:#606&quot;&gt;footnote_nr&lt;/span&gt;:   &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;
+  &lt;span style=&quot;color:#606&quot;&gt;entity_output&lt;/span&gt;: as_char
+  &lt;span style=&quot;color:#606&quot;&gt;toc_levels&lt;/span&gt;:    &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;..&lt;span style=&quot;color:#00D&quot;&gt;6&lt;/span&gt;
+  &lt;span style=&quot;color:#606&quot;&gt;smart_quotes&lt;/span&gt;:  lsquo,rsquo,ldquo,rdquo
+  &lt;span style=&quot;color:#606&quot;&gt;use_coderay&lt;/span&gt;:   &lt;span style=&quot;color:#069&quot;&gt;true&lt;/span&gt;
+
+  &lt;span style=&quot;color:#606&quot;&gt;coderay&lt;/span&gt;:
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_wrap&lt;/span&gt;:              div
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_line_numbers&lt;/span&gt;:      &lt;span style=&quot;color:#069&quot;&gt;nil&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_line_number_start&lt;/span&gt;: &lt;span style=&quot;color:#00D&quot;&gt;1&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_tab_width&lt;/span&gt;:         &lt;span style=&quot;color:#00D&quot;&gt;4&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_bold_every&lt;/span&gt;:        &lt;span style=&quot;color:#00D&quot;&gt;10&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;coderay_css&lt;/span&gt;:               style
+
+
+&lt;span style=&quot;color:#606&quot;&gt;highlighter&lt;/span&gt;: pygments
+&lt;span style=&quot;color:#606&quot;&gt;permalink&lt;/span&gt;: &lt;span style=&quot;background-color:hsla(300,100%,50%,0.06)&quot;&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#808&quot;&gt;:title&lt;/span&gt;&lt;span style=&quot;color:#404&quot;&gt;/&lt;/span&gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;4. 이제 마크다운으로 글을 작성하면서 이미지를 넣을 때 마지막에 ‘‘만 붙여넣으면 이미지가 가운데 정렬된다.  &lt;/p&gt;
+
+&lt;p&gt;5. 여기서 kramdown의 coderay효과를 제대로 사용하기위해 _sass폴더에 _syntax-highlighting.scss 파일의 내용을 전부 아래 내용으로 바꾼다. 그러면 코드블럭이 지정된 곳이 알록달록하게 변하는 것을 볼 수 있다. &lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color:#06B;font-weight:bold&quot;&gt;what?&lt;/span&gt;
+  &lt;span style=&quot;color:#00D&quot;&gt;42&lt;/span&gt;
+&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;end&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color:#06B;font-weight:bold&quot;&gt;what?&lt;/span&gt;
+  &lt;span style=&quot;color:#00D&quot;&gt;42&lt;/span&gt;
+&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;end&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre lang=&quot;ruby&quot;&gt;&lt;code&gt;puts &quot;hello world&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre lang=&quot;ruby&quot;&gt;&lt;code&gt;def hello
+  puts &quot;hello world&quot;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 19 Dec 2014 00:00:00 +0900</pubDate>
+        <link>http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5/</link>
+        <guid isPermaLink="true">http://gisadan.github.io/2014/12/19/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5/</guid>
         
         
       </item>
