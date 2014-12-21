@@ -7,21 +7,13 @@
 
 @import "bigfoot-default"
 
-@import "colors"
-
-@import 'styles'
-
-@import 'coderay-github'
-
-@import 'me'
-
 .cf
   @include clearfix
 
 $rs: 16px
 
-$font-serif: Linux Libertine 0
-$font-sans: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-serif: Linux Libertine 
+$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
 
 @mixin respond-to($breakpoint)
@@ -644,35 +636,4 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
-
-
-.center-image
-  margin: 0 autos
-  display: block
-
-
-.CodeRay 
-  background-color: #efefef
-  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace
-  color: #000
-  margin-bottom: 14px
-
-
-.CodeRay pre 
-  margin: 0px
-  padding: 1em
-
-
-/* overrides of the lousy styles from _syntax.scss */
-.CodeRay pre 
-  background: none
-  color: #000
-
-
-/* fixes issue where the whole line wouldn't get colored in a diff */
-.CodeRay span.insert, .CodeRay span.change, .CodeRay span.delete 
-  width: auto
-
-
-@import "coderay-github"
 

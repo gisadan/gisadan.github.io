@@ -1,27 +1,18 @@
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-kramdown:
-  auto_ids:      true
-  footnote_nr:   1
-  entity_output: as_char
-  toc_levels:    1..6
-  smart_quotes:  lsquo,rsquo,ldquo,rdquo
-  use_coderay:   true
-
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      nil
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
+markdown: redcarpet
 highlighter: pygments
-permalink: pretty
+permalink: /:title/
 
-
+redcarpet:
+    extensions: 
+      - no_intra_emphasis
+      - fenced_code_blocks
+      - tables
+      - strikethrough
+      - superscript
+      - autolink
+      - hard_wrap
+      - footnotes
 
 
 # Site settings
