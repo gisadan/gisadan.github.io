@@ -6,8 +6,8 @@
 </description>
     <link>http://gisadan.github.io/</link>
     <atom:link href="http://gisadan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Dec 2014 16:19:38 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Dec 2014 16:19:38 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2014 16:29:42 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2014 16:29:42 +0900</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -23,18 +23,15 @@
 
   &lt;p&gt;내가 제안한 유일한 개선방안은 가짜 태그들 대신에 진짜 컨텍스트(context)로 별을 사용하는 것이다. 그런 다음 “Today’s Score” Perspective을 만들면 된다. 그것은 완료된 일들만 걸러줄 것이고, ‘완료된’ 으로 그룹짓고 컨텍스트로 분류할 것이다. 당신의 매일을 게임으로 만든 것을 좀 더 도와주기 위한 도구인 채워지지 않은 점수판은 일을 미루는 습관과 싸워줄 것이다.&lt;/p&gt;
 
-  &lt;div id=&quot;english&quot;&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Thomas Gamstaetter offers another creative take on Contexts and introduces a little bit of gamification in his blog post titled “Stars: An Energy- and Yield-based System for Processing Tasks in OmniFocus”.  &lt;/p&gt;
-
-  &lt;p&gt;He illustrates how you can use the ‘Find text’ filter in custom OmniFocus Perspective to batch similar tasks together which obviously ticks the box for personal productivity best practices.  &lt;/p&gt;
-
-  &lt;p&gt;The truly creative touch comes with Thomas’ approach to introduce some fun to checking off tasks: Using the common ★ to ★★★★★ stars system to rate the impact of a task he introduces the concept of gamification to OmniFocus. At the end of each day you can just add up the number of stars associated with your completed tasks and get your score. Now you can chase your own high score every day.  &lt;/p&gt;
-
-  &lt;p&gt;The only improvement I would suggest is to use the stars as real Contexts instead of pseudo tags and then create a “Today’s Score” Perspective that filters for ‘Completed’ tasks, groups by ‘Completed’ and sorts by Context. The missing scoreboard to complement the gamification of your daily fight against procrastination.&amp;lt;/div&amp;gt;&amp;lt;p style=&quot;text-align:right&quot;&amp;gt;&lt;a href=&quot;#english&quot; onclick=&quot;kuisin(&#39;english&#39;); return false;&quot;&gt;English&lt;/a&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
+  &lt;div id=&quot;english&quot; style=&quot;display:none&quot;&gt;
+Thomas Gamstaetter offers another creative take on Contexts and introduces a little bit of gamification in his blog post titled &quot;Stars: An Energy- and Yield-based System for Processing Tasks in OmniFocus&quot;.  
+ 
+He illustrates how you can use the &#39;Find text&#39; filter in custom OmniFocus Perspective to batch similar tasks together which obviously ticks the box for personal productivity best practices.  
+ 
+The truly creative touch comes with Thomas&#39; approach to introduce some fun to checking off tasks: Using the common ★ to ★★★★★ stars system to rate the impact of a task he introduces the concept of gamification to OmniFocus. At the end of each day you can just add up the number of stars associated with your completed tasks and get your score. Now you can chase your own high score every day.  
+ 
+The only improvement I would suggest is to use the stars as real Contexts instead of pseudo tags and then create a &quot;Today&#39;s Score&quot; Perspective that filters for &#39;Completed&#39; tasks, groups by &#39;Completed&#39; and sorts by Context. The missing scoreboard to complement the gamification of your daily fight against procrastination.&lt;/div&gt;
+  &lt;p style=&quot;text-align:right&quot;&gt;&lt;a href=&quot;#english&quot; onclick=&quot;kuisin(&#39;english&#39;); return false;&quot;&gt;English&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;

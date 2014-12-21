@@ -3453,3 +3453,59 @@ ol.CodeRay li {
 
 .CodeRay .head .head {
   color: #f4f; }
+
+english {
+  width: 100;
+  font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  color: #333; }
+  english h1, english h2, english h3 {
+    font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; }
+  english p {
+    font-weight: 400;
+    font-style: light;
+    font-size: 19px;
+    line-height: 1.7;
+    margin: 0;
+    padding-bottom: 30px;
+    color: #333;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto; }
+  english a {
+    color: #ff6347;
+    text-decoration: none; }
+    english a:hover {
+      color: #ff6347;
+      text-decoration: underline; }
+    english a:visited {
+      color: #828282;
+      text-decoration: none; }
+  english blockquote {
+    margin: 0 0 30px;
+    margin-left: 3px;
+    border-left: 3px solid #828282;
+    padding-left: 15px; }
+    english blockquote p {
+      letter-spacing: 0.01rem;
+      font-weight: 400;
+      font-style: light;
+      mborder-left: 5px solid #57ad68;
+      mpadding-left: 20px;
+      mmargin-left: -26px;
+      padding-bottom: 3px; }
+  english ul, english ol {
+    padding: 0 0 30px;
+    margin: 0; }
+  english li {
+    padding: 0;
+    font-weight: 400;
+    font-style: Merriweather;
+    font-size: 19px;
+    line-height: 1.7;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    padding-top: 0px; }
+    english li p {
+      padding: 0 0; }
+  english ol li {
+    list-style-type: decimal; }
