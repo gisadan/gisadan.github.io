@@ -16,9 +16,9 @@ title: ✚ 옴니포커스의 context를 다루는 창의적인 방법.
 
 
 <div id="english" style="display:none">
-<p>Thomas Gamstaetter offers another creative take on Contexts and introduces a little bit of gamification in his blog post titled "Stars: An Energy- and Yield-based System for Processing Tasks in OmniFocus".
+<p>Thomas Gamstaetter offers another creative take on Contexts and introduces a little bit of gamification in his blog post titled "Stars: An Energy- and Yield-based System for Processing Tasks in OmniFocus".</p>
 
-He illustrates how you can use the 'Find text' filter in custom OmniFocus Perspective to batch similar tasks together which obviously ticks the box for personal productivity best practices.
+<p>He illustrates how you can use the 'Find text' filter in custom OmniFocus Perspective to batch similar tasks together which obviously ticks the box for personal productivity best practices.</p>
 
 The truly creative touch comes with Thomas' approach to introduce some fun to checking off tasks: Using the common ★ to ★★★★★ stars system to rate the impact of a task he introduces the concept of gamification to OmniFocus. At the end of each day you can just add up the number of stars associated with your completed tasks and get your score. Now you can chase your own high score every day. 
 
