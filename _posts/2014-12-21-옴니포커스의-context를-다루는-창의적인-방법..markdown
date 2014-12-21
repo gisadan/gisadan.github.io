@@ -15,8 +15,7 @@ title: ✚ 옴니포커스의 context를 다루는 창의적인 방법.
 >
 >
 >
-><div id="english">
-
+<div id="english">
 >Thomas Gamstaetter offers another creative take on Contexts and introduces a little bit of gamification in his blog post titled "Stars: An Energy- and Yield-based System for Processing Tasks in OmniFocus".  
 >  
 >He illustrates how you can use the 'Find text' filter in custom OmniFocus Perspective to batch similar tasks together which obviously ticks the box for personal productivity best practices.  
