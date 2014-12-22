@@ -11,10 +11,8 @@ permalink: /archive/
 {% if forloop.index != 1 %}</ul>{% endif %}
 <h3>{{ post.date | date: '%Y년 %m월' }}</h3><ul>
 {% endif %}
-<p style="margin-bottom:-25px; padding-bottom:size:-10px;"> <a href="{{ post.url }}">{{ post.title }}</a> <span class="date"><Font style="color: #828282; font-size: 13px;">({{ post.date | date: "%m-%d" }})</font></span> </p>
-  a:link { color: rgb(237, 169, 0); text-decoration: none;} 
-  a:visited { color: rgb(237, 169, 0); text-decoration: none;} 
-  a:hover { color: rgb(237, 169, 0); text-decoration:underline ;}
+<p style="margin-bottom:-25px; padding-bottom:size:-10px;"> <a href="{{ post.url }}">{{ post.title }}</a>
+<span class="date"><Font style="color: #828282; font-size: 13px;">({{ post.date | date: "%m-%d" }})</font></span> </p>
 {% endfor %}
 
 </article>

@@ -2863,14 +2863,11 @@ body {
     -moz-hyphens: auto;
     hyphens: auto; }
   .post .post-content a {
-    color: #ff6347;
-    text-decoration: none; }
+    color: #C98500;
+    text-decoration: underline; }
     .post .post-content a:hover {
-      color: #ff6347;
+      color: #6F2B00;
       text-decoration: underline; }
-    .post .post-content a:visited {
-      color: #ff6347;
-      text-decoration: none; }
   .post .post-content img {
     max-width: 100%;
     margin: 0 auto; }
