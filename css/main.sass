@@ -43,7 +43,6 @@ body
   -webkit-font-smoothing: antialiased
   -moz-font-feature-settings: "liga=1, dlig=1"
   -ms-font-feature-settings: "liga", "dlig"
-  -webkit-font-feature-settings: "liga", "dlig"
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
@@ -161,6 +160,7 @@ body
         color: #333332
         &:hover
           text-decoration: none
+          border-bottom: 1px dashed
     .post-excerpt
       letter-spacing: -0.02em
       font-weight: 300
@@ -412,13 +412,13 @@ body
       -moz-hyphens: auto
       hyphens: auto
     a
-      color: #ff6347
-      text-decoration: none
+      color: #EDA900
+      text-decoration: underline
       &:hover
-        color: #ff6347
-        text-decoration: underline
+        color: #EDA900
+        text-decoration: underline 
       &:visited
-        color: #ff6347
+        color: #EDA900
         text-decoration: none
     img
       max-width: 100%
