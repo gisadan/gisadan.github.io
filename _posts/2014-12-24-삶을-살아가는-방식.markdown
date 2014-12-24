@@ -1,0 +1,13 @@
+---  
+layout: post  
+title: ✚ 삶을 살아가는 방식
+---  
+
+The one thing에 나오는 글 중에 일부를 번역해봤다. 너무나 중요하고 가슴에 와닿는 말이여서 일을 발췌하고 번역해서 올려본다. 두고두고 잊지말고 저 방식을 내 삶의 방식으로 만들어야겠다.
+
+>나에게 있어서, Focusing Question은 삶의 방식이다. 나는 이 질문을 지렛대 역할을 할 가중 최우선순위를 찾을 때 사용하고, 내 마음을 빼앗아갈 가장 중요한 것을 만드는데 사용한다. 그리고 가장 큰 지출에 부합될 만한 것을 얻는데 사용한다. 결과가 절대적으로 중요할 때마다 나는 질문한다. 일어났을 때 그리고 하루를 시작할때, 나는 질문한다. 일하러 갈때 그리고 다시 집으로 갈 때, 나는 질문한다. What's the ONE Thing I can do such that by doing it everything else will be easier or unnecessary? 그리고 그 대답을 알았을 때도, 나는 끝임없이 질문한다. 연결고리를 찾을 때까지 그리고 내 모든 도미노를 줄 세울 때까지.
+
+<div id="english" style="display:none">
+For me, the Focusing Question is a way of life. I use it to find my most leveraged priority, make the most out of my time, and get the biggest bang for my buck. Whenever the outcome absolutely matters, I ask it. I ask it when I wake up and start my day. I ask it when I get to work, and again when I get home. What's the ONE Thing I can do such that by doing it everything else will be easier or unnecessary? And when I know the answer, I continue to ask it until I can see the connections and all my dominoes are lined up.</p></div><p style="text-align:right"><a href="#english" onclick="kuisin('english'); return false;">English</a></p>
+
+---
