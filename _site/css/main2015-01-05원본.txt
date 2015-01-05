@@ -1,6 +1,3 @@
----
----
-
 @import 'syntax-highlighting'
 
 @import 'bourbon/bourbon'
@@ -14,8 +11,6 @@
 @import 'coderay-github'
 
 @import 'me'
-
-
 
 
 .cf
