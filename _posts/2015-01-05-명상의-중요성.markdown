@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: ✚ 명상의 중요성
-image: /assets/article_images/2015-01-05-명상의-중요성/1.jpg
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---  
 
 흔히들 명상이 중요하다는 얘기 한번쯤은 들어봤을 것이다. 너무 자주들어서 인지 아니면 돈 들이지 않고 쉽게 할 수 있어서 인지 그 효과를 무시하는 경우가 많은 것 같다. 하지만 이는 큰 실수라고 할 수 있다. 
