@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: ✚ 명상의 중요성
-image: /assets/article_images/2015-01-05-명상의-중요성/1.JPG
+image: /assets/article_images/back.jpg
 ---  
 
 ####들어가며..

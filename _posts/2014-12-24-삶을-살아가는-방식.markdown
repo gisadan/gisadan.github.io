@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 삶을 살아가는 방식  
+image: /assets/article_images/back.jpg  
 ---  
 
 The one thing에 나오는 글 중에 일부를 번역해봤다. 너무나 중요하고 가슴에 와닿는 말이여서 일을 발췌하고 번역해서 올려본다. 두고두고 잊지말고 저 방식을 내 삶의 방식으로 만들어야겠다.
