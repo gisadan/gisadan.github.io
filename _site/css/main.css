@@ -2691,6 +2691,7 @@ body {
       color: #333; }
 
 .post .article-image {
+  height: 450px;
   position: absolute;
   background-color: #000;
   top: 0;
@@ -2726,7 +2727,7 @@ body {
     font-weight: 700;
     font-style: light;
     letter-spacing: -0.04em;
-    font-size: 50px;
+    font-size: 30px;
     line-height: 1.1;
     color: #fff;
     margin-bottom: 16px;
