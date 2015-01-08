@@ -2712,8 +2712,8 @@ body {
   .post .article-image .post-meta {
     position: absolute;
     bottom: 80px;
-    left: 30%;
-    right: 30%;
+    left: 27%;
+    right: 27%;
     z-index: 9;
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     -webkit-box-sizing: border-box;
