@@ -1,7 +1,6 @@
 ---  
 layout: post  
-title: ✚ [루머]12인치 맥북의 출시
-image: /assets/article_images/back.jpg  
+title: ✚ [루머]12인치 맥북의 출시 
 ---  
 [Back to the mac](http://macnews.tistory.com/2974) 블로그에 올라온 글이다.
 
