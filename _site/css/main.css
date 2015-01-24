@@ -2712,7 +2712,7 @@ body {
   .post .article-image .post-meta {
     position: absolute;
     bottom: 80px;
-    left: 27%;
+    left: 23%;
     right: 27%;
     z-index: 9;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -2857,7 +2857,7 @@ body {
     font-style: light;
     font-size: 17px;
     line-height: 1.7;
-    margin: -5px;
+    margin: -15px;
     padding-bottom: 30px;
     color: #000000;
     -webkit-hyphens: auto;
@@ -2896,9 +2896,9 @@ body {
     border-top: 1px solid #ddd; }
   .post .post-content blockquote {
     margin: 0 0 30px;
-    margin-left: -10px;
+    margin-left: -20px;
     border-left: 3px solid #C90000;
-    padding-left: 15px; }
+    padding-left: 30px; }
     .post .post-content blockquote p {
       letter-spacing: 0.01rem;
       font-weight: 400;
