@@ -2603,7 +2603,7 @@ body {
       display: block;
       font-size: 23px;
       line-height: 1.4;
-      margin: 0 0; }
+      margin: 0 0 0 -15px; }
       .content article .post-title a {
         text-decoration: none;
         color: #333332; }
@@ -2616,6 +2616,7 @@ body {
       font-style: light;
       font-size: 17px;
       line-height: 1.6;
+      margin: 0 0 0 -15px;
       color: #666665; }
     .content article .post-meta {
       font-size: 14px;
@@ -2804,17 +2805,17 @@ body {
   text-overflow: ellipsis; }
 .post .post-content {
   width: 100%;
-  font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: whitney;
   color: #333; }
   .post .post-content h1, .post .post-content h2, .post .post-content h3 {
-    font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; }
+    font-family: whitney; }
   .post .post-content h3 {
     letter-spacing: -0.02em;
     font-weight: 700;
     font-style: light;
     font-size: 1.5em;
     line-height: 1.43;
-    margin: 0;
+    margin: 0 0 0 -15px;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin-bottom: 4px; }
   .post .post-content h4 {
@@ -2823,7 +2824,7 @@ body {
     font-style: light;
     font-size: 23px;
     line-height: 1.3;
-    margin: 0;
+    margin: 0 0 0 -15px;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin-bottom: 4px; }
   .post .post-content h5 {
@@ -2832,7 +2833,7 @@ body {
     font-style: light;
     font-size: 1em;
     line-height: 1.2;
-    margin: 0;
+    margin: 0 0 0 -15px;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin-bottom: 4px; }
   .post .post-content h1 {
@@ -2841,7 +2842,7 @@ body {
     font-style: light;
     font-size: 2.25em;
     line-height: 1.5;
-    margin: 0;
+    margin: 0 0 0 -15px;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin-bottom: 4px; }
   .post .post-content h2 {
@@ -2850,6 +2851,7 @@ body {
     font-style: light;
     font-size: 1.75em;
     line-height: 1.4;
+    margin: 0 0 0 -15px;
     padding-top: 31px;
     margin-bottom: 4px; }
   .post .post-content p {
@@ -2857,7 +2859,7 @@ body {
     font-style: light;
     font-size: 17px;
     line-height: 1.7;
-    margin: -15px;
+    margin: 0 0 0 -15px;
     padding-bottom: 30px;
     color: #000000;
     -webkit-hyphens: auto;
