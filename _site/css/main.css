@@ -2602,7 +2602,7 @@ body {
       font-style: light;
       display: block;
       margin: 0 -15px 0 -15px;
-      font-size: 23px;
+      font-size: 25px;
       line-height: 1.4; }
       .content article .post-title a {
         text-decoration: none;
@@ -2713,8 +2713,8 @@ body {
   .post .article-image .post-meta {
     position: absolute;
     bottom: 80px;
-    left: 31%;
-    right: 27%;
+    left: 30%;
+    right: 30%;
     z-index: 9;
     font-family: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     -webkit-box-sizing: border-box;
@@ -2728,7 +2728,7 @@ body {
     font-weight: 700;
     font-style: light;
     letter-spacing: -0.04em;
-    font-size: 23px;
+    font-size: 25px;
     line-height: 1.1;
     color: #fff;
     margin-left: 5px;
@@ -2777,7 +2777,7 @@ body {
   font-weight: 700;
   font-style: light;
   letter-spacing: -0.04em;
-  font-size: 23px;
+  font-size: 25px;
   line-height: 1.1;
   color: #333332;
   margin-bottom: 16px; }
@@ -2856,13 +2856,12 @@ body {
     padding-top: 31px;
     margin-bottom: 4px; }
   .post .post-content p {
-    font-weight: 300;
-    font-style: light;
+    font-weight: 400;
     font-size: 17px;
     line-height: 1.7;
     margin: 0 -15px 0 -15px;
     padding-bottom: 30px;
-    color: #000000;
+    color: #333;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto; }
@@ -2919,7 +2918,7 @@ body {
     padding: 0;
     font-weight: 400;
     font-style: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
-    font-size: 19px;
+    font-size: 17px;
     line-height: 1.6;
     margin-left: 10px;
     margin-bottom: 0px;
