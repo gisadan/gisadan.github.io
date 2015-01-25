@@ -2915,7 +2915,7 @@ body {
     padding: 0 0 30px;
     margin: 0; }
   .post .post-content li {
-    padding: 0;
+    padding: 0 10px;
     font-weight: 400;
     font-style: Open Sans Regular, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-size: 17px;
