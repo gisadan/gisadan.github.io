@@ -6,7 +6,7 @@ title: ✚ The Core Curriculum
 [Shawn Blanc](http://shawnblanc.net/2015/01/the-core-curriculum/)블로그에 올라온 글에 대해 한 번 생각해 볼 필요가 있는 것같아 전문 번역을 해봤다.
 
 
->2015년 1월 19일 월요일 오후 11:44 via [Shawn Blanc](http://shawnblanc.net/2015/01/the-core-curriculum/)
+>2015년 1월 19일 월요일 오후 11:44 via Shawn Blanc
 >#####전제
 >
 >1. 오랜기간동안 우리를 사람으로 만들어 준 많은 책과, 연설, 기사, 설교, 인용문 그리고 대화들이 있다.
