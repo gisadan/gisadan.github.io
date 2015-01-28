@@ -8,9 +8,9 @@ title: ✚ The Core Curriculum
 >  
 >#####전제
 >
->1. 오랜기간동안 우리를 사람으로 만들어 준 많은 책과, 연설, 기사, 설교, 인용문 그리고 대화들이 있다.
->2. 우리가 새로운 것을 배울 때, 한정된 양의 정보만을 보유한다. 그리고 시간이 지나면 그 정보의 대한 해석과 회상이 점점 흐릿해진다.
->3. 중요한 정보를 신선하고 정확하게 유지하는 최고의 방법은 그것을 주기적으로 복습하는 것이다.
+>\1. 오랜기간동안 우리를 사람으로 만들어 준 많은 책과, 연설, 기사, 설교, 인용문 그리고 대화들이 있다.
+>\2. 우리가 새로운 것을 배울 때, 한정된 양의 정보만을 보유한다. 그리고 시간이 지나면 그 정보의 대한 해석과 회상이 점점 흐릿해진다.
+>\3. 중요한 정보를 신선하고 정확하게 유지하는 최고의 방법은 그것을 주기적으로 복습하는 것이다.
 >
 >#####생각: 핵심 과정
 >
@@ -40,9 +40,9 @@ title: ✚ The Core Curriculum
 ><p>January 19, 2015</p>
 >
 ><h5>Premise</h5>
->1. There are many books, speeches, articles, sermons, quotes, and conversations which have shaped us over the years into the people we are.
->2. We retain a limited amount information when learning something new, and our recollection and interpretation of that information gets foggier over time.
->3. The best way to keep important information fresh and accurate is to review it regularly.
+>\1. There are many books, speeches, articles, sermons, quotes, and conversations which have shaped us over the years into the people we are.
+>\2. We retain a limited amount information when learning something new, and our recollection and interpretation of that information gets foggier over time.
+>\3. The best way to keep important information fresh and accurate is to review it regularly.
 >
 ><h5>Idea: The Core Curriculum</h5>
 >
