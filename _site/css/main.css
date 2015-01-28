@@ -2942,11 +2942,6 @@ body {
       padding-top: 0px; }
       .post .post-content blockquote li p {
         padding: 0 0; }
-    .post .post-content blockquote ul, .post .post-content blockquote ol {
-      padding: 0 0 30px;
-      margin: 0; }
-    .post .post-content blockquote ol li {
-      list-style-type: decimal; }
     .post .post-content blockquote blockquote {
       margin: 0 0 30px;
       margin-left: -20px;
