@@ -20,7 +20,8 @@ title: ✚ 옴니포커스의 context를 다루는 창의적인 방법.
 >
 ><p>The truly creative touch comes with Thomas' approach to introduce some fun to checking off tasks: Using the common ★ to ★★★★★ stars system to rate the impact of a task he introduces the concept of gamification to OmniFocus. At the end of each day you can just add up the number of stars associated with your completed tasks and get your score. Now you can chase your own high score every day. </p>
 >
-><p>The only improvement I would suggest is to use the stars as real Contexts instead of pseudo tags and then create a "Today's Score" Perspective that filters for 'Completed' tasks, groups by 'Completed' and sorts by Context. The missing scoreboard to complement the gamification of your daily fight against procrastination.</p></div><p style="text-align:right"><a href="#english" onclick="kuisin('english'); return false;">English</a></p>
+><p>The only improvement I would suggest is to use the stars as real Contexts instead of pseudo tags and then create a "Today's Score" Perspective that filters for 'Completed' tasks, groups by 'Completed' and sorts by Context. The missing scoreboard to complement the gamification of your daily fight against procrastination.</p></div>
+<p style="text-align:right"><a href="#english" onclick="kuisin('english'); return false;">English</a></p>
 
 ---
 
