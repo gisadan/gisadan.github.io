@@ -58,63 +58,60 @@
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>
-          <p>코드 관련 글을 포스팅하다가 갑자기 push에서 오류가 나기 시작했다. 왜 이런 오류가 발생했을까?에 대해 계속해서 고민해본 결과 마크다운으로 작성한 내용중에 코드가 들어가면 그것을 인식하여 오류가 나는 것이었다. 이런 오류를 막기 위해 마크다운 문법중에는 “fenced code block”이라는 아주 좋은 기능이 있다. 보통은 ` ``` ` 혹은 <code>~~~</code>로 작동하는데 도통 무엇이 문제인지 아무리 저 문법을 사용해도 되지가 않았다. 이를 해결하기 위해 여러 차례 redcarpet을 재설치하려고 시간을 썼지만, 제대로 설치되지 않았다는 메일만 받기 일쑤였다. 열심히 구글링을 하면서 여러 방법을 시도했지만 번번히 실패했고, 우연히 누가 config.yml파일의 내용을 올려둔 것을 보고 내것과 다르다는 것을 발견했다. 그래서 그것을 그대로 적용했더니 성공적으로 작동했다.  </p>
+          <p>코드 관련 글을 포스팅하다가 갑자기 push에서 오류가 나기 시작했다. 왜 이런 오류가 발생했을까?에 대해 계속해서 고민해본 결과 마크다운으로 작성한 내용중에 코드가 들어가면 그것을 인식하여 오류가 나는 것이었다. 이런 오류를 막기 위해 마크다운 문법중에는 &quot;fenced code block&quot;이라는 아주 좋은 기능이 있다. 보통은 <code></code>`<code></code> 혹은 <code>~~~</code>로 작동하는데 도통 무엇이 문제인지 아무리 저 문법을 사용해도 되지가 않았다. 이를 해결하기 위해 여러 차례 redcarpet을 재설치하려고 시간을 썼지만, 제대로 설치되지 않았다는 메일만 받기 일쑤였다. 열심히 구글링을 하면서 여러 방법을 시도했지만 번번히 실패했고, 우연히 누가 config.yml파일의 내용을 올려둔 것을 보고 내것과 다르다는 것을 발견했다. 그래서 그것을 그대로 적용했더니 성공적으로 작동했다.  </p>
 
-<p>하는 방법은 다음과 같다.▼ <br />
-1. config.yml 파일을 텍스트 편집기로 연다.<br />
-2. 맨위에 Build settings가 있을 가능성이 크다.<br />
-3. 그리고 아래 보면 markdown: redcarpet 이라고 되어 있을텐데 나는 그 밑에 부터 없었다.<br />
-4. 그래서 아래 보이는 것처럼 redcarpet: extensions를 추가했다.<br />
+<p>하는 방법은 다음과 같다.▼<br><br>
+1. config.yml 파일을 텍스트 편집기로 연다.<br><br>
+2. 맨위에 Build settings가 있을 가능성이 크다.<br><br>
+3. 그리고 아래 보면 markdown: redcarpet 이라고 되어 있을텐데 나는 그 밑에 부터 없었다.<br><br>
+4. 그래서 아래 보이는 것처럼 redcarpet: extensions를 추가했다.<br><br>
 5. 그러니 보이기 시작했다.  </p>
+<div class="highlight"><pre><code class="language-text" data-lang="text"># Build settings
+markdown: redcarpet
+redcarpet:
+    extensions: [&quot;no_intra_emphasis&quot;, &quot;fenced_code_blocks&quot;, &quot;autolink&quot;, &quot;strikethrough&quot;, &quot;superscript&quot;, &quot;with_toc_data&quot;, &quot;tables&quot;]
 
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre><span style="color:#777"># Build settings</span>
-<span style="color:#606">markdown</span>: redcarpet
-<span style="color:#606">redcarpet</span>:
-    <span style="color:#606">extensions</span>: [<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">no_intra_emphasis</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">fenced_code_blocks</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">autolink</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">strikethrough</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">superscript</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">with_toc_data</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">tables</span><span style="color:#710">&quot;</span></span>]
+highlighter: pygments
 
-<span style="color:#606">highlighter</span>: pygments
+permalink: pretty
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
-<span style="color:#606">permalink</span>: pretty
-</pre></div>
-</div>
-</div>
+<hr>
 
-<hr />
 <p>2014-12-19 추가</p>
 
 <ul>
-  <li>
-    <p>kramdown
+<li>kramdown
 ~~~
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM
+input: GFM
 kramdown:
 auto_ids:      true
 footnote_nr:   1
 entity_output: as_char
 toc_levels:    1..6
 smart_quotes:  lsquo,rsquo,ldquo,rdquo
-use_coderay:   true</p>
-
-    <p>coderay:
-  coderay_wrap:              div
-  coderay_line_numbers:      nil
-  coderay_line_number_start: 1
-  coderay_tab_width:         4
-  coderay_bold_every:        10
-  coderay_css:               style</p>
-  </li>
+use_coderay:   true</li>
 </ul>
 
-<p class="language-ruby">highlighter: pygments
-permalink: /:title/
-~~~</p>
+<p>coderay:<br>
+    coderay_wrap:              div<br>
+    coderay_line_numbers:      nil<br>
+    coderay_line_number_start: 1<br>
+    coderay_tab_width:         4<br>
+    coderay_bold_every:        10<br>
+    coderay_css:               style</p>
+
+<p>highlighter: pygments<br>
+permalink: /:title/<br>
+~~~<br>
+{:.language-ruby}</p>
 
 <ul>
-  <li>redcarpet
+<li>redcarpet
 ~~~
 # Build settings
 markdown: redcarpet
@@ -122,17 +119,18 @@ highlighter: pygments
 permalink: /:title/</li>
 </ul>
 
-<p class="language-ruby">redcarpet:
-    extensions: 
-      - no_intra_emphasis
-      - fenced_code_blocks
-      - tables
-      - strikethrough
-      - superscript
-      - autolink
-      - hard_wrap
-      - footnotes
-~~~</p>
+<p>redcarpet:<br>
+    extensions: <br>
+      - no_intra_emphasis<br>
+      - fenced_code_blocks<br>
+      - tables<br>
+      - strikethrough<br>
+      - superscript<br>
+      - autolink<br>
+      - hard_wrap<br>
+      - footnotes<br>
+~~~<br>
+{:.language-ruby}</p>
 
         </section>
         <footer class="post-footer">

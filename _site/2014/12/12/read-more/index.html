@@ -61,55 +61,49 @@
           <p>Read more 버튼을 만드는 법은 생각보다 간단하다. 지금까지 다른 작업에 바하면.. </p>
 
 <ol>
-  <li>cd gisadan.github.io 를 누른다.</li>
-  <li>jekyll serve —watch 를 키고 나서</li>
-  <li>인터넷 창에서 http://localhost:4000/ 를 켜 놓고 작업한다.</li>
-  <li>위에는 1,2,3은 안해도 되지만 해놓으면 수정 여부를 쉽게 확인가능하다.</li>
-  <li>그리고 gisadan.github.io로 이동한다.</li>
-  <li>index.html를 더블 클릭해서 실행시킨다.</li>
-  <li>사파리 기준으로 오른쪽마우스를 클릭해서 ‘소스보기’를 누른다.</li>
+<li>cd gisadan.github.io 를 누른다.</li>
+<li>jekyll serve —watch 를 키고 나서</li>
+<li>인터넷 창에서 <a href="http://localhost:4000/">http://localhost:4000/</a> 를 켜 놓고 작업한다.</li>
+<li>위에는 1,2,3은 안해도 되지만 해놓으면 수정 여부를 쉽게 확인가능하다.</li>
+<li>그리고 gisadan.github.io로 이동한다.</li>
+<li>index.html를 더블 클릭해서 실행시킨다.</li>
+<li>사파리 기준으로 오른쪽마우스를 클릭해서 &#39;소스보기&#39;를 누른다.</li>
 </ol>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;header <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">post-header</span><span style="color:#710">&quot;</span></span>&gt;
-             &lt;h2 <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">post-title</span><span style="color:#710">&quot;</span></span> itemprop=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">name</span><span style="color:#710">&quot;</span></span>&gt;
- &lt;a href=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#710">&quot;</span></span> itemprop=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">url</span><span style="color:#710">&quot;</span></span>&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">a&gt;&lt;</span><span style="color:#404">/</span></span>h2&gt;
-&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">header&gt;
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;header class=&quot;post-header&quot;&gt;
+             &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;
+ &lt;a href=&quot;&quot; itemprop=&quot;url&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/header&gt;
 &lt;section class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
-&lt;p&gt;&lt;</span><span style="color:#404">/</span></span>p&gt;
-            &lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">section&gt;
+&lt;p&gt;&lt;/p&gt;
+            &lt;/section&gt;
 
 ============================================================
 여기서부터 시작이다. 위에는 넣을 위치를 파악할 수 있도록 하기 위해 첨부했다. 
 &lt;p style=&quot;text-align:right&quot;&gt; &lt;a href=&quot;&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;post-read-more-link&quot;&gt;Read more  
-&lt;</span><span style="color:#404">/</span><span style="color:#C2C">s</span></span>pan&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">a&gt;&lt;</span><span style="color:#404">/</span></span>p&gt;  
-&lt;style type=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">text/css</span><span style="color:#710">&quot;</span></span>&gt;
-<span style="color:#606">a</span>:link { <span style="color:#606">color</span>: rgb(<span style="color:#00D">179</span>, <span style="color:#00D">111</span>, <span style="color:#00D">73</span>); text-<span style="color:#606">decoration</span>: none;} 
-<span style="color:#606">a</span>:visited { <span style="color:#606">color</span>: rgb(<span style="color:#00D">162</span>, <span style="color:#00D">162</span>, <span style="color:#00D">162</span>); text-<span style="color:#606">decoration</span>: none;} 
-<span style="color:#606">a</span>:hover { <span style="color:#606">color</span>: rgb(<span style="color:#00D">34</span>, <span style="color:#00D">33</span>, <span style="color:#00D">81</span>); text-<span style="color:#606">decoration</span>:none ;}
-&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">style&gt;
+&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;  
+&lt;style type=&quot;text/css&quot;&gt;
+a:link { color: rgb(179, 111, 73); text-decoration: none;} 
+a:visited { color: rgb(162, 162, 162); text-decoration: none;} 
+a:hover { color: rgb(34, 33, 81); text-decoration:none ;}
+&lt;/style&gt;
 여기가 끝이다. 아래는 넣을 위치를 참고할 수 있도록 하기 위해 첨부했다.
 ============================================================
 
 &lt;div class=&quot;post-meta&quot;&gt;
-</span></span></pre></div>
-</div>
-</div>
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
 <ul>
-  <li>아래는 현재 내 스탈이다. - 2014-12-15</li>
+<li>아래는 현재 내 스탈이다. - 2014-12-15</li>
 </ul>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;p style=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">text-align:right</span><span style="color:#710">&quot;</span></span>&gt; &lt;a href=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#710">&quot;</span></span> <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">more-link</span><span style="color:#710">&quot;</span></span>&gt;&lt;span <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">post-read-more-link</span><span style="color:#710">&quot;</span></span>&gt;&lt;span style=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">font-size:19px; </span><span style="color:#710">&quot;</span></span>&gt;<span style="color:#036;font-weight:bold">Read</span> more&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">span&gt;&lt;</span><span style="color:#404">/</span><span style="color:#C2C">s</span></span>pan&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">a&gt;&lt;</span><span style="color:#404">/</span></span>p&gt;
-              &lt;style type=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">text/css</span><span style="color:#710">&quot;</span></span>&gt;
-  <span style="color:#606">a</span>:link { <span style="color:#606">color</span>: rgb(<span style="color:#00D">179</span>, <span style="color:#00D">111</span>, <span style="color:#00D">73</span>); text-<span style="color:#606">decoration</span>: none;} 
-  <span style="color:#606">a</span>:visited { <span style="color:#606">color</span>: rgb(<span style="color:#00D">179</span>, <span style="color:#00D">111</span>, <span style="color:#00D">73</span>); text-<span style="color:#606">decoration</span>: none;} 
-  <span style="color:#606">a</span>:hover { <span style="color:#606">color</span>: rgb(<span style="color:#00D">179</span>, <span style="color:#00D">111</span>, <span style="color:#00D">73</span>); text-<span style="color:#606">decoration</span>:underline ;}
-              &lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">style&gt;
-</span></span></pre></div>
-</div>
-</div>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;p style=&quot;text-align:right&quot;&gt; &lt;a href=&quot;&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;post-read-more-link&quot;&gt;&lt;span style=&quot;font-size:19px; &quot;&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+              &lt;style type=&quot;text/css&quot;&gt;
+  a:link { color: rgb(179, 111, 73); text-decoration: none;} 
+  a:visited { color: rgb(179, 111, 73); text-decoration: none;} 
+  a:hover { color: rgb(179, 111, 73); text-decoration:underline ;}
+              &lt;/style&gt;
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
         </section>
         <footer class="post-footer">

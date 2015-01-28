@@ -60,31 +60,26 @@
           <a name="topofpage"></a>
           <p>우선, 소셜아이콘이랑 이 페이지 우측 하단쯤에 보이는 트위터와 페이스북같은 아이콘을 말한다. 저 아래 있는 아이콘이 사실 지금 보이는 것보다 절반밖에 되질 않았다. 그러한 이유로 있는 지 없는 지 모를 정도였다. 그래서 여러 방면으로 조사해본 결과 비교적 빠르게 크기를 키우는 법을 알 수 있었다. 다음의 순서를 따르면 된다.</p>
 
-<p>1. post.html 파일을 사파리로 불러온다.<br />
-2. 그리고 마우스 오른쪽을 클릭해 “소스보기”를 누른다.<br />
-3. 아래 구문을 찾아<br />
+<p>1. post.html 파일을 사파리로 불러온다.<br><br>
+2. 그리고 마우스 오른쪽을 클릭해 &quot;소스보기&quot;를 누른다.<br><br>
+3. 아래 구문을 찾아<br><br>
 변경전  </p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;i <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">fa fa-</span><span style="color:#710">&quot;</span></span>&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">i&gt;  
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;i class=&quot;fa fa-&quot;&gt;&lt;/i&gt;  
 &lt;span class=&quot;hidden&quot;&gt;`
-</span></span></pre></div>
-</div>
-</div>
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
-<p>4. 다음과 같이 바꾼다.▼<br />
+<p>4. 다음과 같이 바꾼다.▼<br><br>
 변경 후  </p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;i <span style="color:#080;font-weight:bold">class</span>=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">fa fa- fa-2x</span><span style="color:#710">&quot;</span></span>&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">i&gt;  
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;i class=&quot;fa fa- fa-2x&quot;&gt;&lt;/i&gt;  
 &lt;span class=&quot;hidden&quot;&gt;  
-</span></span></pre></div>
-</div>
-</div>
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
-<hr />
+<hr>
+
 <ul>
-  <li>참고 사이트 <br />
+<li>참고 사이트<br>
 <a href="http://fortawesome.github.io/Font-Awesome/examples/">아이콘 키우는 법</a></li>
 </ul>
 

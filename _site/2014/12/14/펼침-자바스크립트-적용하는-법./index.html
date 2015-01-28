@@ -61,31 +61,23 @@
           <p>펼침 자바스크립트 코드는 <a href="http://yoonjiman.net/author/yoonjimangmail-com/">윤지만님</a> 블로그에 이용되고 있었다. 블로그를 운영해 볼 생각이 없었을 때는 아무생각 없었는데 막상 운영하려고 보니 매우 좋은 기능이었다. 그래서 윤지만님께 메일을 보내 그와 관련된 코드를 받을 수 있었다. 그런데 처음에 계속 오류가 발생하고 적용되지 않았었다. 내 실력으로는 도저히 안되서 지인에게 물어보니 미소한 문제가 좀 있었다. 그것을 수정하니 너무나 잘 됐다. 적용 방법은 다음과 같다.</p>
 
 <p>1. 본인의 블로그에 맞게 아래 자바스크립트를 적용한다. 내 블로그에 같은 경우는 _includes/javascript.html에 추가했다. 이는 블로그마다 조금 다른데 어떤 블로그는 head.html에 추가해야한다.</p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;script type=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">text/javascript</span><span style="color:#710">&quot;</span></span>&gt;
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;script type=&quot;text/javascript&quot;&gt;
 function kuisin(idMyDiv){
      var objDiv = document.getElementById(idMyDiv);
 
-     <span style="color:#080;font-weight:bold">if</span>(objDiv.style.display==<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">block</span><span style="color:#710">&quot;</span></span>){ objDiv.style.display = <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">none</span><span style="color:#710">&quot;</span></span>; }
-     <span style="color:#080;font-weight:bold">else</span>{ objDiv.style.display = <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">block</span><span style="color:#710">&quot;</span></span>; }
+     if(objDiv.style.display==&quot;block&quot;){ objDiv.style.display = &quot;none&quot;; }
+     else{ objDiv.style.display = &quot;block&quot;; }
 }
-&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">script&gt;
-</span></span></pre></div>
-</div>
-</div>
+&lt;/script&gt;
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
 <p>2. 잘 추가했으면 이제 끝이다. 그냥 마크다운을 이용하는 도중에 적당한 곳에 아래 코드를 넣으면 된다.  </p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;div id=&quot;english&quot; style=&quot;display:none&quot;&gt;자신이 원하는 내용을 담는다.&lt;/div&gt;&lt;a href=&quot;#english&quot; onclick=&quot;kuisin(&#39;english&#39;); return false;&quot;&gt;english&lt;/a&gt;  
+</code></pre></div>
+<p>{:.language-ruby}</p>
 
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>&lt;div id=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">english</span><span style="color:#710">&quot;</span></span> style=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">display:none</span><span style="color:#710">&quot;</span></span>&gt;자신이 원하는 내용을 담는다.&lt;/div&gt;&lt;a href=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">#english</span><span style="color:#710">&quot;</span></span> onclick=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">kuisin('english'); return false;</span><span style="color:#710">&quot;</span></span>&gt;english&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">a&gt;  
-
-</span></span></pre></div>
-</div>
-</div>
-
-<div id="english" style="display:none">자신이 원하는 내용을 담는다.</div>
-<p><a href="#english" onclick="kuisin('english'); return false;">english</a></p>
+<p><div id="english" style="display:none">자신이 원하는 내용을 담는다.</div><a href="#english" onclick="kuisin('english'); return false;">english</a></p>
 
         </section>
         <footer class="post-footer">

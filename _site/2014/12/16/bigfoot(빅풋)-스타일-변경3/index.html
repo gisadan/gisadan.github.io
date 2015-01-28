@@ -60,148 +60,163 @@
           <a name="topofpage"></a>
           <p>빅풋의 css파일을 변경했다. 그 이유는 페이지 맨 밑에 있는 각주옆에 화살표를 눌렀을 때 해당 각주의 본문으로 돌아오는 기능이 작동하지 않았기 때문이다. .js파일과 .css파일을 여러번 바꿔봤지만 결론은 min.js는 순정을 쓰고 .css는 제대로 된 numbering 스타일을 쓰는 것이 좋다. .css 파일이 변경되서 다시한 번 포스팅한다.</p>
 
-<p>.bigfoot-footnote__button {
-  position: relative;
-  z-index: 5;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  display: inline-block;
-  padding: 0.35em;
-  <strong>margin: 0 0.1em 0 -0.3em;</strong> <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
-  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
-  border-radius: 1em;
-  cursor: pointer;
-  background-color: rgba(110, 110, 110, 0.4);
-  -webkit-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-  backface-visibility: hidden;
-  <strong>font-size: 1rem;</strong> <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
-  line-height: 0;
-  vertical-align: middle;
-  text-decoration: none;
-  font-smoothing: antialiased;
-  -webkit-transition-property: background-color;
-  transition-property: background-color;
-  -webkit-transition-duration: 0.25s;
-  transition-duration: 0.25s;
+<p>.bigfoot-footnote__button {<br>
+  position: relative;<br>
+  z-index: 5;<br>
+  -webkit-box-sizing: border-box;<br>
+  box-sizing: border-box;<br>
+  -moz-box-sizing: border-box;<br>
+  display: inline-block;<br>
+  padding: 0.35em;<br>
+  <strong>margin: 0 0.1em 0 -0.3em;</strong> <sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup><br>
+  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup><br>
+  border-radius: 1em;<br>
+  cursor: pointer;<br>
+  background-color: rgba(110, 110, 110, 0.4);<br>
+  -webkit-backface-visibility: hidden;<br>
+  -ms-backface-visibility: hidden;<br>
+  backface-visibility: hidden;<br>
+  <strong>font-size: 1rem;</strong> <sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup><br>
+  line-height: 0;<br>
+  vertical-align: middle;<br>
+  text-decoration: none;<br>
+  font-smoothing: antialiased;<br>
+  -webkit-transition-property: background-color;<br>
+  transition-property: background-color;<br>
+  -webkit-transition-duration: 0.25s;<br>
+  transition-duration: 0.25s;<br>
 }</p>
 
-<p>.bigfoot-footnote__button {
-  position: relative;
-  <strong>height: 1.2em;</strong> <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>
-  <strong>width: 30px;</strong> <sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup>
-  <strong>border-radius: 1em;</strong> <sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup>
-  <strong>top: -0.4em;</strong> <sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup>
+<p>.bigfoot-footnote__button {<br>
+  position: relative;<br>
+  <strong>height: 1.2em;</strong> <sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup><br>
+  <strong>width: 30px;</strong> <sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup><br>
+  <strong>border-radius: 1em;</strong> <sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup><br>
+  <strong>top: -0.4em;</strong> <sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup><br>
   padding-top: 0.4em;</p>
 
 <p>}</p>
 
-<p>.bigfoot-footnote__button:hover,
-.bigfoot-footnote__button:focus {
-  outline: none;
-  <strong>background-color: rgba(110, 110, 110, 0.8);</strong> <sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup>
+<p>.bigfoot-footnote_<em>button:hover,<br>
+.bigfoot-footnote</em>_button:focus {<br>
+  outline: none;<br>
+  <strong>background-color: rgba(110, 110, 110, 0.8);</strong> <sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup><br>
 }</p>
 
-<p>.bigfoot-footnote__button:active {
-  <strong>background-color: rgba(110, 110, 110, 0.8);</strong> <sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup>
+<p>.bigfoot-footnote__button:active {<br>
+  <strong>background-color: rgba(110, 110, 110, 0.8);</strong> <sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup><br>
 }</p>
 
-<p>.bigfoot-footnote {
-  position: absolute;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  display: inline-block;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  max-width: 90%;
-  margin: 1.96924em 0;
-  background: #fafafa;
-  opacity: 0;
-  border-radius: 0.5em;
-  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup>
-  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
-  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+<p>.bigfoot-footnote {<br>
+  position: absolute;<br>
+  z-index: 10;<br>
+  top: 0;<br>
+  left: 0;<br>
+  display: inline-block;<br>
+  -webkit-box-sizing: border-box;<br>
+  -moz-box-sizing: border-box;<br>
+  box-sizing: border-box;<br>
+  max-width: 90%;<br>
+  margin: 1.96924em 0;<br>
+  background: #fafafa;<br>
+  opacity: 0;<br>
+  border-radius: 0.5em;<br>
+  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup><br>
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);<br>
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);<br>
   line-height: 0;</p>
 
-<p>.bigfoot-footnote__content {
-  position: relative;
-  z-index: 8;
-  display: inline-block;
-  max-height: 15em;
-  <strong>padding: 1.2em 1.3em 0em;</strong> <sup id="fnref:11"><a href="#fn:11" class="footnote">11</a></sup>
-  -webkit-box-sizing: inherit;
-  -moz-box-sizing: inherit;
-  box-sizing: inherit;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-  background: #fafafa;
-  border-radius: 0.5em;
-  font-smoothing: subpixel-antialiased;
-  line-height: normal;
+<p>.bigfoot-footnote__content {<br>
+  position: relative;<br>
+  z-index: 8;<br>
+  display: inline-block;<br>
+  max-height: 15em;<br>
+  <strong>padding: 1.2em 1.3em 0em;</strong> <sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup><br>
+  -webkit-box-sizing: inherit;<br>
+  -moz-box-sizing: inherit;<br>
+  box-sizing: inherit;<br>
+  overflow: auto;<br>
+  -webkit-overflow-scrolling: touch;<br>
+  background: #fafafa;<br>
+  border-radius: 0.5em;<br>
+  font-smoothing: subpixel-antialiased;<br>
+  line-height: normal;<br>
 }</p>
 
-<p>.bigfoot-footnote__tooltip {
-  position: absolute;
-  z-index: 12;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  margin-left: -0.65em;
-  width: 1.3em;
-  height: 1.3em;
-  -webkit-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  transform: rotate(45deg);
-  background: #fafafa;
-  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref:12"><a href="#fn:12" class="footnote">12</a></sup>
-  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-  border-top-left-radius: 0;
+<p>.bigfoot-footnote__tooltip {<br>
+  position: absolute;<br>
+  z-index: 12;<br>
+  -webkit-box-sizing: border-box;<br>
+  -moz-box-sizing: border-box;<br>
+  box-sizing: border-box;<br>
+  margin-left: -0.65em;<br>
+  width: 1.3em;<br>
+  height: 1.3em;<br>
+  -webkit-transform: rotate(45deg);<br>
+  -ms-transform: rotate(45deg);<br>
+  transform: rotate(45deg);<br>
+  background: #fafafa;<br>
+  <strong>border: 2px solid #ff6347;</strong> <sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup><br>
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);<br>
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);<br>
+  border-top-left-radius: 0;<br>
 }</p>
 
-<hr />
+<hr>
+
 <div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>버튼 주위에 여백을 조절한다. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>버튼 경계의 색깔과 굵기를 조절한다. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>버튼의 글자크기를 조절한다. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:4">
-      <p>버튼의 높이를 조절한다. <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:5">
-      <p>버튼의 폭을 조절한다. <a href="#fnref:5" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:6">
-      <p>버튼 좌우의 원의 반경인데 지금 수치가 가장 좋다. <a href="#fnref:6" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:7">
-      <p>버튼을 정 가운데에서 위로 치우치게 만드는데 쓰인다. 윗 첨자처럼 <a href="#fnref:7" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:8">
-      <p>마우스가 버튼 위로 올라갔을 때 배경색의 변화를 타나내는데 rvba의 괄호안에 맨 마지막이 진하기를 조절한다. <a href="#fnref:8" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:9">
-      <p>실제 버튼을 눌렀을 때 배경색이다. 위의 9번과 동일하게 맞춰주는 것이 좋다. <a href="#fnref:9" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:10">
-      <p>버튼을 눌렀을 때 테두리의 굵기와 색을 조절한다. <a href="#fnref:10" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:11">
-      <p>버튼을 눌렀을 때 뜨는 창의 크기를 조절할 수 있다. 직접적으로 창을 조절하는 것이 아니라 글자 여백 때문에 늘어나는 창의 여백을 조절한다. <a href="#fnref:11" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:12">
-      <p>버튼을 눌렀을 때 글자와 연결되는 삼각형 모양의 테두리의 굵기와 색을 조절한다. <a href="#fnref:12" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr>
+<ol>
+
+<li id="fn1">
+<p>버튼 주위에 여백을 조절한다.&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn2">
+<p>버튼 경계의 색깔과 굵기를 조절한다.&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn3">
+<p>버튼의 글자크기를 조절한다.&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn4">
+<p>버튼의 높이를 조절한다.&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn5">
+<p>버튼의 폭을 조절한다.&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn6">
+<p>버튼 좌우의 원의 반경인데 지금 수치가 가장 좋다.&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn7">
+<p>버튼을 정 가운데에서 위로 치우치게 만드는데 쓰인다. 윗 첨자처럼&nbsp;<a href="#fnref7" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn8">
+<p>마우스가 버튼 위로 올라갔을 때 배경색의 변화를 타나내는데 rvba의 괄호안에 맨 마지막이 진하기를 조절한다.&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn9">
+<p>실제 버튼을 눌렀을 때 배경색이다. 위의 9번과 동일하게 맞춰주는 것이 좋다.&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn10">
+<p>버튼을 눌렀을 때 테두리의 굵기와 색을 조절한다.&nbsp;<a href="#fnref10" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn11">
+<p>버튼을 눌렀을 때 뜨는 창의 크기를 조절할 수 있다. 직접적으로 창을 조절하는 것이 아니라 글자 여백 때문에 늘어나는 창의 여백을 조절한다.&nbsp;<a href="#fnref11" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn12">
+<p>버튼을 눌렀을 때 글자와 연결되는 삼각형 모양의 테두리의 굵기와 색을 조절한다.&nbsp;<a href="#fnref12" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
 </div>
 
         </section>

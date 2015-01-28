@@ -58,113 +58,95 @@
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>
-          <p>빅풋<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>이 좋은 것은 두말할 것이 없다. 다만 설치하는데 시간이 오래걸린다. 하나의 도전이다. 코딩 언어를 전혀 모르기 때문이다. 만약, 정확히 알고 있다면 5분이면 설치할 듯 싶다. </p>
+          <p>빅풋<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>이 좋은 것은 두말할 것이 없다. 다만 설치하는데 시간이 오래걸린다. 하나의 도전이다. 코딩 언어를 전혀 모르기 때문이다. 만약, 정확히 알고 있다면 5분이면 설치할 듯 싶다. </p>
 
 <p>초보인 내가 설치하기에는 많은 어려움이 따랐다. 그중에 가장 큰 이유는 사이트가 만들어지는 형식이 자유롭기 때문이다. 그러니까 모든 사람들의 사이트 구조가 동일하지 않기 때문에 다른 사람이 설치한 것을 보고 그대로 따라하다가는 중간에 오류가 발생하기 쉽상이다. 나 또한 그랬다.</p>
 
 <p>지금 내가 포스팅하는 것도 내 블로그에 맞춰져있기 때문에 각자의 홈페이지에 맞게 하려면 분명히 공부를 좀 해야할 것이다. 하지만 나는 이런 부분에서 고통을 알기에 최대한 이해하기 도움이 될 수 있도록 자세히 써 보고자 한다.</p>
 
-<p>우선,<br />
+<p>우선,<br><br>
 1. 빅풋을 다운 받는다.  <a href="http://www.bigfootjs.com">빅풋</a>  </p>
 
-<p>2. jQuery도 다운 받는다. <a href="http://jquery.com/download/">jQuery</a><br />
-&gt; 이 jQuery는 나는 설치하지 않았다. 왜냐하면 원래 블로그를 설치할 때 기본적으로설치가 되있었기 때문이다. 아마도 초보 블로거들은 대부분 오픈 theme을 다운받아서 설치할텐데 그러면 jQuery가 설치되있을 가능성이 높다. 내 경우는 /assets/js/ 안에 jQuery 파일이 있었다. 블로그 곳곳을 찾아보고 jQuery파일이 있으면 설치하지 않아도 될 것이다.  </p>
+<p>2. jQuery도 다운 받는다. <a href="http://jquery.com/download/">jQuery</a>  </p>
+
+<blockquote>
+<p>이 jQuery는 나는 설치하지 않았다. 왜냐하면 원래 블로그를 설치할 때 기본적으로설치가 되있었기 때문이다. 아마도 초보 블로거들은 대부분 오픈 theme을 다운받아서 설치할텐데 그러면 jQuery가 설치되있을 가능성이 높다. 내 경우는 /assets/js/ 안에 jQuery 파일이 있었다. 블로그 곳곳을 찾아보고 jQuery파일이 있으면 설치하지 않아도 될 것이다.  </p>
+</blockquote>
 
 <p>3. 빅풋을 받으면 여러개의 파일이 나오는데 .md가 붙은 파일은 필요없다. </p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre>bigfoot-default.css
-bigfoot-default.scss
-bigfoot.js
-bigfoot.min.js
-changelog.md
-license.md
-readme.md  
-</pre></div>
-</div>
-</div>
-
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">bigfoot</span><span class="o">-</span><span class="n">default</span><span class="o">.</span><span class="n">css</span>
+<span class="n">bigfoot</span><span class="o">-</span><span class="n">default</span><span class="o">.</span><span class="n">scss</span>
+<span class="n">bigfoot</span><span class="o">.</span><span class="n">js</span>
+<span class="n">bigfoot</span><span class="o">.</span><span class="n">min</span><span class="o">.</span><span class="n">js</span>
+<span class="n">changelog</span><span class="o">.</span><span class="n">md</span>
+<span class="n">license</span><span class="o">.</span><span class="n">md</span>
+<span class="n">readme</span><span class="o">.</span><span class="n">md</span>  
+</code></pre></div>
 <p>4. .css파일은 css폴더에 .scss파일은 scss폴더에 .js파일은 아까 jQuery있던 폴더에 넣어둔다.  </p>
 
-<p>5. 이제 아래 javascript내용을 추가해야하는데 여기서 나는 좀 달랐다. 보통은 _includes/head.html을 사파리로 실행시키고 마우스 오른쪽을 클릭하여 ‘소스보기’를 누른 다음 <code>&lt;head&gt;</code>가 시작하는 곳에 붙여넣으면 된다고 하지만 내 블로그 같은 경우는 javascript는 _includes 폴더밑에 javascipt.html로 따로 존재했다. 이런 경우에 모든 javasript내용은 javascipt.html파일에 넣으면 되는 된다.   </p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre> &lt;script type=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">text/javascript</span><span style="color:#710">&quot;</span></span> src=<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">/js/jquery-1.11.0.min.js</span><span style="color:#710">&quot;</span></span>&gt;&lt;<span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">script&gt;
- &lt;script type=&quot;text</span><span style="color:#404">/</span></span>javascript<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20"> src=</span><span style="color:#710">&quot;</span></span>/js/bigfoot.js<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">&gt;&lt;/script&gt;
- &lt;script type=</span><span style="color:#710">&quot;</span></span>text/javascript<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">&gt;
-      var bigfoot = $.bigfoot(
-          {
-          actionOriginalFN: </span><span style="color:#710">&quot;</span></span>ignore<span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">,
-          positionContent: </span><span style="color:#710">&quot;</span></span><span style="color:#069">true</span><span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">
-          }
-      );
- &lt;/script&gt;
-
-</span></span></pre></div>
-</div>
-</div>
-
+<p>5. 이제 아래 javascript내용을 추가해야하는데 여기서 나는 좀 달랐다. 보통은 _includes/head.html을 사파리로 실행시키고 마우스 오른쪽을 클릭하여 &#39;소스보기&#39;를 누른 다음 <code>&lt;head&gt;</code>가 시작하는 곳에 붙여넣으면 된다고 하지만 내 블로그 같은 경우는 javascript는 _includes 폴더밑에 javascipt.html로 따로 존재했다. 이런 경우에 모든 javasript내용은 javascipt.html파일에 넣으면 되는 된다.   </p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"> <span class="o">&lt;</span><span class="n">script</span> <span class="n">type</span><span class="o">=</span><span class="s2">&quot;text/javascript&quot;</span> <span class="n">src</span><span class="o">=</span><span class="s2">&quot;/js/jquery-1.11.0.min.js&quot;</span><span class="o">&gt;&lt;</span><span class="sr">/script&gt;</span>
+<span class="sr"> &lt;script type=&quot;text/</span><span class="n">javascript</span><span class="s2">&quot; src=&quot;</span><span class="o">/</span><span class="n">js</span><span class="o">/</span><span class="n">bigfoot</span><span class="o">.</span><span class="n">js</span><span class="s2">&quot;&gt;&lt;/script&gt;</span>
+<span class="s2"> &lt;script type=&quot;</span><span class="n">text</span><span class="o">/</span><span class="n">javascript</span><span class="s2">&quot;&gt;</span>
+<span class="s2">    var bigfoot = $.bigfoot(</span>
+<span class="s2">        {</span>
+<span class="s2">        actionOriginalFN: &quot;</span><span class="n">ignore</span><span class="s2">&quot;,</span>
+<span class="s2">        positionContent: &quot;</span><span class="kp">true</span><span class="s2">&quot;</span>
+<span class="s2">        }</span>
+<span class="s2">    );</span>
+<span class="s2"> &lt;/script&gt;</span>
+</code></pre></div>
 <p>6. 이제 마지막이다. main.css 파일을 텍스트 편집기로 연다. 그리고 아래 내용을 첨가하면 된다고 하는데 이 경우도 나는 달랐다. 붙여 넣으면 계속 오류가 발생했다. 오랬동안 고생을 했는데 결국은 7.과 같이 바꿨다.</p>
-
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre><span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#404">/</span></span> <span style="color:#036;font-weight:bold">Import</span> partials from <span style="background-color:hsla(120,100%,50%,0.06)"><span style="color:#161">`</span><span style="color:#2B2">sass_dir</span><span style="color:#161">`</span></span> (defaults to <span style="background-color:hsla(120,100%,50%,0.06)"><span style="color:#161">`</span><span style="color:#2B2">_sass</span><span style="color:#161">`</span></span>)
-<span style="color:#33B">@import</span>
-        <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">base</span><span style="color:#710">&quot;</span></span>,
-        <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">bigfoot-number</span><span style="color:#710">&quot;</span></span>, <span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#404">/</span></span> hello there
-        <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">layout</span><span style="color:#710">&quot;</span></span>,
-        <span style="background-color:hsla(0,100%,50%,0.05)"><span style="color:#710">&quot;</span><span style="color:#D20">syntax-highlighting</span><span style="color:#710">&quot;</span></span>
-;
-
-</pre></div>
-</div>
-</div>
-
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="sr">//</span> <span class="no">Import</span> <span class="n">partials</span> <span class="n">from</span> <span class="sb">`sass_dir`</span> <span class="p">(</span><span class="n">defaults</span> <span class="n">to</span> <span class="sb">`_sass`</span><span class="p">)</span>
+<span class="vi">@import</span>
+        <span class="s2">&quot;base&quot;</span><span class="p">,</span>
+        <span class="s2">&quot;bigfoot-number&quot;</span><span class="p">,</span> <span class="sr">//</span> <span class="n">hello</span> <span class="n">there</span>
+        <span class="s2">&quot;layout&quot;</span><span class="p">,</span>
+        <span class="s2">&quot;syntax-highlighting&quot;</span>
+<span class="p">;</span>
+</code></pre></div>
 <p>7.  </p>
-
-<pre><code>@import "bigfoot-default"  
-</code></pre>
-
+<div class="highlight"><pre><code class="language-text" data-lang="text">@import &quot;bigfoot-default&quot;  
+</code></pre></div>
 <p>단지 이렇게만 추가했을 뿐인데 성공했다. 추측건대 원래 나머지는 기존 블로그를 설치하면서 다 있던 것이고 위에 보이는 한 줄만 없기 때문에 그것만 첨가하면 되는 것 같다.</p>
 
 <p>8. 보통은 7번까지 적용하면 끝인데 나는 달랐다. 여기가 가장 난코스이며 지옥 같았다. 위에 7가지를 적용했음에도 불구하고 빅풋이 제대로 보이지 않으며 심지어 각주도 제대로 보여주지 못했다. [1] 이런 단순한 것도 대괄호가 삐뚤게 보였다. 그래서 조사해본 결과 config.yml파일을 수정해야만 했다. config.yml파일을 텍스트 편집기로 열어 Build settings를 보면 markdown이 보일 것이다. 그 부분을 지우고 아래 내용을 첨가한다. 잘 보고 수정해야 한다. 마크다운만 지워야지 다른 내용을 지우면 안 된다. 마크다운에 관련된 문법만 지우고 아래 내용을 첨가해야 한다.  </p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1"># Build settings</span>
+<span class="ss">markdown</span><span class="p">:</span> <span class="n">redcarpet</span>
+<span class="ss">highlighter</span><span class="p">:</span> <span class="n">pygments</span>
+<span class="ss">permalink</span><span class="p">:</span> <span class="sr">/:title/</span>
 
-<div class="highlighter-coderay"><div class="CodeRay">
-  <div class="code"><pre><span style="color:#777"># Build settings</span>
-<span style="color:#606">markdown</span>: redcarpet
-<span style="color:#606">highlighter</span>: pygments
-<span style="color:#606">permalink</span>: <span style="background-color:hsla(300,100%,50%,0.06)"><span style="color:#404">/</span><span style="color:#808">:title</span><span style="color:#404">/</span></span>
-
-<span style="color:#606">redcarpet</span>:
-    <span style="color:#606">extensions</span>: 
-      - no_intra_emphasis
-      - fenced_code_blocks
-      - tables
-      - strikethrough
-      - superscript
-      - autolink
-      - hard_wrap
-      - footnotes
-</pre></div>
-</div>
-</div>
-
+<span class="ss">redcarpet</span><span class="p">:</span>
+    <span class="ss">extensions</span><span class="p">:</span> 
+      <span class="o">-</span> <span class="n">no_intra_emphasis</span>
+      <span class="o">-</span> <span class="n">fenced_code_blocks</span>
+      <span class="o">-</span> <span class="n">tables</span>
+      <span class="o">-</span> <span class="n">strikethrough</span>
+      <span class="o">-</span> <span class="n">superscript</span>
+      <span class="o">-</span> <span class="n">autolink</span>
+      <span class="o">-</span> <span class="n">hard_wrap</span>
+      <span class="o">-</span> <span class="n">footnotes</span>
+</code></pre></div>
 <p>9. 행운을 빈다.  </p>
 
-<hr />
+<hr>
 
-<p>참고 사이트<br />
-1. <a href="http://halryang.net/Bigfoot-footnotes-in-Jekyll/">Bigfoot을 사용하여 지킬의 각주를 보기 좋게 만들자</a><br />
-2. <a href="http://jonathanbuys.com/2013/12/27/Bigfoot_Footnotes_in_Jekyll.html">Bigfoot Footnotes in Jekyll</a><br />
+<p>참고 사이트<br><br>
+1. <a href="http://halryang.net/Bigfoot-footnotes-in-Jekyll/">Bigfoot을 사용하여 지킬의 각주를 보기 좋게 만들자</a><br><br>
+2. <a href="http://jonathanbuys.com/2013/12/27/Bigfoot_Footnotes_in_Jekyll.html">Bigfoot Footnotes in Jekyll</a><br><br>
 3. <a href="http://yoonjiman.net/2014/12/07/bigfoot/">블로그의 각주를 멋지게 만들어 주는 Bigfoot</a>  </p>
 
-<hr />
+<hr>
 
 <div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>지금 누른 것이 빅풋이다. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr>
+<ol>
+
+<li id="fn1">
+<p>지금 누른 것이 빅풋이다.&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
 </div>
 
         </section>
