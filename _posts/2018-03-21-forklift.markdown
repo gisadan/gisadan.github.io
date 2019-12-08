@@ -1,0 +1,27 @@
+---  
+layout: post  
+title: ✚ ForkLift 업데이트 오류 해결하는 법. (읽기 전용 오류)
+categories:
+- 맥
+tag: [ForkLift, 에러]
+---  
+Forklift3가 출시된지 얼마 안됐는데요, 조금 불안정한 감이 있었습니다. 이번에 3.2로 업데이트 되면서 많은 개선이 있다고 들어서 업데이트를 할려고 했더니, 어플리케이션 폴더로 옮기라고 오류가 납니다. 그래서 옮겼더니 같은 오류가 계속나서 삭제하고 다시 설치했는데도 계속해서 오류가 났습니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-21-forklift/1.png" alt="" align="middle"/></div>
+
+앱 개발사 홈페이지에서 이에 대한 해결책을 내놔 공유합니다. 하는 방법은 아주 간단합니다.
+1. 터미널을 실행시킨다.
+2. ForkLift는 종료합니다. (Command + Q)
+3. 여기서 ForkLift의 위치는 당연히 어플리케이션 폴더안에 있어야 합니다.
+4. sudo xattr -d -r -s com.apple.quarantine /Applications/ForkLift.app
+5. 위 명령어를 터미널에 붙여넣고 엔터를 누릅니다.
+6. 그리고 계정비번을 누르고 엔터를 치면 됩니다.(비번을 누르는 과정에서 아무 변화가 없는 것처럼 보일 수 있지만, 정상입니다.)
+7. 다시 ForkLift를 실행시킵니다. 끝.
+
+아래와 같은 메시지를 확인하면 잘 완료된 것입니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-21-forklift/2.png" alt="" align="middle"/></div>
+
+---
+#### 참조
+* [ForkLift 홈페이지](https://www.binarynights.com)

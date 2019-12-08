@@ -1,0 +1,54 @@
+---  
+layout: post  
+title: ✚ 맥북 키보드 무상교체 프로그램 게시.
+categories:
+- 맥
+tag: [맥북, 무상교체, 키보드]
+---  
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-27-keyboard/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 출처 : <a href="https://www.apple.com/kr/macbook/"> 애플공식홈페이지 </a></p> </div>
+#### 맥북 버터플라이 키보드
+애플에서 12인치 맥북을 디자인하는 중, 얇게 만들기 위하여 개발된 키보드방식.
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-27-keyboard/3.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 출처 : <a href="https://www.apple.com/kr/macbook/"> 애플공식홈페이지 </a></p> </div>
+##### 1세대
+러버돔 대신 스테인레스돔을 사용했으며 그 특성상 키캡의 두께를 극단적으로 얇게 만들 수 있다는 장점이 있으나 스트로크가 0.5mm 도 안 되어 키감과 소음이 발생하는 문제점이 호불호가 갈렸다. 빠른 타이핑이 장점인 반면에 소음과 새로운 방식에 적응하기 힘들어하는 사람들이 생긴 것.
+
+##### 2세대
+맥북 프로 2016 부터 적용되엇다. 소음을 개선하였고, 키 스트로크 길이도 증가 그리고 스테인레스 돔이 좀 더 커져 강해졌다. 1세대와는 확실히 차이가 있지만 아직도 호불호가 있다.
+
+##### 문제점
+키스트로크 거리가 짧아져 먼지등 이물질이 유입되면 쉽게 고장이 발생한다. 아예 안눌리거나, 두번 눌리는 등의 문제가 발생한다. 2016년형 맥북 프로에서는 소음이 크게 나기도 하는 등 많은 불만이 제기되었다.
+
+##### 소송
+미국에서는 이것 때문에 집단 소송이 제기되었다. 애플에서 하판을 완전히 교체해주기도 했지만 사용자들의 불만은 여전했다.
+
+##### MacBook 및 MacBook Pro용 키보드 서비스 프로그램
+애플에서 아얘 교체해주는 프로그램을 시작했습니다. 아래와 같은 증상이 있다면 나타날 수 있다고 판단했고, 아래 증상이 나타나지 않는다고 해도 버터플라이 키보드가 적용된 모델이라면 교체 프로그램 대상이 됩니다.
+
+* 글자 또는 문자가 예기치 않게 중복으로 입력됨
+* 글자 또는 문자가 표시되지 않음
+* 키가 '걸린' 느낌이 들거나 키를 누를 때마다 반응이 제각각임
+
+##### 적용 모델
+
+* MacBook (Retina, 12-­inch, Early 2015)
+* MacBook (Retina, 12­-inch, Early 2016)
+* MacBook (Retina, 12-­inch, 2017)
+* MacBook Pro (13­-inch, 2016, Thunderbolt 3 포트 2개)
+* MacBook Pro (13-­inch, 2017, Thunderbolt 3 포트 2개)
+* MacBook Pro (13-­inch, 2016, Thunderbolt 3 포트 4개)
+* MacBook Pro (13-­inch, 2017, Thunderbolt 3 포트 4개)
+* MacBook Pro (15-­inch, 2016)
+* MacBook Pro (15-­inch, 2017)
+
+참고: 이 외의 다른 Mac 노트북 모델은 이 프로그램의 대상이 아닙니다.
+
+##### 서비스 받는 방법
+근처 공식 서비스 센터를 방문하면 받을 수 있습니다. 해당 증상이 나타나지 않아도 적용모델이라면 받을 수 있을 것입니다. 해당 서비스 센터에 재고가 없다면 며칠 기다릴 수도 있으니, 미리 연락해보고 가는 것도 방법입니다. 보증기간은 최초 소매 판매일로부터 4년 동안 적용됩니다. 애플케어기간이 끝났어도 상관없이 없습니다. 다만, 맥북이 외부로부터 충격을 받아 찌그러지거나 파손되었다면 서비스가 거절될 수도 있습니다.
+
+---
+
+##### 참조
+* [나무위키](https://namu.wiki/w/버터플라이%20키보드)
+* [MacBook 및 MacBook Pro용 키보드 서비스 프로그램](https://www.apple.com/kr/support/keyboard-service-program-for-macbook-and-macbook-pro/)

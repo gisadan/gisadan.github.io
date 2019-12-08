@@ -1,0 +1,24 @@
+---  
+layout: post  
+title: ✚ 아이들을 위한 아마존 FreeTime 서비스 iOS 가능
+categories:
+- 아이패드
+- 아이폰
+tag: [FreeTime, 아마존, iOS, 디바이스]
+---  
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-07-04-freetime/1.jpg" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 :  amazon</p> </div>
+
+수년동안 아마존 하드웨어의 독점이었지만, 이제는 iOS 디바이스에서 이용가능해졌습니다. **이 서비스에는 아이들의 TV쇼, 책, 영화들이 포함되어 있습니다.**
+
+처음 앱이 출시되고 4년 후인 작년에 [FreeTime](https://www.amazon.com/Amazon-FreeTime-Unlimited-Monthly-Subscription/dp/B01I499BNA) 은 안드로이드 디바이스에서 처음 이용가능했습니다. 이 앱은 **PBS Kids, Nickelodeon, and Disney** 컨텐츠를 제공합니다만 아마존 디바이스에서 이용하는 것과는 조금 다른 점이 있습니다. 예를 들어, **킨들에서는 부모들이 아이들이 앱을 나가버리는 것을 못 하도록 할 수 있습니다.** **(모르고 꺼버리면서 다른 앱을 켜버리는 것을 방지)** 하지만 애플은 서드파티 앱이 전체 디바이스를 콘트롤 하는 방식을 허용하지 않습니다. 그래서 만약 아이들에게 아이폰이나 아이패드를 맡길 때, 조금 주의를 기울여야 합니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-07-04-freetime/2.jpg" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : amazon</a></p> </div>
+
+아마존 FreeTime은 아이들이 좋아할만한 수많은 컨텐츠가 있는 것은 물론, **아이들이 어떤 앱을 다운받았는지 혹은 이용하고 있는 지를 부모들이 즉각 알 수 있다**는 것입니다. 또한 나이필터를 이용하여 **아이의 연령대에맞는 컨텐츠들만 추려서 볼 수도 있습니다.** 그리고 아이들이 이용할 수 있는 **이용시간 제한을 걸어둘 수도 있어서** 아이들이 무분별하게 빠져드는 것을 방지할 수도 있습니다. 
+ 
+출시 기념으로, 아마존에서는 **iOS 유저들에게 30일 무료 체험을 제공합니다**. 만약 당신이 마음에 든다면, 프라임 멤버는 한달에 $2.99, 프라임 멤버가 아니라면 $4.99입니다. 4명의 아이들이 동시에 이용할 수 있는 가격은 프라임 멤버라면 $6.99, 아니라면 $9.99 입니다.
+
+**아이들에게 영상을 틀어줄 때, 아주 유용할 것 같습니다.** [FreeTime](https://www.amazon.com/Amazon-FreeTime-Unlimited-Monthly-Subscription/dp/B01I499BNA)을 이용해서 아이들에게 영어도 노출시키고 영상도 틀어준다면 1석2조가 될 것 같습니다.

@@ -1,0 +1,44 @@
+---  
+layout: post  
+title: ✚ [필기] 아이패드로 필기는 어떻게 해야할까? (1)
+categories:
+- 아이패드
+- 필기
+tag: [아이패드, 필기]
+---  
+
+아이패드로 필기하는 법은 여러 편으로 나눠서 연재할 생각입니다. 한 번에 쓰면 양이 좀 많아질 것 같기도 하고 앱 사용법 등 조금 자세히 쓰고 싶은 부분도 있기 때문입니다. 연재는 다음 순서로 할 예정입니다.
+
+1. 필기결과물
+2. 현재 쓰는 여러 가지 필기앱 소개 (각 앱의 장단점 등)
+3. 각 앱에서 필기를 잘 하는 방법 및 노하우
+
+#### 토사구패드 + 터치펜으로 필기한 결과물
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/1.jpg" alt="" align="middle"/></div>
+
+아주 옛날 아이패드로 영어공부하면서 필기한 결과물입니다. 이 때는 애플펜슬도 없어서 터치펜으로 했습니다. 이 때 많은 연습을 했더니 지금 애플센슬로 필기하는 것은 아주 쉽게 느껴질 정도 입니다. 당시 터치펜을 굉장히 비싼 가격에 샀는데 지금 생각하니 좀 아까운 감이 없지않아 있습니다.
+
+#### 굿노트를 이용하여 필기한 결과물
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/2.png" alt="" align="middle"/>
+<img src="/assets/article_images/2018-06-29-write/3.png" alt="" align="middle"/></div>
+
+문제 풀이하면서 필기한 결과물입니다. 보통은 이쁘게 필기할 때만 어플을 쓰고 문제풀이자체는 하지 않는 경우가 많습니다. 저는 책 자체를 스캔해서 아이패드만 들고 다니기 때문에 문제 풀이도 아이패드내에서 바로 하곤합니다.
+
+이럴 때는 주로 굿노트를 씁니다. 당시 굿노트를 선택하게 된 이유는 다른 앱이 아쉽기 때문이었습니다. 지금은 다른 앱들도 많은 업데이트가 되어 이번에 정식으로 포스팅하면서 어떤 앱이 좋은 지, 그 때와 어떻게 달라졌는지를 볼 수 있을 것 같습니다. 또한, 어떻게 필기하면 좋은 결과를 얻을 수 있는지 적어볼 예정입니다. 위 사진에서 문제는 문제의 소지가 있을 수 있으므로 모자이크 처리했습니다.
+
+#### 프로크리에이트를 이용하여 필기한 결과물
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/4.png" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/5.png" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/6.png" alt="" align="middle"/></div>
+
+사실 [프로크리에이트앱](https://itunes.apple.com/kr/app/procreate/id425073498?mt=8)은 그림 그리는 앱입니다만, 저는 필기하는 데에도 이용합니다. 이 앱을 쓰는 이유는 필기감이 좋기 때문입니다. 그리고 그림을 그리는 앱인만큼 자유도가 상당히 높습니다. 다른 필기앱은 화면을 회전시킨다든가 단순 연필 말고 붓이나 목탄 재질 등을 쓸 수 있는 기능자체가 없지만 프로크리에이트는 그런 점에서 굉장히 큰 장점이 있습니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-29-write/7.png" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://itunes.apple.com/kr/app/procreate/id425073498?mt=8"> 애플스토어 캡쳐 </a></p> </div>
+
+**여기에 대해서도 추후에 자세히 포스팅하겠습니다.** <br>
+필기하는 데에 완벽한 정답은 없지만, 꽤 오랫동안 아이패드를 이용하여 필기를 하면서 얻은 노하우를 공유해볼까 합니다. 주변에서 요청도 있었구요. 아이패드로 필기 혹은 공부를 해보실 생각이 있으신 분들에게 조금이라도 도움이 되었으면 합니다.

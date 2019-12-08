@@ -1,0 +1,33 @@
+---  
+layout: post  
+title: ✚ 자주 가는 블로그와 사이트를 한 눈에 모아보자. Reeder
+categories:
+- 아이폰
+- 아이패드
+tag: [아이폰앱, 아이패드앱, Reeder, 블로그, 사이트]
+---  
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-10-reeder/7.png" alt="" align="middle"/></div>
+
+#### 들어가며
+인터넷을 하면서 누구나 한 두개씩은 자주가는 사이트가 있기 마련입니다. 주로 북마크를 해놓거나 즐겨찾기를 해두죠. 그리고는 심심할 때, 여유있을 때 들어가보곤 합니다. 그런데 이런 사이트가 여러 개이고 일일이 들어가서, 심지어 사이트가 바뀔 때마다 로그인을 하면서, 새로운 글이 올라왔나 찾아보는 것은 좀 귀찮고 번거롭기 마련입니다. 이럴 때 우리는 [Reeder](http://reederapp.com/ios/)가 필요한 것입니다.
+
+#### 사용법
+사용법은 간단합니다. 무료로 사용가능한 [feedly](https://feedly.com/i/welcome)에 가입하시고 여기에 각종 rss 주소를 추가하시거나, reeder에 로그인이 되있다면 rss주소를 만나면 자동으로 reeder에 추가될 것입니다. rss주소는 각 사이트에서 제공합니다. 제 홈페이지에서는 맨밑에 [Subscribe](http://gisadan.github.io/feed.xml)를 누르면 rss주소가 보이거나 reeder에 자동으로 등록됩니다. 이렇게 등록이 되면, 사이트에 글이 올라올 때마다 알림을 받을 수도 있고, 여러 사이트를 한 눈에 돌아볼 수도 있습니다. 한 번 등록이 되면 reeder내에서 각종 편집이 가능합니다. 그룹으로 묶는 등..
+
+#### 킬링포인트
+1. 사이트가 등록이 되면, 내가 읽지 않은 글들만 표시하거나, 모든 글을 표시할 수도 있습니다. 그리고 그 각각은 숫자로 표현이 되며 읽은 것은 사락지게 만들 수도 있습니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-10-reeder/123.png" alt="" align="middle"/></div>
+2. 그리고 글자체나 글씨크기도 내맘대로 조절이 가능합니다. 간혹 특정 사이트는 글자가 너무 작아 읽기 힘든부분도 있는데 그런것이 **내가 원하는데로 조절이 가능합니다.** ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-10-reeder/45.png" alt="" align="middle"/></div>
+3. 읽다가 사파리나 크롬으로 대체해서 읽는 것도 가능하며, Pinboard나 에버노트에 저장하는 것도 쉽게 가능합니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-10-reeder/46.png" alt="" align="middle"/></div>
+4. 유니버셜앱으로 아이폰이나 아이패드에서 한 번 사면 둘다 이용가능하고 완벽히 연동됩니다. ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-10-reeder/8.png" alt="" align="middle"/></div>
+
+#### 가격
+가격은 [$5.49](https://itunes.apple.com/us/app/reeder-3/id697846300?ls=1&mt=8)입니다. *단 한번도 할인한 적이 없습니다.* 할인할 때를 기다릴 필요가 없습니다. 당장사셔도 손해보는 일은 거의 없을 것 같습니다. 저는 맥에서도 같은 앱을 쓰는데 RSS관련 앱 중에서는 만족도가 가장 높은 앱 입니다. 지르셔도 후회하지 않을 것 같습니다. ~~물론 언젠가는 할인을 할 수도 있지만~~

@@ -1,0 +1,89 @@
+---  
+layout: post  
+title: ✚ 2018 아이패드 9.7" 아이패드 프로와이 전격비교
+categories:
+- 아이패드
+tag: [아이패드, 2018, 뉴아이패드]
+---  
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/1.png" alt="" align="middle"/>
+<p style="text-align:right">
+이미지 출처 : <a href="http://www.apple.com/kr">애플공식홈페이지</a></p> </div>
+
+<p class="drop-korean">
+애플이 새로운 9.7" iPad를 발표했습니다. 이 모델은 2017 9.7" iPad의 후속버전입니다. 가장 큰 특징은 애플펜슬지원과 A10 퓨전칩이 탑재되었다는 것입니다.</p>
+
+>애플 마케팅 부사장은 "우리의 가장 인기있고 가성비좋은 아이패드가 애플펜슬과 훨씬 더 많은 유저들을 위한 가장 창의적인 툴이 포함됐습니다. 또한 A10 퓨전칩, 아름다운 레티나 디스플레이, 훨씬 더 잘 조립되었고, 발전된 센서와 카메라도 포함됐습니다. 이는 다른 어떤 디바이스에서도 불가능한 AR(증강현실)경험을 가능하게 할 것입니다."라고 전했습니다.
+
+<div id="english" style="display:none;line-height:1.7;padding:15px 12px 12px 12px">
+Apple’s vice president of Product Marketing. “Our most popular and affordable iPad now includes support for Apple Pencil, bringing the advanced capabilities of one of our most creative tools to even more users. This iPad also has the power of the A10 Fusion chip, combined with the big, beautiful Retina display, advanced cameras and sensors that enable incredible AR experiences simply not possible on other devices.”
+</div>
+<div>
+<p style="text-align:right"><a href="#english" onclick="kuisin('english'); return false;">English</a></p>
+</div>
+
+##### 증강현실관련 사진 ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/2.png" alt="" align="middle"/><p style="text-align:right">
+이미지 출처 : <a href="http://www.apple.com/kr">애플공식홈페이지</a></p> </div>
+
+##### iWorks에 애플펜슬 적용모습 ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/3.jpg" alt="" align="middle"/><p style="text-align:right">
+이미지 출처 : <a href="http://www.apple.com/kr">애플공식홈페이지</a></p> </div>
+
+#### 아이패드 프로와의 비교
+아이패드프로와 마찬가지로 애플펜슬 이용이 가능해졌습니다. 라이트닝 기반의 페어링 그리고 틽트, 압력센서로 필기할 수 있습니다. 또한, 이번에 새롭게 발표한 iWork에서 애플펜슬이용이 가능해졌습니다.
+
+프로와 다른점은 120Hz 디스플레이가 아니라는 점이지만, 충분히 사용할만 합니다. 또 다른 차이는 9.7" iPad는 A10 퓨전칩이고, 프로모델들은 A10X 퓨전칩이 들어있다는 점입니다. 애플에 따르면 A10 퓨젼칩은 A8보다 2배의 CPU성능 향상이 있었고, 2.7배 그래픽 처리속도가 빨라졌다고 합니다. A10X 퓨전칩은 A8보다 2.5배 CPU성능 향상 있고, 그래픽 처리속도는 4.3배 빠르다고 합니다. 역시 프로는 프로입니다. 가격차가 그만큼 난다고 보시면 될 거 같습니다.
+
+이러한 차이가 9.7" iPad에 애플펜슬 지원하도록 업그레이드 하면서도 가격은 올리지 않을 수 있었던 것이 설명가능한 것 같습니다.
+
+이렇게 **120Hz 주사율 , A10X , 다양한 카메라 성능**을 빼고도 이번 9.7" 아이패드는 프로와 비교하여 아래 항목들이 빠졌습니다.
+
+* A wide color display (P3)
+* True Tone
+* Smart Connector (only Bluetooth keyboards are supported)
+* Optical image stabilization
+* 4K video recording
+* A second-gen Touch ID sensor
+* A fully laminated display
+* A four-speaker audio system
+
+하지만 가격을 본다면 충분히 이해가 가능사항들입니다. 이정도면 선택의 사항이라고 할 수 있을 것 같습니다.
+* 9.7" 아이패드 32기가 : 43만원(최저가모델)
+* 10.5" 아이패드 프로 64기가 : 79만9천원(최저가모델)
+* 12.9" 아이패드 프로 64기가 : 99만9천원(최저가모델)
+
+#### 9.7" 아이패드만 사용가능한 로지텍 크래용 펜슬
+이번에 아이패드 9.7"을 소개하면서 동시에 로지텍 크레용펜슬도 소개했습니다. 애플펜슬과 마찬가지로 라이트닝으로 충전하며, 학생들과 아이들을 위한 새로운 도구입니다. 애플펜슬처럼 입력정확도, 팜리젝션, 낮은 지연율을 보여줍니다. 크레용은 압력센서를 지원하지 않지만 기울임으로써 두께감을 표한할 수 있습니다. ▼
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/4.jpg" alt="" align="middle"/>
+
+<p style="text-align:right">
+이미지 출처 : <a href="https://www.logitech.com/en-us/product/crayon">로지텍 공식 홈페이지</a></p></div>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/5.jpg" alt="" align="middle"/>
+
+<p style="text-align:right">
+이미지 출처 : <a href="https://www.logitech.com/en-us/product/crayon">로지텍 공식 홈페이지</a></p></div>
+
+이 크레용은 오직 6세대 iPad 9.7"(2018출시)에만 이용가능합니다. 기존에 있던 5세대 iPad 9.7이나 프로에도 사용이 불가능합니다. 완충시 8시간의 배터리타임을 자랑하며 애플펜슬과 마찬가지로 처음 90초 충전으로 30분동안 이용가능한 고속충전을 지원합니다. 팁은 아이들이 함부로 뺄 수 없도록 특별한 도구가 필요하며, 충전구를 덥고 있는 고무캡은 잃어버리지 않도록 본체와 잘 결합이 되어있습니다. ▼
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/6.jpg" alt="" align="middle"/>
+
+<p style="text-align:right">
+이미지 출처 : <a href="https://www.logitech.com/en-us/product/crayon">로지텍 공식 홈페이지</a></p></div>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-30-2018ipad9.7/7.jpg" alt="" align="middle"/>
+
+<p style="text-align:right">
+이미지 출처 : <a href="https://www.logitech.com/en-us/product/crayon">로지텍 공식 홈페이지</a></p></div>
+
+---
+#### 참조
+* [로지텍 공식 홈페이지](https://www.logitech.com/en-us/product/crayon)

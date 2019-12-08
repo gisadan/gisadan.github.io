@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gisadan.github.io/sitemap.xml

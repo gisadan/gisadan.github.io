@@ -1,0 +1,41 @@
+---  
+layout: post  
+title: ✚ Mac 의 필수 어플인 Yoink가 아이패드로
+categories:
+- 아이패드
+- 아이폰
+tag: [아이패드앱, yoink, 필수앱, 어플추천, 아이폰앱]
+---  
+
+#### 들어가며..
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-05-yoink/1.png" alt="" align="middle"/></div>
+맥에서 필수 앱 중에 하나로 속하는 [Yoink](https://itunes.apple.com/app/id1260915283?mt=8)가 iOS용으로도 출시를 했습니다. 맥에서 써보셨던 분들은 이름만 들어도 파악이 가능하실텐데요. 이전에 포스팅한 [Gladys](http://gisadan.github.io/아이패드앱/아이폰앱/2018/03/02/아이패드에-선반을-만들자-Gladys.html)와 경쟁을 하는 앱입니다. 둘의 기능이 조금 차이가 나는 부분이 있어서 같이 쓰면 더욱 유리한데요. 둘 다 기능과 인터페이스가 아주 뛰어납니다. 보통 집에서도 한 개의 선반을 쓰는 것이 아니라 2~3개 혹은 그 이상의 선반을 만들어 놓고 그 사용용도를 분리하여 사용한데요, 이 앱들도 그렇게 생각하시면 될 것 같습니다. 우선은 아래 공식홍보영상을 한번 보시죠 ▼
+
+#### 각종 기능
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-05-yoink/2.png" alt="" align="middle"/></div>
+1. 클립보드 통합기능 : 이미 Yoink에 별개로 집어넣은 파일들을 묶어주는 기능이 있습니다. 여러개의 파일을 묶은 후 한번에 이동할 때 유리하죠.
+2. 위젯 : 위젯을 통해 손쉽게 Yoink에 집어넣을 수 있습니다.
+3. 퀵공유 : 항상 탭하여 Yoink에 드래그앤드롭을 하지 않고도 공유버튼을 눌러 다른앱으로를 누르면 쉽게 Yoink에 집어 넣을 수 있습니다.
+4. 3D터치 : 퀵액션기능으로 3D터치를 지원합니다.
+5. 고급사용자를 위한 [URL Scheme](https://eternalstorms.at/yoink/ios/tips/) 또한 지원합니다.
+
+Gladys 와 차이점은 크지 않습니다. 일반 사용자라면 크게 느낄만한 기능의 차이는 없다고 보셔도 될 정도입니다. 다만, 사람마다 취향이 있고 선호하는 바가 있어서 우선은 인터페이스와 사용 방식의 차이로 구분하여 사용해도 될 것 같습니다. 사실 마크다운이나 URL Scheme 방식 등에서 차이를 보이는 데, 이는 나중에 코딩이라든지 Html 작업 등을 할 때 사용하는 터라 아직은 신경쓰지 않으셔도 될 것 같습니다.
+
+아래 공식 홍보 영상을 보시면서 작동방법, 디자인 등을 보시고 둘 다 필요한 방식으로 사용하는 것이 유리해보입니다. 다만, 일반 사용자들에게 확 와닿는 큰 차이점이라고 볼 수 있는 것이 가격인데요, Gladys는 무료로 사용하다가 자신이 마음에 들면 인앱결제를 통해 $0.99달러만 내면 되는데, Yoink는 시작부터 $2.99를 내야만 이용가능합니다. 이 부분에서 크게 갈릴 수 있다고 생각합니다. 하지만 맥에서부터 오랜 명성을 이어온터라, 맥에서 충분히 활용을 잘하셨던 분이라면 결제도 서슴치않고 할 수 있을 것이라고 생각합니다.
+
+#### Yoink에 추가하기 - 공식홍보영상
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Gg3iM9HyGzM" frameborder="0" allowfullscreen></iframe>
+
+#### Yoink에서 빼내기 - 공식홍보영상
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KAkFkrnVkug" frameborder="0" allowfullscreen></iframe>
+
+#### 가격
+가격은 현재 $2.99(세전)이고 iOS 11이상은 필수입니다. 이런 류의 앱들은 눈으로 보는 것보다 직접 써보면서 계속해서 익숙해지는 것이 아이패드의 활용도를 높이는 지름길입니다. 아이패드에서 생산적인 작업을 주로하시는 분 또는 여러 개의 파일이나 사진, 글을 자주 옮기시는 분들은 필수적인 앱이라고 생각합니다.
+
+#### 추가정보
+Links
+
+* [Yoink for iPad and iPhone Website](https://eternalstorms.at/yoink/ios)
+* [Yoink for iOS Usage Tips](https://eternalstorms.at/yoink/ios/tips)

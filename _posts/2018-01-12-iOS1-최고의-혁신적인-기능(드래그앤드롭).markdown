@@ -1,0 +1,93 @@
+---  
+layout: post  
+title: ✚ iOS11 최고의 혁신적인 기능 (드래그 앤 드롭)
+categories:
+- 아이폰
+- 아이패드
+tag: [iOS, 신기능, iOS11, 드래그 앤 드롭, Drag and Drop, 아이패드, 아이폰, 활용, 혁신]
+---  
+<div class="markdown-image">
+<img src="/assets/article_images/2018-01-12-draganddrop/1.png " alt="" align="middle"/></div>
+
+#### 들어가며
+
+>만약 iOS11에서 추가된 기능 중 딱 하나만 꼽으라면, 드래그 앤 드롭 기능을 꼽을 것이다.
+
+라는 말이 있을 정도로 드래그 앤 드롭 기능은 굉장히 훌륭하게 만들어졌습니다. 앱 내에서 여러 개를 선택하여 움직이는 것 뿐아니라, 다른 앱으로도 이동이 가능합니다. 심지어 한 개의 앱에서 여러 개를 선택하고, 다른 앱으로 넘어가서 또 여러 개를 선택한 후 두 묶음을 드래그하여 한 번에 원하는 곳으로 드랍할 수도 있습니다.
+그 외에도 디테일한 부분을 많이 신경썼는데요, 가령, 메모앱내에서 드래그 앤 드롭이 가능하면 노란색으로 변하는 애니메이션이 있어서 쉽게 알아볼 수 있고 사파리에서는 드래그할 때 +마크가 나와 탭추가가 가능하다는 표시가 보입니다. 이렇게 아주 작은 것부터 핵심적인 것까지 굉장히 신경쓴 것을 볼 수 있습니다. 하나씩 살펴보겠습니다.
+
+####  드래그 앤 드롭 기능1: 사용법 소개
+기본적으로 드래그 앤 드롭은 복사를 기본으로 합니다. 메모있는 내용을 복사하여 메일이나 메시지로 옴긴 경우, 메모에 있던 내용은 그대로 있고 복사하여 드롭하게 됩니다. 하지만 예외가 있는데요, 그것은 갑은 앱내에서 문장이나 문단을 드래그 하여 글의 순서를 바꾸기 위하여 움직이는 경우는 이동이 됩니다.
+1. 원하는 부분을 선택한다.
+2. 길게 누른다: 화면에서 손을 떼지 않는다.
+3. 홈버튼 클릭 또는 바탕화면으로 간다.
+4. 원하는 앱 실행: 다른 손가락 또는 원하는 앱 위에서 있기
+5. 앱이 실행되면 원하는 부분에 드랍한다.
+<div class="markdown-image">
+<img id="gif-1" src="/assets/article_images/2018-01-12-draganddrop/1.basic-web-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-1').src='/assets/article_images/2018-01-12-draganddrop/1.basic-web.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+#### 드래그 앤 드랍 기능2: 한 앱내에서 여러개 동시에 선택하기
+ 1. 한 개의 파일을 길게 누른다.
+ 2. 또 선택하기를 원하는 파일을 다른 손가락을 터치한다.
+  <div class="markdown-image">
+<img id="gif-2" src="/assets/article_images/2018-01-12-draganddrop/2.여러개선택-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-2').src='/assets/article_images/2018-01-12-draganddrop/2.여러개선택-once.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+#### 드래그 앤 드랍 기능3: 두 가지 이상 앱에서 드래그하여 다른 앱에 드랍하기
+ 1. 위 기능1과 기능2번의 응용이다. 기능2에서 처럼 한 앱 내에서 여러 개를 선택한다.
+ 2. 홈 화면으로 간다.
+ 3. 또 다른 앱을 실행한다.
+ 4. 1번에 썻던 손가락 말고 다른 손가락으로 원하는 파일을 길게 선택한다. 그리고 또 다른 손가락으로 원하는 파일 들을 터치한다.
+ 5. 다른 앱으로 드랍한다.
+  <div class="markdown-image">
+<img id="gif-3" src="http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/3.여러개-선택+2손가락-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-3').src='http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/3.여러개-선택+2손가락-once.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+#### 드래그 앤 드랍 디테일1: 드래그 앤 드랍이 가능하면 색깔이 바뀐다.
+여러 앱마다 다르지만 '메모' 앱 내에서는 드래그 앤 드랍이 가능한 곳이면 색깔이 노란색으로 바뀌는 애니메이션을 보여줍니다.
+  <div class="markdown-image">
+<img id="gif-4" src="http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/4.메모가능노란색-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-4').src='http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/4.메모가능노란색-once.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+#### 드래그 앤 드랍 디테일2: 드래그 앤 드랍의 정확한 위치를 커서가 가르켜준다.
+마찬가지로 앱마다 방식이 다르지만 '메모' 앱 내에서 특정 문장을 옮기려고 할 때, 그 위치를 커서가 표시를 해줍니다. 그렇기 때문에 내가 원하는 곳으로 정확히 옮길 수 있습니다.
+  <div class="markdown-image">
+<img id="gif-5" src="http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/5.메모-커서-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-5').src='http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/5.메모-커서-once.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+#### 드래그 앤 드랍 디테일3: 드래그 앤 드롭이 불가능하면 '금지'표시를 추가가 가능하면 '+' 표시로 알려준다.
+특시, 사파리에서 사이트 주소를 드래그 앤 드랍하면 '+'표시가 뜹니다. 기존 탭으로 가져가면 원래 있던 탭의 내용은 사라지고 드랍한 주소로 바뀝니다. 그런데 '탭추가'로 가져가면 드랍한 주소로 새로운 탭을 만들어줍니다.
+<div class="markdown-image">
+<img id="gif-6" src="http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/6.탭-추가-once.gif" alt="" />
+  <p style="text-align:center">
+    <a href="#!"
+      onclick="document.getElementById('gif-6').src='http://gisadan.github.io/assets/article_images/2018-01-12-draganddrop/6.탭-추가-once.gif'" text-align="center" style="color:#C90000">
+      <i class="fa fa-refresh fa-spin fa-lg fa-fw" aria-hidden="true"></i><span class="sr-only"> Repaly</span> </a>
+   </p></div>
+
+
+#### 총평
+위 소개한 디테일 말고도 하나 중요한 것이 있는데 바로 '핑거패싱' 기능입니다. 말 그대로 손가락에서 다른 손가락으로 넘긴다는 뜻입니다. 가령, 엄지손가락에 드래그한 파일들이 모여 있는데 이를 검지손가락으로 넘길 수가 있습니다. 단순히 엄지손가락에 있는 파일위에 검지손가락을 대고 엄지손가락은 떼면 됩니다.
+
+이처럼 다양한 기능과 디테일이 있는데요. 아직은 모든 앱에서 이 기능을 사용할 수 있는 것은 아닙니다. 나머지는 앱 개발자들의 몫입니다. 언젠가는 모든 앱에 기본적으로 들어가는 날이 올 것입니다. 이 훌륭한 기능을 미리 익혀두는 것이 아이패드를 좀 더 스마트하게 사용할 수 있는 방법이 될 것 같습니다.

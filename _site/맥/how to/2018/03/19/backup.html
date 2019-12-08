@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121983857-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121983857-1');
+</script>
+
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 네이버연동 -->
+  <meta name="naver-site-verification" content="eaaaf6f0c0f250d4e52f319526a608ec6fd652b7"/>
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>✚ [How to] 타임머신이용 외장하드에 백업하는 방법.</title>
+
+  <meta name="description" content="Knight's Smart Life !
+" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<!-- 에드센스 승인 코드-->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3892481470905943",
+            enable_page_level_ads: true
+       });
+  </script>
+<!-- 에드센스 승인 코드 끝- -->
+
+  <link rel="canonical" href="http://localhost:4000/%EB%A7%A5/how%20to/2018/03/19/backup.html">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+<!--  <link rel="stylesheet" href=""> -->
+  <link rel="stylesheet" href="http://brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+
+</head>
+
+
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
+
+<a href="http://localhost:4000" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/gt_logo.jpg)"></span></a>
+
+<!-- header end -->
+
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="article-image">
+          <div class="post-image-image" style="background-image: url()">
+            Article Image
+          </div>
+          <div class="post-meta">
+            <h1 class="post-title">✚ [How to] 타임머신이용 외장하드에 백업하는 방법.</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url(/assets/images/author.jpg)">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">‘Gisadan’</h4>
+              on
+              <time datetime="2018-03-19 00:00">19 Mar 2018</time>
+              <!-- , tagged on <span class="post-tag-">, <a href="/tag/"></a></span> -->
+            </div>
+            <div style="text-align:center">
+              <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+          <a name="topofpage"></a>
+          <div style="post-tags">
+          <div class="post-tags">
+  
+  
+  <i class="fa fa-tag" aria-hidden="true"></i><a class="tags" href="/tags/#백업" > 백업</a>,
+  
+  <i class="fa fa-tag" aria-hidden="true"></i><a class="tags" href="/tags/#타임머신" > 타임머신</a>,
+  
+  <i class="fa fa-tag" aria-hidden="true"></i><a class="tags" href="/tags/#외장하드" > 외장하드</a>
+  
+</div>
+<br/>
+
+          </div>
+
+        <h4 id="들어가며">들어가며</h4>
+<p class="drop-korean">
+어떤 운영체제를 쓰든 간에 백업은 필수입니다. 특히 자료를 날려본 사람이라면 더욱 체감할 것 입니다. 아주 중요한 자료는 2중 3중으로 백업을 하는 것이 좋고, 이 백업은 주기적으로 해줘야하는데 일상생활을 하다보면 잊어버리기 쉽상입니다. </p>
+
+<p>맥OS에는 간편하게 백업을 하는 것은 물론, 백업을 놓치는 것을 방지하는 아주 좋은 프로그램이 내장되어 있습니다. 바로 타임머신입니다. 이름에서 알 수 있듯이 내가 원하는 특정 시간으로 되돌아 갈 수 있는 시스템입니다. <strong>맥을 쓰는 도중에 알아서 주기적으로 백업을 하므로 백업이 진행됐는지 모를 때도 있습니다.</strong> <strong>이 백업을 하는 방식은 처음에는 전체 백업을 해야 하므로 굉장히 많은 시간이 걸리지만, 추후에는 변경된 파일만을 백업하기 때문에 상당히 짧은 시간에 백업이 이루어 집니다.</strong></p>
+
+<p>맥에서는 특히 <strong>새로운 OS가 나왔을 때</strong>, 백업을 한 후에 버전을 올리는 것을 권장하는데요, 그 이유는 본인이 자주쓰 던 앱이 버전업된 운영체제에서는 아직 미지원상태여서 작동을 안할 수도 있으며, 각종 버그에 시달릴 수도 있기 때문입니다.</p>
+
+<h4 id="타임머신은-어디에-있을까">타임머신은 어디에 있을까?</h4>
+<p><strong>Step 1 : 좌측상단 사과마크()</strong> <br />
+<strong>Step 2 : 시스템 환경설정</strong> <br />
+<strong>Step 3 : 타임머신 클릭</strong> <br /></p>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-19-backup/1.jpg" alt="" align="middle" /></div>
+
+<h4 id="타임머신은-무엇을-백업하나">타임머신은 무엇을 백업하나?</h4>
+<p>Everything. 모든 것을 백업합니다. 사진부터 파일 하나하나 백업하고, 날짜 별로 백업을 모아둡니다. 그래서 원하는 날짜로 돌아갈 수 있습니다. 여기서 <strong>내가 신경쓰지 않아도 컴퓨터를 사용 중에 자동으로 백업</strong>을 합니다. 이게 매우 편하다고 볼 수 있습니다.</p>
+
+<h4 id="타임머신을-이용해-외장하드에-백업하는-방법">타임머신을 이용해 외장하드에 백업하는 방법!</h4>
+<p>1. 외장하드를 연결합니다.
+2. 시스템 환경설정에서 -&gt; 타임머신 아이콘을 누릅니다. ▼</p>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-19-backup/2.png" alt="" align="middle" /></div>
+
+<p>3. 디스트 선택을 누르면 방금 연결한 외장하드가 보입니다. 선택합니다. ▼</p>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-19-backup/3.png" alt="" align="middle" /></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-19-backup/4.png" alt="" align="middle" /></div>
+
+<p>4. 누르면 기존에 사용하던 타임머신저장소를 바꿀 것인지 둘 다 쓸 것인지가 나옵니다. 처음하시는 분이라면 대체를 누르면 됩니다. 둘 다 사용을 누르면, 자동으로 번갈아 가면서 백업을 합니다. 중요한 작업을 많이 하시는 분들은 2중, 3중으로 백업을 해야하는데, 그럴 때 유용한 옵션입니다. 저장소를 둘다 쓴다고 하면 타임머신에서 알아서 번갈아가면서 백업을 합니다. 혹시라도 외장하드가 고장나는 경우, 다른 쪽은 살아있을 수 있기 때문에 자료를 거기서 복구할 수 있게 됩니다.</p>
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-19-backup/5.png" alt="" align="middle" /></div>
+
+<p>5. 기다리면 백업이 완료됩니다.
+6. 외장하드를 정상적으로 추출하시면 됩니다. (파인더에서 추출버튼 클릭)</p>
+
+<h4 id="마무리">마무리</h4>
+<p>백업을 습관화하여 중요한 자료를 놓치는 일이 없게 하자는 말을 들어본 적이 있으실텐데요, 습관화할 필요없이 자동으로 하게 해놓으면 얼마나 좋을까요? 이 모든 것이 타임머신 백업으로 가능합니다. 맥을 쓰면서 한 번만 설정하면 되기 때문에 꼭 한 번은 설정해두시고 즐거운 맥 라이프 즐기시기 바랍니다.</p>
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-3892481470905943"
+             data-ad-slot="7550601439"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>        
+        </section>
+        <footer class="post-footer">
+          <section class="share">
+            
+              
+                <a class="icon-twitter-square fa-lg" href="http://twitter.com/share?text=%E2%9C%9A+%5BHow+to%5D+%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0%EC%9D%B4%EC%9A%A9+%EC%99%B8%EC%9E%A5%ED%95%98%EB%93%9C%EC%97%90+%EB%B0%B1%EC%97%85%ED%95%98%EB%8A%94+%EB%B0%A9%EB%B2%95.&amp;url=http://localhost:4000/%EB%A7%A5/how%20to/2018/03/19/backup"
+                  onclick="window.open(this.href, 'twitter-square fa-lg-share', 'width=550,height=255');return false;">
+                <i class="fa fa-twitter-square fa-lg fa-lg"></i><span class="hidden">twitter-square fa-lg</span>
+                </a>
+              
+            
+              
+                <a class="icon-facebook-square fa-lg" href="//www.facebook.com/sharer.php?t=%E2%9C%9A+%5BHow+to%5D+%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0%EC%9D%B4%EC%9A%A9+%EC%99%B8%EC%9E%A5%ED%95%98%EB%93%9C%EC%97%90+%EB%B0%B1%EC%97%85%ED%95%98%EB%8A%94+%EB%B0%A9%EB%B2%95.&amp;u=http://localhost:4000/%EB%A7%A5/how%20to/2018/03/19/backup"
+                  onclick="window.open(this.href, 'facebook-square fa-lg-share', 'width=550,height=255');return false;">
+                <i class="fa fa-facebook-square fa-lg fa-lg"></i><span class="hidden">facebook-square fa-lg</span>
+                </a>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          </section>
+        </footer>
+        <div class="related-post">
+
+<h4> ⇥ 관련 글</h4>
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/%EB%A7%A5/2018/07/18/macbook15.html">✚ 2018 맥북프로 인텔코어 i9 사지말아야 하나?</a></h5>
+      </div>
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/%EB%A7%A5/2018/07/18/ifixit-keyboard.html">✚ 새로 출시한 맥북, 버터플라이 키보드 아직 문제있나?</a></h5>
+      </div>
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/%EB%A7%A5/2018/07/15/newmacbook.html">✚ 2018 맥북프로 리프레쉬 모델 출시</a></h5>
+      </div>
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/%EC%95%84%EC%9D%B4%ED%8F%B0/how%20to/2018/07/13/add-mail.html">✚ [How to] 아이폰에 네이버 메일을 연동해보자!</a></h5>
+      </div>
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/how%20to/%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%98/2018/07/11/watch.html">✚ [How to] 애플워치 절전모드 켜는 방법과 스크린 샷 찍는 방법</a></h5>
+      </div>
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/how%20to/%EC%95%84%EC%9D%B4%ED%8F%B0/2018/07/11/block-message.html">✚ [How to] 아이폰 문자, 스팸메시지 차단 하는 방법</a></h5>
+      </div>
+      
+      
+        
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- 텍스트광고 -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-3892481470905943"
+       data-ad-slot="7400210588"
+       data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+        <div class="bottom-teaser cf">
+          <div class="isLeft">
+            <h5 class="index-headline featured"><span>Sitemap</span></h5>
+            <footer class="site-footer">
+              <section class="poweredby"><a href="http://gisadan.github.io/archive"> ⇥ 전체 글 목록 <span><i class="fa fa-archive "> </i>  </span></a></section>
+              <section class="poweredby"><a href="http://gisadan.github.io/category/"> ⇥ 카테고리 <span><i class="fa fa-sitemap "> </i></span></a></section>
+              <a class="poweredby" href="/feed.xml"> ⇥ 구독하기 <span> <i class="fa fa-rss-square "></i></span></a>
+              <!— Html Elements for Search -->
+              <div id="search-container">
+              <input type="text" id="search-input" placeholder="Search...">
+              <ul id="results-container"></ul>
+              </div>
+
+              <!-- Script pointing to jekyll-search.js -->
+              <script src="/dest/jekyll-search.js" type="text/javascript"></script>
+
+
+              <script type="text/javascript">
+                    SimpleJekyllSearch({
+                      searchInput: document.getElementById('search-input'),
+                      resultsContainer: document.getElementById('results-container'),
+                      json: '/search2.json',
+                      searchResultTemplate: '<p><a href="{url}" title="{desc}">{title}</a></p>',
+                      noResultsText: 'No results found',
+                      limit: 10,
+                      fuzzy: false,
+                      exclude: ['Welcome']
+                    })
+              </script>
+            </footer>
+          </div>
+          
+          <div class="isRight">
+            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <section class="author">
+              <div class="author-image" style="background-image: url(/assets/images/author.jpg)">Blog Logo</div>
+              <h4>‘Gisadan’</h4>
+              <p class="bio"></p>
+              <hr>
+              <p class="published">Published <time datetime="2018-03-19 00:00">19 Mar 2018</time></p>
+            </section>
+            <div class="inner">
+              <section class="copyright">All content copyright <a href="/">‘Gisadan’</a> &copy; 2014<br>All rights reserved.</section>
+            </div>
+          </div>
+        </div>
+      </article>
+    </main>
+
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script type="text/javascript">
+function kuisin(idMyDiv){
+     var objDiv = document.getElementById(idMyDiv);
+
+     if(objDiv.style.display=="block"){ objDiv.style.display = "none"; }
+     else{ objDiv.style.display = "block"; }
+}
+</script>
+<script type="text/javascript" src="/assets/js/bigfoot.min.js"></script>
+<script type="text/javascript">
+  	var bigfoot = $.bigfoot(
+  		{
+  		actionOriginalFN: "ignore",
+  		positionContent: "true",
+
+  		}
+  	);
+</script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    $window.on('scroll', function() {
+      var top = $window.scrollTop();
+
+      if (top < 0 || top > 1500) { return; }
+      $image
+        .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+        .css('opacity', 1-Math.max(top/700, 0));
+    });
+    $window.trigger('scroll');
+
+    var height = $('.article-image').height();
+    $('.post-content').css('padding-top', height + 'px');
+
+    $('a[href*=#]:not([href=#])').click(function() {
+      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+       && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+          $('html,body').animate({ scrollTop: target.offset().top }, 500);
+          return false;
+        }
+      }
+    });
+  });
+}(jQuery));
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57674505-1', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>

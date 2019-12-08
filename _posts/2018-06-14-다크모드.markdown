@@ -1,0 +1,57 @@
+---  
+layout: post  
+title: ✚ 맥os 모하비(Mojave), 다크모드의 탄생
+categories:
+- 맥
+tag: [맥, 모하비, 다크모드]
+---  
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/12.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+<p class="drop-korean">
+이번 9월에 출시예정인 새로운 맥os 모하비에 다크모드가 더욱 강화되어 탑재되었습니다. 저는 이번 2018 WWDC에서 소개된 기능 중에 가장 기대하고 있는 기능인데요, 밝은 화면보다는 좀 더 집중할 수 있게 도와주고 눈의 피로도도 줄일 수 있어서 빨리 사용해보고 싶은 기능입니다. </p>
+
+사실 엘 캐피탄에도 다크모드가 존재하긴 하는데 그 성능이 매우 떨어집니다. 다크모드라고 하기보다는 단순히 독(Dock)과 메뉴바(Menu Bar)만 어둡게 해주는 것입니다. 그래서 사용하지는 않았었는데요, 이번에 확실히 강화되서 출시된 것은 물론 애플의 기본 앱인 메일, 메시지, 지도, 캘린더, 사진 등에도 다크모드 디자인이 적용되어 한층 활용도가 높아졌습니다. 
+
+아래 보시는 사진들은 맥에 기본 탑재되어있는 앱들이 실제 다크모드가 적용되었을 때 사진입니다. 단순히 어둡게만 한 것이 아니라 실제 모하비의 다크모드와도 굉장히 잘 어울리게 만들어졌습니다.
+
+#### 파인더
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/3.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+#### 사진
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/4.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+#### Keynote 및 Pages
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/5.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+#### 캘린더 및 메일
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/6.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+#### 아이튠즈 및 문자
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/7.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787">
+이미지 출처 : 애플 WWDC 2018</p> </div>
+
+
+#### 사용법
+<div class="markdown-image">
+<img src="/assets/article_images/2018-06-14-darkmode/8.jpg" alt="" align="middle"/></div>
+위 사진은 엘 캐피탄에서 적용하는 방법인데요, **모하비에서도 똑같다**고 합니다.
+
+**Step 1 : 설정을 누른다.** <br>
+**Step 2 : 일반탭을 누른다.** <br>
+**Step 3 : 다크모드 체크한다.** <br>
+
+엘 캐피탄에서는 아직 쓰지 않는 것을 추천합니다. 해보시면 알겠지만 위에서 언급한 것곽 같이 완성도가 떨어지기 때문입니다. 아직 정식 모하비가 출시할려면 시간이 꽤 남았지만, 그 때까지는 기다리는 것이 정신건강에 이로울 것으로 보입니다.
+
+새로운 맥os는 아마 9월에 정식출시가 되어 그 때부터 다크모드를 이용가능할 것 같은데요, 그 때까지 애플 공식앱이외에 우리가 자주 쓰는 앱들이 모하비에 빨리 대응이 되고, 다크모드까지 기본 앱처럼 잘 어울리게 출시되었으면 하는 바램입니다. 

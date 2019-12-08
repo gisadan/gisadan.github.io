@@ -1,0 +1,37 @@
+---  
+layout: post  
+title: ✚ 이메일과 GTD가 만나다. Dispatch
+categories:
+- 아이폰
+tag: [이메일, 아이폰, GTD]
+---  
+<div class="markdown-image">
+<p style="text-align: center;">
+<img src="/assets/article_images/2018-03-07-dispatch/1.jpg" alt="" align="middle"/></p></div>
+
+#### #들어가며..
+<p class="drop-korean">
+여러 종류의 이메일 앱이 있지만 그중에 <a href="hhttps://itunes.apple.com/kr/app/dispatch-email-meets-gtd/id642022747?mt=8"> Dispatch</a>가 그중에 손에 꼽힐 만큼 좋은 앱입니다. 요즘은 전자우편 즉 이메일이 일반우편보다 훨씬 많이 이용되는데요. 가격이 무료이면서 빠르게 전달된고, 확인도 용이하다는 편이성 때문인거 같습니다. </p>
+
+앱에 관한 특성은 밑에서 자세히 기술하 예정이지만, **한 가지만 간략하게 말씀드린다면 그 질감(?)이 매우 좋습니다. **앱을 쓸 때 느껴지는 손맛이라고 할까요? 그 부분이 매우 인상적입니다. 앱을 쓸 때 나타나는 애니메이션 효과와 손으로 넘기는 작업인 스와이핑을 할 때, 내가 선택한 어떤 것들이 팝업될 때의 **특유의 사운드과 질감이 앱을 사용하는데 있어서 매우 만족감을 줍니다**. **디자인적인 측면이 매우 만족스러운 앱니다.**
+
+다만 한 가지 단점이 있다면 **알림이 이 앱의 가장 큰 단점입니다.** 실시간으로 이메일 알람이 오질 않습니다. 가령, **아이폰의 기본 앱인 메일에서는 이미 새로운 메일이 왔는데 Dispatch는 깜깜무소식일 때가 있습니다.** 이게 가장 아쉬운 부분인데 앱 개잘자가 이 부분만 고쳐준다면 전 이것만 쓸 것 같습니다.
+
+#### #킬링 포인트
+제가 이 앱을 쓰는 **킬링 포인트는 다른 앱과의 연동이 잘 된다**는 것입니다. 가령, Due라는 앱을 자주 쓰는데 이 앱은 특정 시간이 되면 알림을 해주는 앱입니다. 이메일을 이 앱과 연동시키면 내가 정해놓은 시간에 특정메일을 봐야한다고 알림을 띄어주게 되는 거죠. 물론 여러 수동작업을 거치면 되긴하지만 이는 굉장히 스마트하지 못하기 때문에, 이를 한번에 해결해줄수 있는 것이 큰 장점입니다. 이뿐만아니라 **Fantasical 이나 OmniFocus등과도 잘 연동**되어 해야할 일 리스트안에 쉽게 집어넣을 수도 있습니다. 지금은 바빠서 이메일의 자세한 내용을 확인하기 힘들지만, 반드시 해야할 부분이라면 **할 일 리스트에 넣어두고 나중에 하는 것도 방법**이기 때문입니다.
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-07-dispatch/12.png" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-07-dispatch/34.png" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-07-dispatch/56.png" alt="" align="middle"/></div>
+
+저는 이런 부분이 매우 만족스러워 사용중입니다. 실제로 만져보면 저러한 과정에서 나오는 애니메이션과 사운드과 일품입니다. 고급스러운 느낌을 줍니다. 이러한 부분은 실제 사용해보지 않고서는 느낄 수 없는 부분인데요, 기존 쓰던 이메일 앱이 실증이 났거나 새로운 이메일 앱을 알고보고 있으셨던 분들은 Dispatch를 써보시는 것을 추천드립니다.
+
+#### #Dispatch 홍보 연상
+영상을 보면 위에 기술한 것말고도 더욱더 많은 기능이 있습니다. 일일이 글로 쓰면 너무 길어지고 설명하기도 어려울 것같아 영상으로 첨부합니다.▼
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gdBScabn2PU" frameborder="0" allowfullscreen></iframe>
+
+#### #마무리
+수많은 메일 앱이 있지만 그중에 제가 꼭 추천하는 앱에 들어가며, 알림 때문에 아직은 서브로 사용중입니다. 언젠가는 이 부분도 업데이트가 이루어져 메인으로 쓸 수 있으면 좋겠습니다.
+가격은 [$7.69](https://itunes.apple.com/kr/app/dispatch-email-meets-gtd/id642022747?mt=8) 입니다만, 할인을 하게 되면 $2.99 또는 $3.99로 내려갑니다. 알람을 등록해 두었다가 이 때를 노리는 것도 좋은 방법인 것 같습니다.

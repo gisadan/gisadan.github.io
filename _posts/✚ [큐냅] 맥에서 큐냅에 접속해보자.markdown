@@ -1,0 +1,20 @@
+---  
+layout: post  
+title: ✚ [큐냅] 맥에서 큐냅에 접속해보자
+categories:
+-  큐냅
+tag: [큐냅, 나스]
+---  
+
+ 1. 터미널연다
+2. ssh id@192.168.1.154 (예: ssh admin@192.168.1.154 // ssh hyunsoo56@192.168.1.154 )
+3. 비번
+4. vi /share/CACHEDEV1_DATA/.qpkg/QTransmission/etc/settings.json (vi가 에디터를 실행하겠다는 명령어)
+
+a : 를 한번 누르면 수정가능 상태로 바뀐다.
+:w : 변경사항 보관
+:wq : 변경사항 보관 후 vi 종료
+:q! : 변경사항 보관하지 않고 종료
+q : 수정한 파일을 저장하지 않고 vi 종료
+ZZ : 변경사항 보관 후 vi 종료
+e! : 수정한 것을 무시하고 다시 편집상태로

@@ -1,0 +1,33 @@
+---  
+layout: post  
+title: ✚ 최신버전 3세대 버터플라이 키보드, 과연 효과 있을까??
+categories:
+- 맥
+tag: [버터플라이, 키보드]
+---  
+<p class="drop-korean">
+키 캡아래에 실리콘으로 된 멤브레인이 있다는 것을 iFixit에서 처음으로 발견했습니다. 애플은 단지 더 조용하고 새롭게 디자인 되었다고만 발표했지만, 이 실리콘 막을 씌움으로써 작은 먼지나 이물질이 복잡한 메커니즘으로 작동하는 버터플라이 키보드 안으로 들어가 작동을 방해하는 것을 막아주는 역할을 할 것입니다.
+</p>
+
+이를 확인하기 위해서 iFIxit에서 키보드를 분해 후에 테스트를 했습니다. 결과부터 말씀드리면 실리콘 막은 성공으로 제 역할을 합니다.
+
+키보드 테스트를 했을 때, iFIxit은 페인트 파우더를 키보드에 분사했습니다. 아래 이미지에서 보는 것과 같이 새로운 실리콘 막이 페인트 파우더가 막이 쌓이지 않은 키보드내부로 들어가는 것을 굉장히 효과적으로 막아낸 것으로 보입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-07-20-test/1.jpeg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://ifixit.org/blog/10319/butterfly-keyboard-teardown/?utm_medium=email&utm_campaign=071918_PR_MacBook%20Pro%202018%20Butterfly%20Keyboard%20Teardown&utm_content=071918_PR_MacBook%20Pro%202018%20Butterfly%20Keyboard%20Teardown+CID_02e2886a0b01b497f27dc9e6f59fbd72&utm_source=CampaignMonitor&utm_term=Read%20our%20in-depth%20analysis%20to%20find%20out"> iFixit </a></p> </div>
+
+만약 이 막이 없었다면, 얼마나 많은 먼지가 이물질이 안으로 들어갈지 예상할 수 있습니다. 2016-2017 모델은 버터플라이 키보드 2세대가 들어있는데, 이 막이 없습니다. 그래서 굉장히 많은 먼지나 이물질이 안으로 들어가기 쉬운 구조이고, 그렇기 때문에 문제가 발생한 것으로도 유추가 가능합니다.
+
+다만, iFixit에서도 이 실험에서 페인트 파우더보다 더욱**더 고운 입자를 가진 가루들은 저 실리콘 막으로는 막지 못한다**고 말하고 있습니다. 그 가루는 모래와 비슷한 크기이면 힘들다고 하는데요, 모래가 많은 해변이나 바닷가로 갈 때 맥북을 들고가는 것은 피하는 것이 좋아보입니다.
+
+실리콘으로 된 멤브레인이 실제로 먼지를 막는 것인지 혹은 다른 역할인지는 iFixit이 좀 더 조사를 해봐야 한다고 합니다. 그리고 이번 분해를 통해 **키 캡이 이전 버전보다 좀 더 얇다**는 것을 발견했습니다.
+- 신형모델 : 1.25 mm
+- 이전모델 : 1.50 mm
+
+ 그리고 **쉽게 분리가 되어 키보드 밑에 쌓인 먼지 제거를 더욱 간편하게 할 수 있을 것으로 예상**됩니다. 특히, **스페이스바 같은 경우 2세대는 파손없이 분리하는 것은 거이 불가능**에 가까웠습니다만, 이번 3세대는 파손없이 가능하다고 합니다.
+ <div class="markdown-image">
+<img src="/assets/article_images/2018-07-20-test/2.png" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://ifixit.org/blog/10319/butterfly-keyboard-teardown/?utm_medium=email&utm_campaign=071918_PR_MacBook%20Pro%202018%20Butterfly%20Keyboard%20Teardown&utm_content=071918_PR_MacBook%20Pro%202018%20Butterfly%20Keyboard%20Teardown+CID_02e2886a0b01b497f27dc9e6f59fbd72&utm_source=CampaignMonitor&utm_term=Read%20our%20in-depth%20analysis%20to%20find%20out"> iFixit </a></p> </div>
+
+2018 맥북 프로 모델에서 하이엔드 급은 발열 때문에 큰 이슈를 몰고 있는데요, **다행히 키보드에 씌운 멤브레인 막은 제 역할을 하는 것으로 보입니다.** 더 얇아진 키캡 때문에 사용자들이 느낄 수 있는 타건감이나 수 천, 수 만번의 타건으로 인해 저 막이 얼마나 버틸 수 있는 지를 따지는 내구성은 아직 정확하게 밝혀진 것이 없습니다.
+
+하지만 지금까지 여러 곳에서 거친 테스트 결과를 볼 때, 성공적이라고 볼 수 있습니다. 만약, 이 키보드까지 문제를 읽으켰다면 2018 맥북 프로는 망작이라고 해도 과언이 아닐정도인데요, 이 것만은 면한 것 같습니다. 계속되는 신형 맥북의 테스트와 후기에도 3세대 버터플라이 키보드가 제 역할을 잘 해냈으면 하는 바람입니다.

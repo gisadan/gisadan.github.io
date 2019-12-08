@@ -1,0 +1,25 @@
+---  
+layout: post  
+title: ✚ Busycal3 등 맥 번들 할인 - 10가지 앱 $19.99
+categories:
+- 맥
+tag: [맥앱, 필수앱, 번들, 할인]
+---  
+#### 할인정보
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-13-bundle/1.png" alt="" align="middle"/></div>
+
+[10가지 앱이 번들](https://macbundler.stacksocial.com/sales/the-2018-mac-essentials-bundle-busycal-3)로 나왔습니다. 할인률은 무려 96%인데요. 특히 그중에 눈에 띄는 앱이 있어서 소개합니다.
+
+1. **Busycal3** : Fantastical2와 함께 스케쥴러 앱으로 각광받는 앱입니다. 저는 아직까지 Fantastical2를 쓰고 있지만 Busycal3 또한 굉장히 완성도 높은 앱으로 알려져있습니다. 같은 회사에서 나온 Busycontacts 또한 인기가 많습니다. Fantastical2와는 취향차이라고 볼 수 있는데요. 이번 기회에 싼 값(?)에 써보는 것도 방법일 것 같습니다. 
+2. **Cargo VPN**:  2-Year Subscription : VPN 서비스를 2년간 구독할 수 있는 라이센스를 준다고 합니다. VPN은 보통 우회를 할 때 주로 사용하곤 하죠. 가령, 미국에서 접속한 것처럼 한다는가 할 때 말입니다.
+3. **HoudahSpot 4** : 강력한 서치툴입니다. 맥 자체네에서 강력한 검색을 자랑한다고 합니다. 파일의 이름이나 메모장내에 있는 문맥, 영수중, 픽셀수까지 많은 것을 검색할 수 있다고 합니다. CNET Editor는 4/5 평점을 줬습니다.
+4. **uBar 4** : 아주 특이한 앱인데요, 맥의 Dock을 윈도우스럽게(?) 바꿔주는 앱입니다. 윈도우의 작업표시줄이 마음에 드시는 분들은 고려해볼만 합니다.
+5. **Cisdem DuplicateFinder 4**: Lifetime License : 평생 라이센스인데요, 중복된 파일을 찾아 삭제해주는 프로그램입니다.
+6. **RollerCoaster Tycoon 3**: Platinum : 롤러코스터 타이쿤3 입니다. 맥용이구요 리딤은 구매 후 30일 내로 해야한다고 합니다.
+7. **Systweak Anti-Malware Pro: 2-Yr Subscription** : 말웨어로부터 지켜주는 국내 V3같은 프로그램입니다. 2년간 사용할 수 있는 키를 준다고 합니다.
+8. **Hide & Encrypt the Private Info on Your Mac with Ease** : 맥에 있는 각종 정보를 넣고 감추거나 암호를 거는 앱입니다.
+9. **Movavi Photo Editor** : 이미지 편집툴입니다. 가볍게 사용하기에는 나쁘지 않은거 같습니다.
+10. **Flip PDF for Mac: Lifetime License** : pdf를 잡지나 카탈로그, 이북등으로 변환 해주는 프로그램입니다. 평생라이센스를 제공한다고 합니다.
+
+이 중에 추천하는 것은 [Busycal3](https://www.busymac.com/busycal/) 와 [RollerCoaster Tycoon 3](http://www.rollercoastertycoon.com/rollercoaster-tycoon-3-platinum/)입니다. 이 2가지 앱만 보고 구매를 해도 충분히 돈값은 하고 사게산거나 마찬가지입니다. 이 2가지 앱에 관심이 있었던 분들은 구매해도 충분히 좋은 선택이 될 것 같습니다.

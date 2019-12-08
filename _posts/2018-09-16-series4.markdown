@@ -1,0 +1,72 @@
+---  
+layout: post  
+title: ✚ [키노트] 애플워치 시리즈 4 출시, 총정리 그리고 사세요, 두번 사세요
+categories:
+- 애플워치
+tag: [애플워치, 시리즈4]
+---  
+<p class="drop-korean">
+애플워치 시리즈 4가 드디어 출시되었습니다. 이번 키노트를 통해 애플이 발표한 제품 중 가장 마음에 드는 제품입니다. 저도 현재 애플워치 시리즈 3를 사용 중에 있지만, 한국에 정식 출시된다면 새로 구매할 의향을 정도로 아주 잘 나온 것 같습니다.
+</p>
+
+그럼 이제 어떤 기능들이 추가되었고, 왜 사야하는지에 대해 좀 더 자세히 설명해보겠습니다.
+
+#### 더욱 커진 디스플레이
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+이번에 출시된 애플워치는 지금까지 출시된 애플워치 시리즈들과는 다르게 디스플레이가 더 커졌습니다. 본체의 사이즈도 조금 변화가 있기는 하지만, 기존에 출시되었던 밴드들과 호환가능한 정도로 변경이 되었습니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/2.jpg" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/34.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+그리고 이렇게 더욱 커진만큼 더 많은 정보들을 한 디스플레이에 담을 수 있게되었습니다. 제공되는 페이스에 따라 정보를 담을 수 있는 가지수가 다르겠지만, 어쨌든 더 많은 정보를 한눈에 볼 수 있다는 것은 장점일 수 있습니다. 손으로 터치하거나 스와이프하는 과정없이도 정보를 더 볼 수 있다는 것을 뜻하니 말입니다.
+
+
+#### 더욱 정교하게 다듬어진 디자인
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/567.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+
+기존 시리즈들과는 다르게 각 모서리가 라운드형태로 변경되어 조금 더 세련되고, 정교한 느낌을 줍니다. 두께 또한 기존 제품보다 조금 더 얇아졌습니다. 전반적으로 디스플레이는 심리스를 채택하여 이음매가 없습니다.
+
+#### 햅틱기능이 추가된 디지털 크라운
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/89.jpg" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/1011.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+애플워치 시리즈 3 까지만 하더라도 디지털 크라운을 돌리면 아무 느낌이 나지 않았습니다. 그냥 마우스의 무한휠을 돌릴 때처럼 돌아가기는 하지만 걸리는 느낌은 들지 않았습니다.
+
+하지만 이번에 출시된 시리즈 4에서는 돌릴 때마다 딸깍거리는 느낌이 들도록 햅틱기능이 추가되었고, 누를 때도 실제로 물리적으로 움직이는 거이 아니라 눌리는 느낌이 들도록 바뀌었습니다.
+
+이러한 햅틱기능으로 좀 더 정교하게, 정밀하게 조정이 가능할 것으로 보입니다.
+
+#### 심전도 기능의 추가와 심박수 센서 업그레이드
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/12.jpg" alt="" align="middle"/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/1314.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+
+
+시리즈 4에서는 심전도를 측정할 수 있는 기능이 추가되었고, 심박수 센서까지 업그레이드 되었습니다. 심박수 센서의 업그레이드는 이미 루머에서도 예측을 하고 있었는데 심전도 기능은 예측하지 못했던 부분입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/1516.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+
+병원에서만보던 장비없이 심전도 측정이 가능하다는 점이 흥미로운 대목입니다. 위 사진에서 보는바와 같이 디지털크라운에 손을 올려놓으면 심전도를 체크합니다. 하지만 이는 미국내에서 승인을 받았고, 아직 한국에서는 기관의 정식 승인을 받지 않았기 때문에 사용할 수는 없지만, 곧 승인되어 사용할 수 있을 것이라고 보고 있습니다.
+
+#### 3종류 출시
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/18.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.apple.com/kr/apple-watch-nike/"> 애플공식홈페이지 </a></p> </div>
+
+이번에 출시되는 종류는 전작과 마찬가지로 애플워치 스테인레스스틸과 알루미늄이 출시가 될 것이고, 나이키와 협업작품인 애플워치 나이키 모델과 명품이라고 불리는 에르메스 모델이 출시될 것입니다.
+
+나이키 모델과 에르메스는 각 모델들만 쓸 수 있는 전용 페이스가 들어가있어서, 꼭 그 페이스를 쓰고 싶다면 해당 모델을 구매해야만 합니다.
+
+#### 결론
+<div class="markdown-image">
+<img src="/assets/article_images/2018-09-16-series4/17.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.youtube.com/watch?v=6EiI5_-7liQ&frags=pl%2Cwn"> 애플유튜브 채널 </a></p> </div>
+우선 애플워치 시리즈 4가 이 번에 같이 발표한 아이폰 시리즈들보다 더욱 구매욕구를 당기는 것은 가격이 오르지 않았기 때문입니다. 가격이 오르지않고 많은 기능들이 업그레이되었는데요, 그렇기 때문에 사람들의 평도 긍적적으로 평가되는것 같습니다.
+
+스티브잡스 시절에는 매년 출시될 때마다, 굉장힌 기능들이 업그레이드되었지만, 가격이 오른적은 없는 걸로 기억하고 있습니다. 있더라고 이런식으로 무지막지하게 올라간 적은 없었겠죠?! 이번 아이폰 Xs 시리즈가 전작보다 더 좋은 것은 사실이나 가격적인 측면에서 조금 부정적인 평가를 받는 것은 사실입니다.
+
+흔히들 가성비가 떨어진다고들 하죠. 그러지만 애플워치 시리즈 4 만큼은 가성비가 좋다고 말할 수 있겠고, 더욱커진 디스플레이와 각종 신기능과 센서, 더욱 빨라진 프로세서 등을 고려해볼때, 구매해도 후회하지 않을 제품일 것 같습니다.

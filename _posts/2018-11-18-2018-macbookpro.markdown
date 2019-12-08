@@ -1,0 +1,24 @@
+---  
+layout: post  
+title: ✚ 2018, 라데온 프로 베가 그래픽이 탑재된 15인치 맥북프로 주문가능.
+categories:
+- 맥
+tag: [맥북]
+---  
+<p class="drop-korean">
+10월 이벤트에서 발표된 바와 같이, 애플은 라데온 프로 베그 그래픽 카드를 고를 수 있는 사양을 제공합니다. 라데온 프로 베가 16 또는 20 카드는 $250 그리고 $350으로 구매가 가능하며, 오직 고급형 맥북프로 15인치에서만 선택이 가능합니다.
+</p>
+
+라데온 프로 베가 그래픽 카드는 HBM2 4기가 메모리가 탑재되었습니다. HBM이란 'the HB stands for high bandwidth'를 말합니다. 어려운 얘기는 제외하고 HBM은 DDR4보다 더 작으면서 내구성은 좋고, 전력은 조금 소모하며 더 높은 대역폭을 가집니다.
+
+한마디로 좋은 놈입니다. 애플은 새로운 그래픽 옵션이 이전 하이엔드급 라디온 프로 560X보다 60 퍼센트 더 빠르다고 합니다. 하이엔드 급과 비교해서 60 퍼센트는 굉장히 높은 수치입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-11-18-newmacbook2018/1.png" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://developer.apple.com/"> 애플공식홈페이지 </a></p> </div>
+
+이 그래픽 카드는 2018 고급형 맥북에서만 선택이 가능하며, 이 카드를 선택하고 가장 저렴한 모델의 가격은 $3049입니다. CPU는 2.6 GHz i7 이고, 램은 16기가 입니다. 그리고 512GB SSD가 탑재됩니다.
+
+아직은 미국 온라인에서만 구매가 가능하며, 예상 배송 기간은 1주일 입니다. 국내 홈페이지에 들어가면 **새 옵션은 11월 말 출시 예정**이라고 표기가 되어 있습니다. 그렇지만 기존 라데온 프로 560X로는 지금 바로 구매할 수도 있습니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2018-11-18-newmacbook2018/2.png" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://www.amd.com/ko/graphics/workstations-radeon-pro-vega#RADEON™-PRO-VEGA-시리즈"> AMD 홈페이지 </a></p> </div>

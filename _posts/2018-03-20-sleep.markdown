@@ -1,0 +1,30 @@
+---  
+layout: post  
+title: ✚ 애플워치의 수면관리 서드파티앱, Sleep++ 그리고 AutoSleep
+categories:
+- 애플워치
+tag: [수면관리, 수면, 애플워치, Sleep++, AutoSleep]
+---  
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-20-sleep/910.png" alt="" align="middle"/></div>
+<p style="text-align: center;">
+ Sleep++(좌) vs. AutoSleep(우) ▲</p>
+
+두 앱이 생김새는 달라도 사용방법은 거의 비슷합니다.
+[AutoSleep](https://itunes.apple.com/kr/app/autosleep-트래커-with-watch/id1164801111?mt=8&ign-mpt=uo%3D4%26amp%3Buo%3D4&ign-itsct=1164801111-1164801111&ign-itscg=0176)과 마찬가지로 [Sleep++](https://itunes.apple.com/kr/app/sleep++/id1038440371?mt=8)도 아이폰에 설치하고 자동적으로 수면을 추적할 수 있도록 건강데이터 접근 권한을 주기만 하면됩니다. 물론 수면하는 동안 애플워치를 차고 자야하는 건 동일합니다.애플워치에 앱을 설치할 필요도 없고, 수면모드를 수동으로 활성화시킬 필요도 없습니다.
+
+Sleep++ 같은 경우에는 자기전에 '나 잔다'라고 앱에 들어가 터치를 해주고 아침에 일어나서 꺼줘야 정상적인 수면분석이 가능했습니다. 그렇기 때문에 나도 모르게 잠들어서 안누르고 자는 경우가 많아, Sleep++가 자연스럽게 쓰지않게 되었습니다. 하지만 버전 3.0으로 업그레이드 되면서 기존에 번거롭게 눌러줘야 했던 것들이 필요없게 되고, 단순히 애플워치를 차고 자기만하면 자동으로 분석을 해주는 기능이 생겨 한결 편해졌습니다.
+
+#### Sleep++ ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-20-sleep/123.png" alt="" align="middle"/></div>
+
+Sleep++가 자동수면인지기능이 없었을 때는 그 기능 있고 없고 차이가 AutoSleep과 대단한 차이를 보이는 것이었습니다. 하지만 이제 둘 다 똑같이 그 기능이 생김으로써 차이는 데이터활용과 인터페이스 차이로 나뉘게 됩니다. 간단히 말해서 Sleep++는 매우 간단하고 직관적입니다. 메인화면에서 카드형식으로 수면관련 데이터를 볼 수 있고, 해당 날짜를 터치해서 들어가면 그 날에 수면 질과 시간을 볼 수 있습니다. 그리고 그래프처럼 보이는 파란색 바는 3가지로 나뉘는데 깨어있던 시간, 잘 잔 시간, 선 잠을 잔 시간 이렇게 3개의 블록으로 구별되여 보여집니다. Sleep++는 그 동안의 추세를 분석하지도 않고, 건강 앱의 점수를 쌓는 것도 없으며, 주간 또는 월간 목표도 없습니다. 그냥 단순히 딱 3가지만 볼 수 있는 것입니다. 충분히 잔 시간은 몇 시간인지, 뒤척인 시간은 몇 시간인지, 깨어있는 시간은 몇 시간인지 그뿐입니다.
+
+#### AutoSleep ▼
+<div class="markdown-image">
+<img src="/assets/article_images/2018-03-20-sleep/456.png" alt="" align="middle"/></div>
+
+반면에 AutoSleep은 여러 가지 기능이 매우 많습니다. 시계 형식으로 된 원형그래프와 시간 주간, 월간 히스토리, 타임테이블 등이 있고 현란한 색으로 각각의 색깔이 의미하는 바가 다릅니다. **이게 장점이자 단점이 될 수 있습니다.** 왜냐하면 대부분의 사람들이 그냥 숙면을 얼마나 취했는 지 정도의 데이터만 알면 되는데 그보다 훨씬 더 복잡한 정보를 제공함으로써, 이를 공부해야만 알 수 있는 상황이 발생하기 때문입니다. 여러 가지 컬러와  다양한 아이콘 그리고 원형 테이블이 의미하는 것부터 지금 보고 있는 아이콘 혹은 이미지가 좋은 것을 뜻하는지, 안 좋은것을 뜻하는지 등등 공부할 게 많습니다.
+
+저는 간단하게 사용하고 싶다면 [Sleep++](https://itunes.apple.com/kr/app/sleep++/id1038440371?mt=8)를 좀 더 전문적으로 나의 수면에 대해 파악하고 공부하고 싶다면 [AutoSleep](https://itunes.apple.com/kr/app/autosleep-트래커-with-watch/id1164801111?mt=8&ign-mpt=uo%3D4%26amp%3Buo%3D4&ign-itsct=1164801111-1164801111&ign-itscg=0176)을 추천합니다.

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DocumentName</key>
+	<string>IMG_6568.JPG</string>
+	<key>OriginalImagePath</key>
+	<string>/Users/hyunsoolee/Desktop/2018-07-10-heartrate/IMG_6568.JPG</string>
+	<key>place</key>
+	<dict>
+		<key>aspect</key>
+		<integer>0</integer>
+		<key>blurRadius</key>
+		<real>10.046034926034025</real>
+		<key>bounds</key>
+		<string>{{0, 0}, {916, 687}}</string>
+		<key>brightness</key>
+		<real>0.17415966386554618</real>
+		<key>brightnessFocus</key>
+		<real>0.0</real>
+		<key>clarity</key>
+		<real>0.10983455882352941</real>
+		<key>contrast</key>
+		<real>-0.28182773109243697</real>
+		<key>enhanceMode</key>
+		<real>0.0</real>
+		<key>fitRatioCoef</key>
+		<real>657.1595900439238</real>
+		<key>highlights</key>
+		<real>0.65022977941176463</real>
+		<key>ibounds</key>
+		<string>{{0, 0}, {916, 687}}</string>
+		<key>imagePosition</key>
+		<string>{458.58571428571423, 343.28775510204082}</string>
+		<key>motionAmount</key>
+		<real>0.34089417016806722</real>
+		<key>motionAngle</key>
+		<real>0.0</real>
+		<key>motionCenterX</key>
+		<real>0.22669896288209612</real>
+		<key>motionCenterY</key>
+		<real>0.4228074963609898</real>
+		<key>motionIsRadial</key>
+		<true/>
+		<key>motionTwirl</key>
+		<real>0.0</real>
+		<key>relativeImagePosition</key>
+		<string>{0.5, 0.5}</string>
+		<key>rotateAngle</key>
+		<real>0.0</real>
+		<key>saturation</key>
+		<real>-0.031315651260504174</real>
+		<key>saturationFocus</key>
+		<real>0.40000000000000002</real>
+		<key>scale</key>
+		<real>1</real>
+		<key>sharpen</key>
+		<real>0.5</real>
+	</dict>
+	<key>tool</key>
+	<dict>
+		<key>macro</key>
+		<dict>
+			<key>blurRadius</key>
+			<real>10.046034926034025</real>
+			<key>brightness</key>
+			<real>0.17415966386554618</real>
+			<key>brightnessFocus</key>
+			<real>0.0</real>
+			<key>clarity</key>
+			<real>0.10983455882352941</real>
+			<key>contrast</key>
+			<real>-0.28182773109243697</real>
+			<key>enhanceMode</key>
+			<false/>
+			<key>highlights</key>
+			<real>0.65022977941176463</real>
+			<key>innerAngle</key>
+			<real>0.0</real>
+			<key>innerPosition</key>
+			<string>{0.22669896288209612, 0.4228074963609898}</string>
+			<key>innerRadius</key>
+			<real>0.34999999999999998</real>
+			<key>innerScaleX</key>
+			<real>0.65235197708296722</real>
+			<key>innerScaleY</key>
+			<real>0.65074669263207285</real>
+			<key>motionAmount</key>
+			<real>0.34089417016806722</real>
+			<key>motionAngle</key>
+			<real>0.0</real>
+			<key>motionCenterX</key>
+			<real>0.22669896288209612</real>
+			<key>motionCenterY</key>
+			<real>0.4228074963609898</real>
+			<key>motionIsRadial</key>
+			<true/>
+			<key>motionTwirl</key>
+			<real>0.0</real>
+			<key>outerAngle</key>
+			<real>0.0</real>
+			<key>outerPosition</key>
+			<string>{0.22669896288209612, 0.4228074963609898}</string>
+			<key>outerRadius</key>
+			<real>0.69999999999999996</real>
+			<key>outerScaleX</key>
+			<real>0.65235197708296722</real>
+			<key>outerScaleY</key>
+			<real>0.65074669263207285</real>
+			<key>saturation</key>
+			<real>-0.031315651260504174</real>
+			<key>saturationFocus</key>
+			<real>0.40000000000000002</real>
+			<key>sharpen</key>
+			<real>0.5</real>
+		</dict>
+	</dict>
+	<key>version</key>
+	<string>1.1</string>
+</dict>
+</plist>
