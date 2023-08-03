@@ -6,7 +6,7 @@ categories:
 tag: [애플, 실적, 매출]
 ---
 
-<div class=“markdown-image”>
+<div class=”markdown-image“>
 <img src=“/assets/article_images/2023-08-03-apple-earning/1.jpg” alt=“” align=“middle”/><p style=“text-align:right;  color:#878787”> 이미지출처 : <a href=“https://9to5mac.com/2023/08/01/aapl-q3-earnings-drop/“> 9to5Mac </a></p> </div>
 
 <p class=“drop-korean”>
