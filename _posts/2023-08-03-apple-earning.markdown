@@ -6,10 +6,10 @@ categories:
 tag: [애플, 실적, 매출]
 ---
 
-<div class=”markdown-image“>
-<img src=“/assets/article_images/2023-08-03-apple-earning/1.jpg” alt=“” align=“middle”/><p style=“text-align:right;  color:#878787”> 이미지출처 : <a href=“https://9to5mac.com/2023/08/01/aapl-q3-earnings-drop/“> 9to5Mac </a></p> </div>
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-03-apple-earning/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/01/aapl-q3-earnings-drop/"> 9to5Mac </a></p> </div>
 
-<p class=“drop-korean”>
+<p class="drop-korean">
 애플은 2023년 제3분기 실적을 목요일에 발표할 예정이며, 분석가들은 기대치보다 낙관적이지 않은 것으로 보입니다.
 </p>
 
