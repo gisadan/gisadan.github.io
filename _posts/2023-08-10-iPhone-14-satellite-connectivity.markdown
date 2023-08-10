@@ -2,7 +2,7 @@
 layout: post  
 title: ✚ "아이폰의 긴급 SOS via 위성 기능 덕분에 한 가족이 마우이의 산불로부터 구조"
 categories:
-- 
+- 아이폰
 tag: [아이폰]
 ---
 
