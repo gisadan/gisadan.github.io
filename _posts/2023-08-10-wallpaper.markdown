@@ -7,7 +7,7 @@ tag: [배경화면]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/22023-08-10-wallpaper/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/09/download-flow-wallpaper-iphon-mac-basic-apple-guy/ </a></p> </div>
+<img src="/assets/article_images/22023-08-10-wallpaper/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/09/download-flow-wallpaper-iphon-mac-basic-apple-guy/"> 9to5Mac </a></p> </div>
 
 
 <p class="drop-korean">

@@ -7,7 +7,7 @@ tag: [애플, 아이폰, 아이폰15프로]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-05-iphone15pro/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="ttps://9to5mac.com/2023/08/06/iphone-15-release-date-rumors/"> 9to5Mac </a></p> </div>
+<img src="/assets/article_images/2023-08-05-iphone15pro/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/06/iphone-15-release-date-rumors/"> 9to5Mac </a></p> </div>
 
 <p class="drop-korean">
 이번 달 초, 9to5Mac은 애플이 현재 9월 13일쯤 iPhone 15 라인업을 발표할 계획이라고 보도했습니다. 
