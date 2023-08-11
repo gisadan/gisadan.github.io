@@ -8,7 +8,7 @@ tag: [아이폰]
 
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-11-iphone15pro-rumor.markdown/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/"> 9to5Mac </a></p> </div>
+<img src="/assets/article_images/2023-08-11-iphone15pro-rumor/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/"> 9to5Mac </a></p> </div>
 
 <p class="drop-korean">
 아마도 iPhone 15 Pro의 루머에 따르면 다음과 같은 사양이 기대됩니다:
