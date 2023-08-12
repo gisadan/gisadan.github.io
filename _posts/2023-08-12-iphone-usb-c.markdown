@@ -23,8 +23,7 @@ tag: [아이폰15]
 만약 애플이 기존의 일부 아이폰을 모두 USB-C 라인업으로 새롭게 업데이트할 계획이라면, 어떤 아이폰이 선택될까요?
 코드 해독자인 @aaronp613은 오늘 자신의 추측을 다음과 같은 재미있는 그래픽으로 공유했습니다:
 
-￼<div class=“markdown-image”>
-<img src=“/assets/article_images/2023-08-12-iphone-usb-c/2.jpg” alt=“” align=“middle”/> </div>
+<img src=“/assets/article_images/2023-08-12-iphone-usb-c/2.jpg” alt=“” align=“middle”/>
 
 새로운 A15 iPhone에 관한 추가적인 추측 이전에, 나는 다음 달의 아이폰 라인업이 월요일에 어떻게 보일 것인지에 대한 예측을 제시했습니다:
 
