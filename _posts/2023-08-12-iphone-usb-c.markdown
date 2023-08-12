@@ -10,7 +10,7 @@ tag: [아이폰15]
 <img src="/assets/article_images/2023-08-12-iphone-usb-c/1.jpg" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
-우리는 아마도 아이폰 15와 아이폰 15 Pro 시리즈에 대해 대부분은 이미 알고 있습니다.
+우리는 아마도 아이폰 15와 아이폰 15 Pro 시리즈에 대해 나온 루머의 대부분은 이미 알고 있습니다.
 </p>
 
 애플은 8월 29일 또는 9월 5일에 아이폰 이벤트를 발표할 것입니다. 아이폰은 공식적으로 9월 12일에 공개될 것입니다. 예약 주문은 9월 15일에 시작될 것이며,  9월 22일에 고객들에게 도달할 것입니다.
@@ -23,8 +23,8 @@ tag: [아이폰15]
 만약 애플이 기존의 일부 아이폰을 모두 USB-C 라인업으로 새롭게 업데이트할 계획이라면, 어떤 아이폰이 선택될까요?
 코드 해독자인 @aaronp613은 오늘 자신의 추측을 다음과 같은 재미있는 그래픽으로 공유했습니다:
 
-￼<div class=“markdown-image”>
-<img src=“/assets/article_images/2023-08-12-iphone-usb-c/2.jpg” alt=“” align=“middle”/> </div>
+￼<div class="markdown-image">
+<img src="/assets/article_images/2023-08-12-iphone-usb-c/2.jpg" alt="" align="middle"/> </div>
 
 새로운 A15 iPhone에 관한 추가적인 추측 이전에, 나는 다음 달의 아이폰 라인업이 월요일에 어떻게 보일 것인지에 대한 예측을 제시했습니다:
 
