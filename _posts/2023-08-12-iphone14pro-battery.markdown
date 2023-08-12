@@ -25,16 +25,16 @@ iPhone은 화학적으로 노화되는 리튬 이온 배터리를 사용하며, 
 ### iPhone 14 Pro의 ‘최대 용량’ 배터리 우려
 지난 몇 달간 많은 수의 iPhone 14 Pro 사용자들이 트위터와 다른 소셜 미디어 플랫폼을 통해 iPhone 14 Pro 배터리의 ‘최대 용량’ 스크린샷을 공유하고 있습니다.
 
-	1. [Aaron Zollo](https://twitter.com/zollotech/status/1686778636471271425): 최대 용량 90%
-	2. [Apple Hub](https://twitter.com/theapplehub/status/1686890453428539392): 최대 용량 89%
-	3. [Lon Siedman](https://twitter.com/lonseidman/status/1689955380904841216): 최대 용량 88%
-	4. [Jon Rettinger](https://twitter.com/Jon4Lakers/status/1690026009125613568): 최대 용량 90%
-	5. [MilesAboveTech](https://twitter.com/milesabovetech/status/1689909561719734272): 최대 용량 86%
-	6. [Robert Rosenfeld](https://twitter.com/robertrosenfeld/status/1690028474327838720): 최대 용량 93%
-	7. [Andrew Clare](https://twitter.com/robertrosenfeld/status/1690028474327838720): 최대 용량 90%
-	8. [TechDaily](https://twitter.com/TechDaily/status/1686777352351817728): 최대 용량 89%
-	9. [Matou Ecureuil](https://twitter.com/MatouEcureuil/status/1689907937794269184): 최대 용량 88%
-	10. [Brandon Butch](https://twitter.com/brandonbutch/status/1684269410196791296?s=61&t=J9X8ac9jgxFwZbya0U_mTg): 최대 용량 91%
+	* [Aaron Zollo](https://twitter.com/zollotech/status/1686778636471271425) : 최대 용량 90%
+	* [Apple Hub](https://twitter.com/theapplehub/status/1686890453428539392) : 최대 용량 89%
+	* [Lon Siedman](https://twitter.com/lonseidman/status/1689955380904841216) : 최대 용량 88%
+	* [Jon Rettinger](https://twitter.com/Jon4Lakers/status/1690026009125613568) : 최대 용량 90%
+	* [MilesAboveTech](https://twitter.com/milesabovetech/status/1689909561719734272) : 최대 용량 86%
+	* [Robert Rosenfeld](https://twitter.com/robertrosenfeld/status/1690028474327838720) : 최대 용량 93%
+	* [Andrew Clare](https://twitter.com/robertrosenfeld/status/1690028474327838720) : 최대 용량 90%
+	* [TechDaily](https://twitter.com/TechDaily/status/1686777352351817728) : 최대 용량 89%
+	* [Matou Ecureuil](https://twitter.com/MatouEcureuil/status/1689907937794269184) : 최대 용량 88%
+	* [Brandon Butch](https://twitter.com/brandonbutch/status/1684269410196791296?s=61&t=J9X8ac9jgxFwZbya0U_mTg): 최대 용량 91%
 
 이 수치는 설정 앱으로 들어가서 "배터리"를 선택한 다음 "배터리 건강 및 충전"을 탭하여 찾을 수 있습니다. 애플은 이 수치가 "새로운 상태일 때의 배터리 용량을 기준으로 한 측정"이라고 설명하며, 따라서 "용량이 낮아지면 충전 간 사용 가능한 시간이 줄어들 수 있다"고 합니다.
 아이폰 14 Pro 사용자들이 자신의 아이폰 14 Pro의 "최대 용량" 평가에 변화가 나타나는 몇 가지 가능한 이유가 있습니다. 첫째, 이 숫자가 이전 아이폰 모델과 비교하여 어떻게 계산되는지에 대한 알고리즘이 애플에 의해 조정된 것일 수 있습니다.<br>
@@ -42,7 +42,7 @@ iOS 17 베타 버전이 아이폰 배터리 건강에 비정상적으로 큰 영
 또 다른 가능성은 아이폰 14 Pro 전용 기능인 Always-On Display와 같은 기능이 전반적인 배터리 건강에 영향을 미치는 것일 수 있습니다. 아이폰 14 Pro의 디스플레이는 실외 환경에서 최대 2000닛의 최고 밝기를 낼 수 있어, 아이폰 13 Pro의 거의 두 배에 해당합니다.<br>
 그럼에도 불구하고 애플은 아이폰 14 Pro 사용자들의 이러한 불만에 직접적으로 응답하지 않았으므로 현재까지는 이 모든 내용이 현재 추측일 뿐입니다. 일반적으로 회사는 "최대 용량"이 80% 미만으로 떨어질 때 배터리 교체를 권장합니다. 아이폰 14 Pro가 출시된 지 1년도 되지 않은 시기에 일부 사용자들이 이 임계값에 가까워지고 있다는 것은 놀랍기도 합니다.
 아이폰 배터리 교체는 모든 새 아이폰 구매에 포함된 1년 보증과 AppleCare+ 계획에 포함된 아이폰 모델에 대해 보증 적용됩니다(아이폰 배터리 건강이 80% 미만인 경우).<br>
-보증이 만료되었거나 80% 미만으로 떨어지기 전에 배터리 교체를 원하는 경우 다음과 같은 교체 가격이 적용됩니다:
+보증이 만료되었거나 80% 미만으로 떨어지기 전에 배터리 교체를 원하는 경우 다음과 같은 교체 가격이 적용됩니다:<br>
 • 아이폰 14: 99달러<br>
 • 아이폰 X, 아이폰 11, 아이폰 12, 그리고 아이폰 13: 89달러<br>
 • 아이폰 SE, 아이폰 8, 그리고 이전 모델: 69달러<br>
