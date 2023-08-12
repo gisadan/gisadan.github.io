@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: ✚ 애플, 칼텍에 8억 3천만 달러 배상금 지불해야..
+title: ✚ 아이폰14Pro, 1년도 안되 배터리 급격한 감소
 categories:
 - 아이폰
 tag: [아이폰14Pro]
