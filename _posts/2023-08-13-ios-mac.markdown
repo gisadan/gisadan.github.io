@@ -7,7 +7,7 @@ tag: [iOS17, macOS]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-13-ios17-mac/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/07/11/how-businesses-will-benefit-from-macos-sonoma-and-ios-17/"</a>9to5Mac </p> </div>
+<img src="/assets/article_images/2023-08-13-ios17-mac/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/07/11/how-businesses-will-benefit-from-macos-sonoma-and-ios-17/"> 9to5Mac  </a> </p> </div>
 
 <p class="drop-korean">
 업무적으로 macOS Sonoma와 iOS 17를 사용할 때 어떻게 활용되는지 알아보겠습니다.
