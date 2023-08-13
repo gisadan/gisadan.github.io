@@ -1,0 +1,28 @@
+---
+layout: post  
+title: ✚ "Dynamic Island"이 iOS 17에서는 조금 다르게 보이나요?
+categories:
+- 애플
+tag: [iOS17]
+---
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-13-dynamic-island/1.jpg" alt="" align="middle"/><p style="text-align:right; color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/12/ios-17-dynamic-island-iphone-15/"> 9to5mac </a> </p> </div>
+
+
+[Zac Hall](https://9to5mac.com/author/apollozac/), 9to5Mac에서 글을 쓰는 사람이다. 
+
+어떻게 9to5Mac 같은 큰 곳에서 글을 쓸 수 있는 지 의문인 글 쓰기 솜씨를 가졌다. 아래 글도 그의 글을 번역한 것인데 번역하면서 상당히 후회했다. 다시는 이 사람의 글을 번역하지는 않을 것 같다. 글이 두서가 없고 맥락도 없다. 글을 읽으면서 상당히 짜증이 났다.
+
+￼
+> 저는 WWDC 2023 기조 연설에서 더 많은 주목을 받을 것으로 생각했던 것 중 하나는 "Dynamic Island" 입니다. 애플은 iPhone 14 Pro에서 "Dynamic Island"를 새로운 디자인 요소로써 소개했으며, iOS 17은 그 후 첫 번째 주요 업데이트이기 때문입니다.
+> "Dynamic Island"에 더 많은 주목을 받게 될 것이라고 말한데는 몇 가지 근거가 있습니다. 우선, 이번 9월에 출시될 iPhone 15와 iPhone 15 Plus에도 "Dynamic Island"가 채택될 것으로 예상되는 것도 그 이유 중 하나입니다. 현재 "Dynamic Island"을 가진 기기는 iPhone 14 Pro와 iPhone 14 Pro Max뿐입니다.
+>
+>제가 볼 때, iOS 17에서 "Dynamic Island" 에 나타난 가장 큰 "새로운 것"은 ... AirDrop 및 SharePlay 시작에 대한 업데이트입니다. 시계 앱에서는 알람 같은 것을 "Dynamic Island" 집어넣었고, AirPlay는 스마트한 근접 기반 기술로 가까이만 가게되면 "Dynamic Island"에 알아서 나타납니다.
+>이 모든 것이 애플이 Touch Bar 느낌의 "Dynamic Island" 가졌고, 이를 통해 우리가 얻고 싶어하는 것을 바로 얻게 될 것이라는 것은 아닙니다. 다만, "Dynamic Island"의 가장 좋은 점 중 하나는 타사 앱이 이를 활용하고 시간이 지남에 따라 가치를 더할 수 있다는 것입니다.
+>
+>그러나 애플은 자체 앱과 기능을 통해 "Dynamic Island"을 더 의미 있게 만들 수 있는 많은 기회가 있습니다. 출시 직후, 우리는 "Dynamic Island" 소프트웨어의 1.0 버전에서 누락된 것처럼 보이는 몇 가지를 발견했습니다. 시리와 애플 페이가 그 예입니다.
+>
+>또 다른 조금 일반적인 점은 "Dynamic Island"이 탭과 롱 프레스를 어떻게 처리하는지입니다. 대부분의 경우, 단일 탭은 "Dynamic Island"을 사용하는 앱을 실행합니다. 롱 프레스를 하면 제어가 표시되는 것입니다. 애플은 이 작동 방식에 대한 견해를 분명히 가지고 있지만, 설정에서 선호 옵션으로 사용할 수 있는 것 같습니다.
+>
+>어떻게 생각하세요? iOS 17에서 "Dynamic Island"에서 더 많은 것을 기대했나요? 여전히 "Dynamic Island"을 사용하는 것을 어떻게 보고 싶으신가요? iPhone 15 라인업이 전면에 "Dynamic Island"을 채택할 때 애플은 가을에 무엇을 준비하고 있을까요? 
