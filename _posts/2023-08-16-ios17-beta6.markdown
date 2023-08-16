@@ -1,4 +1,3 @@
-
 ---
 layout: post  
 title: ✚ iOS17 beta6, 중요한 2가지 변경사항!
@@ -24,7 +23,7 @@ iOS 17의 첫 번째 베타 버전부터 애플은 전화 앱에 일부 변경�
 
 그 결과, 사람들은 통화를 종료하려 할 때 실수로 키패드 버튼이나 심지어 FaceTime을 누르기도 했습니다. 그러나 애플은 이러한 이동에 대한 나쁜 반응을 듣았을 것으로 보입니다. **iOS 17 베타 6에서는 "통화 종료" 버튼이 다시 화면 중앙으로 이동되었습니다.** 다행히 이제는 사람들이 잘못된 버튼을 다시 누를 일은 없을 것입니다.
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-16-ios17-beta6/2jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-16-ios17-beta6/2.jpg" alt="" align="middle"/> </div>
 
 
 ### iMessage에서 사진 보내기
