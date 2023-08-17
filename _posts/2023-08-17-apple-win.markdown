@@ -9,7 +9,7 @@ tag: [특허, 블루투스, 비츠]
 <div class=“markdown-image”>
 <img src=“/assets/article_images/2023-08-17-apple-win/1.jpg” alt=“” align=“middle”/></div>
 
-<p class=”drop-korean“>
+<p class="drop-korean">
 법원이 애플의 블루투스 페어링 특허 소송에서 애플 측을 지지했습니다.
 </p>
 

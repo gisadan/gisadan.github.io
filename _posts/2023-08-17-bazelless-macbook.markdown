@@ -9,7 +9,7 @@ tag: [맥북프로, 베젤]
 <div class="markdown-image">
 <img src="/assets/article_images/2023-08-17-bazelless-macbook/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://appleinsider.com/articles/22/05/24/future-macbook-pro-screens-may-kill-off-the-bezel-completely"> appleinsider </a></p> </div>
 
-<p class=”drop-korean“>
+<p class="drop-korean">
 애플은 14인치 MacBook Pro와 16인치 MacBook Pro에서 베젤을 영구히 제거하기 위한 기술과 기법에 대한 연구를 진행하고 있습니다.
 </p>
 
