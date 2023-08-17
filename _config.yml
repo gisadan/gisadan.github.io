@@ -1,6 +1,6 @@
 # Build settings
-markdown: kramdown
-highlighter: rouge
+markdown: redcarpet
+highlighter: pygments
 
 
 
