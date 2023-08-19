@@ -22,7 +22,7 @@ X에서의 차단 기능은 차단당한 사용자는 게시한 것을 볼 수 �
 유저들은 일론 머스크가 취한 이 작업과 App Store의 약관과 잠재적인 충돌이 있다고 얘기합니다.
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-19-x-terms/2.jpeg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature"> appleinsider </a></p> </div>
+<img src="/assets/article_images/2023-08-19-x-terms/2.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature"> appleinsider </a></p> </div>
 
 구체적으로, **App Store의 이용 약관 제 14.3조에 대한 사용자 생성 콘텐츠에 관한 부분이 인용**되었습니다.
 
