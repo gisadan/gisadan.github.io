@@ -1,0 +1,141 @@
+---
+layout: post  
+title: ✚ iOS 17: 새로운 기능, 출시 일정 및 그밖의 모든 것.
+categories:
+- 애플
+tag: [iOS17, 새로운기능, 출시일정]
+---
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/1.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+<p class="drop-korean">
+애플의 iOS 17은 WWDC에서 공식 발표되었으며, 아이폰 사용자를 위한 Apple의 연간 소프트웨어 업데이트 중 가장 큰 업데이트입니다. 
+</p>
+
+올해 iOS 17은 Messages, FaceTime 및 위젯 등의 새로운 기능이 출시됩니다. 이제, 커버리지, 새로운 기능, 베타 및 출시 일정에 대한 정리를 확인하세요!
+
+## iOS 17 betas
+6월 현재, iOS 17은 개발자 베타 테스터에게만 제공되고 있지만, 올해 개발자 베타 테스트 프로세스에 큰 변화가 있습니다. **이전에는 iOS 개발자 베타는 연간 99달러를 지불하는 등록된 개발자에게만 제공**되었습니다.
+
+**올해 iOS 17에서는 Apple이 무료 개발자 계정에 가입한 누구에게나 베타 버전을 제공하고 있습니다. 연간 99달러의 구독이 필요하지 않습니다.**
+
+그럼에도 불구하고 주의를 기울여 진행하는 것이 좋습니다. Apple은 이러한 것들이 "개발자" 베타라고 말하고 있습니다. iOS 17 베타 버전에는 여러 버그, 성능 문제 및 배터리 수명에 큰 영향을 미칠 수 있습니다. iOS 17 개발자 베타가 무료로 제공되는 것뿐이라고 해서 설치하러 달려가서 설치해서는 안됩니다.
+
+그럼에도 불구하고 이번 달 중으로, Apple은 iOS 17의 공개 베타 버전을 출시할 예정이며, 이 버전에도 여전히 버그와 이상한 동작이 있을 수 있지만 개발자 베타보다는 적을 것입니다.
+
+## iOS 17은 언제 공개될까?
+베타 테스트가 마무리되면 Apple은 iOS 17을 일반 대중에게 출시할 것입니다. 전례에 따르면 이는 9월 중순쯤 일어날 것입니다. 이전 iOS 업데이트 출시 일정에 대한 개요는 다음과 같습니다.
+
+* iOS 16: 2022년 9월 12일
+* iOS 15: 2021년 9월 20일
+* iOS 14: 2020년 9월 16일
+* iOS 13: 2019년 9월 19일
+* iOS 12: 2018년 9월 17일
+
+보시다시피, Apple은 iOS 출시 일정에서 매우 일관적입니다. 그래서 iOS 17도 동일한 패턴을 따를 것으로 예상합니다. 중순쯤 출시될 것으로 예상됩니다.
+
+## 내 기기는 iOS 17 업데이트가 가능할까?
+주목할 만한 점은 **iOS 17이 A12 Bionic 칩 이상을 필요로 한다는 것**입니다. 이것은 2017년에 처음 출시된 iPhone X, iPhone 8 및 iPhone 8 Plus를 올해 업데이트하지 않을 것을 의미합니다. 다음은 iOS 17을 지원하는 디바이스의 전체 목록입니다.
+
+* iPhone XS 및 XS Max
+* iPhone XR
+* iPhone 11
+* iPhone 11 Pro 및 Pro Max
+* iPhone 12 및 12 mini
+* iPhone 12 Pro 및 Pro Max
+* iPhone 13 및 13 mini
+* iPhone 13 Pro 및 Pro Max
+* iPhone 14 Pro 및 Pro Max
+* iPhone SE (2세대 및 3세대)
+
+## iOS 17 새로운 기능들
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/2.jpg" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+지루한 내용은 이제 끝내고 iOS 17의 일부 새로운 기능을 살펴보겠습니다. Apple은 iOS 17의 목표가 아이폰을 "더 개인적이고 직관적"으로 만드는 것이라고 강조하며, 그에 맞는 다양한 새로운 기능들이 탑재되었습니다.
+
+### 연락처 포스터
+iOS 17에는 "연락처 포스터(Contact Posters)"라는 새로운 기능이 포함되어 있으며, 이를 통해 다른 iPhone 사용자와 상호 작용할 때 프로필이 어떻게 나타날지를 세팅할 수 있습니다. 연락처 포스터를 설정하여 프로필 사진, 특별한 타이포그래피 및 글꼴 색상 등을 포함시킬 수 있습니다.
+
+### FaceTime 음성 메시지 및 제스처 지원
+FaceTime 오디오 및 비디오 통화에 대해 Apple은 처음으로 음성 메시지 지원을 추가했습니다. 따라서 누군가에게 전화를 걸면 전화한 이유를 설명하기 위해 메시지를 남길 수 있습니다. 그리고 그들이 당신에게 전화하면 그들은 자신의 음성 메일을 남길 수 있습니다.
+
+또한 FaceTime에는 다양한 새로운 반응이 추가되었습니다. 이것은 하트, 풍선, 폭죽, 레이저 빔 및 비 등을 포함합니다. 이러한 효과는 특정 제스처로 활성화되며, 서드파티 앱과도 호환됩니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/3.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+### AirDrop 새로운 기능 추가
+iOS 17은 AirDrop에 대한 개선 사항도 포함하고 있습니다. 예를 들어 NameDrop은 다른 iPhone 또는 Apple Watch 사용자와 간단히 기기를 가까이 가져가는 것만으로 연락처 정보를 공유할 수 있는 새로운 AirDrop 기능입니다. 또한 두 대의 iPhone을 서로 가까이 두면 비디오, 음악 및 게임과 같은 것들을 위한 SharePlay를 활성화할 수 있습니다.
+
+AirDrop은 또한 두 대의 기기 간에 다른 콘텐츠를 전송하기 위해 두 대의 전화를 서로 탭할 수 있는 기능도 지원합니다. 또한 이후에 AirDrop은 iCloud를 통해 두 대의 가까이 위치한 전화 사이에서 큰 파일을 전송하는 기능을 도입할 예정입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/4.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+### 음악앱
+음악 앱은 협업 플레이리스트와 교차 페이드(cross-fade)를 지원하는 새로운 디자인으로 개선되었습니다. CarPlay에서 음악 앱은 현재 재생 중인 음악에 대한 의견을 말할 수 있는 SharePlay 지원도 포함하고 있습니다(이 노래는 좋다, 이 노래는 별루다.. 등).
+
+### 자동 수정 개편 - 키보드
+iOS 17의 또 다른 큰 변화 중 하나는 주요 자동 수정의 대대적인 개편입니다. Apple은 새로운 자동 수정 시스템이 기계 학습을 통해 타이핑하는 방식에서 **스스로 학습하고 오류를 보정하기 쉽게 만들어주며 타이핑하는 동안 단어와 문장을 자동으로 채워줄 수 있다**고 말합니다. Apple은 또한 새로운 음성 인식 모델을 통해 딕테이션을 업그레이드했다고 합니다. "보다 정확하게" 말합니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/5.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+### iOS 17 StandBy 모드
+올해 아이폰 사용자를 위한 가장 주목할 만한 변경 사항 중 하나는 StandBy입니다. 아이폰을 충전기 위에 가로로 놓으면 시간, 캘린더, 알람 등과 같은 더욱 빠르게 확인할 수 있는 위젯을 포함한 새로운 사용자 정의 스마트 디스플레이 스타일 인터페이스가 표시됩니다.
+
+홈 화면 위젯을 좋아하는 사용자를 위해 iOS 17은 대화형 위젯 지원과 함께 큰 업데이트가 포함되어 있습니다. 이것은 이제 위젯 자체와 직접 상호 작용할 수 있음을 의미합니다. 즉, Music 앱 위젯의 재생 및 일시 중지 제어와 같은 작업을 직접 아이폰 홈 화면에서 수행할 수 있습니다. 이와 함께 Apple은 Home 앱 위젯도 처음으로 추가했습니다.
+
+### Assistive Access 등 접근성 기능 업그레이드
+iOS 17에는 사용자 정의 가능한 인터페이스인 Assistive Access와 같은 접근성 업그레이드가 많이 포함되어 있습니다. 이것은 인지 장애를 가진 사용자가 iPhone을 사용하는 데 더 쉽게 만들기 위한 새로운 사용자 정의 가능한 인터페이스입니다. Personal Voice는 ALS와 말 더듬는 경향이 있는 사용자가 자신과 같은 목소리로 소리를 낼 수 있게 합니다. Live Speech는 비언어 사용자가 개인, 전화 통화 또는 FaceTime 통화에서 자신의 말을 입력하고 발음하도록 선택할 수 있는 새로운 기능입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/6.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+### 문자앱 기능 추가
+iOS 17의 Messages 앱도 스티커, 반응 등을 위한 새로운 기능으로 크게 업그레이드됩니다.
+
+* iMessage 앱을 위한 인터페이스가 카메라, 사진 앱, 위치 공유, GIF 등과 같은 것에 쉽게 접근할 수 있도록 개선되었습니다.
+* 오디오 메시지는 이제 자동으로 변환되므로 친구가 2분 동안 지껄이는 것을 듣지 않아도 됩니다.
+* 스티커가 개선되었으며 Apple은 모든 이모지를 스티커로 변환하고 사용자의 사진을 사용하여 자신의 스티커를 만들 수 있도록 했습니다. 스티커는 메시지, 탭백, 그리고 더 많은 곳에서 사용할 수 있습니다.
+* Messages 앱은 검색 필터 지원을 포함한 업그레이드된 검색 기능을 제공합니다.
+* 특정 메시지에 대답하기가 길게 누르기 대신에 스와이프로 더 쉽게 할 수 있습니다.
+
+### 2단계 인증 코드 관리 기능 추가
+iOS 17에서 2단계 인증 코드 관리 기능도 업그레이드됩니다. 이제는 **메일로 보내진 두 요소 코드도 자동으로 입력을 지원**합니다. Messages 앱은 또한 2FA 텍스트 메시지를 자동으로 삭제합니다.
+
+### 내 아이폰 찾기+체크인 기능
+Messages와 Find My 기능을 결합한 새로운 기능인 Check In도 있습니다. Apple은 이를 **"사용자가 목적지에 안전하게 도착했음을 친구나 가족에게 알리고 싶을 때 중요한 기능"**이라고 설명합니다. Check In 이 시작되면 목적지에 도착하면 자동으로 친구나 가족 구성원에게 알립니다. 목적지로 진행하지 않으면 iOS 17은 위치, 배터리 수준 및 셀 서비스 상태와 같은 정보를 다른 사람과 공유합니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/7.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+### Live Voicemail
+iOS 17의 Live Voicemail은 누군가 음성 메시지를 남기는 동안 실시간 변환을 볼 수 있게 해주며, 상대방이 메시지를 남길 때 통화를 받을 수 있도록 합니다. 통신사에 의해 스팸으로 식별된 전화는 Live Voicemail로 나타나지 않고 즉시 거부됩니다.
+
+### Journal 앱 추가
+iOS 17에는 올해 나중에 도입될 새로운 Journal 앱도 포함됩니다. Journal 앱을 사용하면 Apple은 iPhone 사용자가 "인생을 감사하고 추억을 보존하는 새로운 방법"을 가질 수 있게 됩니다. iOS 17의 Journal 앱은 사진, 음악, 운동 등과 같은 기준에 따라 기록할 만한 순간을 제안하기 위해 기계 학습을 사용할 것입니다. 이 앱은 사진, 음악, 운동 등을 기반으로 일기를 쓸 것을 권장하며, 더욱 자세한 정보를 알려줄 것입니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ios17-betas/8.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-new-features-release-date-devices/"> 9to5Mac </a></p> </div>
+
+아래는 그밖의 iOS 17에서 새로운 기능들 입니다.:
+
+* 개인 브라우징을 위한 새로운 기능으로 Face ID 또는 Touch ID로 탭을 잠글 수 있습니다.
+* iCloud Keychain에 저장된 비밀번호 및 패스키를 친구와 가족과 공유할 수 있습니다.
+* Apple Maps에 오프라인 지도 지원 및 전기 자동차 충전소의 실시간 가용 정보를 추가합니다.
+* Health 앱은 매일의 기분과 순간적인 감정을 기록하는 기능을 포함한 강력한 정신 건강 기능을 제공합니다.
+* Screen Distance는 아이들이 디바이스를 얼굴에 너무 가까이 가져가지 않도록 하는데 도움을 주는 iOS 17의 새로운 기능입니다.
+* AirTags는 이제 최대 다섯 명의 다른 사람과 공유할 수 있습니다. 이는 모든 다른 Find My 네트워크 액세서리와도 호환됩니다.
+* AirPlay는 똑똑하며 이제 AirPlay 활성화된 기기와의 상호 작용 방법에 대한 자체 지능을 학습하기 위해 온 디바이스 지능을 사용합니다. Apple은 또한 호텔에서 AirPlay의 가용성을 확대하는 작업을 진행 중이며, LG와의 협업으로 시작합니다.
+* Notes 앱은 이제 노트 간에 링크를 생성할 수 있도록 지원합니다. 
+* Siri는 이제 "Siri"라고 말하기만 해도 활성화됩니다. "Hey Siri"라고 할 필요가 없습니다.
+* AirPods는 Adaptive Audio, Personalized Volume, Conversation Awareness 및 Automatic Switching 및 통화 제어 개선을 제공합니다.
+* Visual Look Up은 이제 비디오에서도 작동하며, 음식, 가게, 표지판, 기호 등과 같은 새로운 것을 인식할 수 있습니다.
+* Reminders 앱은 식료품 목록에 추가하는 항목을 카테고리별로 자동으로 그룹화할 수 있도록 지원합니다(과일, 야채, 음료, 고기 등).
+* Photos 앱은 고양이와 개를 개별적으로 인식할 수 있습니다. 예를 들어, Blake와 Ruby라는 두 개의 개를 가지고 있다면 Photos 앱은 각각의 사진을 자동으로 각각의 앨범으로 분리합니다.
+
+몇 가지 기능들은 빨리 써보고 싶긴 합니다. 그리고 한국에도 통화녹음 기능 좀 가능하게 해줬으면..
