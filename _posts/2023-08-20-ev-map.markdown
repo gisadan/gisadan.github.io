@@ -1,0 +1,29 @@
+---
+layout: post  
+title: ✚ 전기차 소유자를 위한, 애플맵 업데이트!
+categories:
+- 애플
+tag: [전기차, 애플맵, 충전소]
+---
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-20-ev-map/1.webp" alt="" align="middle"/><p style="text-align:right;  color:#878787"> 이미지출처 : <a href="https://9to5mac.com/2023/08/19/ios-17-adds-real-time-charging-availability-info-for-ev-drivers/"> 9to5Mac </a></p> </div>
+
+<p class="drop-korean">
+이번 iOS 17은 전기 자동차 소유자를 위한 Apple Maps의 기능을 많이 업데이트 하고 있습니다. 
+</p>
+이제 Apple Maps에서는 **실시간 충전 가능 여부 정보를 표시**하고 **운전자가 선호하는 충전 네트워크를 선택할 수 있게 될 것**입니다.
+
+Apple은 처음으로 EV 루팅(EV routing)을 Apple Maps에서 지원한다는 발표를 2020년 WWDC에서 했습니다. 이 기능은 지난 해에 Ford Mustang Mach-E 운전자를 위해 처음 공개됐으며, 올해 초에는 Porsche Taycan 운전자를 위해 도입되었습니다.
+
+iPhone에 iOS 17을 설치하면 Apple Maps가 전기 자동차(EV)를 위한 선호하는 충전 네트워크를 설정하도록 안내할 것입니다. Electrify America, Chargepoint, Tesla의 Supercharger 네트워크 등 포함하여 다양한 옵션 중에서 선택할 수 있습니다.
+
+선호하는 네트워크를 선택하면 Apple Maps는 **실시간 충전 가능 여부 정보를 지능적으로 제공**합니다. 예를 들어, 특정 충전 스테이션에서 **사용 가능한 총 충전 공간 수와 현재 사용 중인 공간 수를 표시**할 것입니다.
+
+Apple Maps는 당신이 운전하는 전기 자동차에 기반하여, **당신의 자동차에서 사용하는 충전 커넥터와 호환되는 충전 옵션만 표시할 것**입니다. iOS 17 베타 1에서 이 기능은 아직 개발 중인 것처럼 보이며 필요한 일부 데이터가 누락되어 있습니다.
+
+"전기 자동차를 운전할 때, 선호하는 충전 네트워크를 선택하고 실시간 충전 스테이션 가용성을 볼 수 있습니다,"라고 Apple은 설명하고 있습니다.
+
+**현재로서는 이 기능이 Apple Maps EV 루팅을 지원하는 자동차에만 사용 가능한 것으로 보입니다.** 이는 현재 Mustang Mach-E와 Taycan에 해당합니다. 그럼에도 불구하고 미래에는 더 많은 전기 자동차 제조사가 이 기능을 채택할 것으로 예상되며, 특히 CarPlay를 사용할 때 유용한 개선 사항입니다.
+
+한국에는 이 기능 자체가 될지가.. 아주 불투명한데 전기차 오너로서 꼭 가능했으면 하는 바램입니다.

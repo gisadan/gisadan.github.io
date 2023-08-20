@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: ✚ iOS 17: 새로운 기능, 출시 일정 및 그밖의 모든 것.
+title: ✚ iOS 17 새로운 기능, 출시 일정 및 그밖의 모든 것.
 categories:
 - 애플
 tag: [iOS17, 새로운기능, 출시일정]
