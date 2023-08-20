@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /ads.txt
-Allow: /
+Disallow: /ads
 
 Sitemap: http://gisadan.github.io/sitemap.xml

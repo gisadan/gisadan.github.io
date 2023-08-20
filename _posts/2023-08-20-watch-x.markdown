@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: ✚ 애플 워치 X: 지금까지 알려진 모든 루머
+title: ✚ 애플 워치 X, 지금까지 알려진 모든 루머
 categories:
 - 애플
 tag: [애플워치X, 루머]
