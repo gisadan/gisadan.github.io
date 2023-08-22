@@ -7,7 +7,7 @@ tag: [픽셀메이터, Pixelmator, JPEG]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-22-photomator/1.jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-22-photomator/1.wepb" alt="" align="middle"/> </div>
 
 
 ### Photomator 포토 에디팅 앱
@@ -25,7 +25,7 @@ Smart Deband는 기계 학습을 사용하여 이러한 색상 밴드를 매끄�
 또한 Photomator는 저해상도 이미지의 모습을 개선할 수 있는 Auto Enhance 및 Super Resolution과 같은 기계 학습 기반 기능을 제공합니다.
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-22-photomator/1.jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-22-photomator/1.webp" alt="" align="middle"/> </div>
 
 ### Pixelmator 앱에 대해 더 알아보기
 새로운 기능 외에도 Pixelmator는 현재 Back to School 캠페인의 일환으로 Pixelmator Pro와 Photomator 모두 30% 할인을 제공하고 있습니다.
