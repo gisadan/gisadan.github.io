@@ -1,0 +1,87 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+
+
+# Site settings
+title: "Knight with IT"
+description: > # this means to ignore newlines until "email:"
+   Knight's Smart Life !
+
+email: hyunsoo56@me.com
+#blog logo
+logo: "/assets/images/gt_logo.jpg"
+# blog cover
+cover: "/assets/images/ca4akeipqrerbnp1yghv_img_9534-3-2.jpg"
+
+name: 'Knight'
+author: ‘Knight’
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+gems: [jekyll-paginate]
+gems: [jekyll-related-posts] 
+
+url: "http://gisadan.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# social icons and sharing options
+social:
+  - icon:	twitter-square fa-lg
+    url:
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook-square fa-lg
+    url:
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	rss-square fa-lg
+    url:	http://gisadan.github.io/feed.xml
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	archive fa-lg
+    url:	/archive
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	sitemap fa-lg
+    url:	/category
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	tags fa-lg
+    url:	/tags
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	user fa-lg
+    url:	/about
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	search fa-lg
+    url:	/search
+    desc:	Add me on subscript
+    share_url:
+    share_title:
+    share_link:
