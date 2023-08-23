@@ -1,0 +1,33 @@
+---
+layout: post  
+title: ✚ iOS용 Shazam 앱, 두 가지 새로운 잠금 화면 위젯 추가
+categories:
+- 애플
+tag: [앱, Shazam]
+---
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-23-shazam/1.webp" alt="" align="middle"/> </div>
+
+<p class="drop-korean">
+iOS 용 Shazam 앱에는 두 가지 새로운 잠금 화면 위젯이 포함된 새로운 업데이트 버전이 이번 화요일에 출시되었습니다. 
+</p>
+사용자는 이제 앱에 더 쉽게 액세스할 수 있도록 두 가지 새로운 Shazam 위젯을 잠금 화면에 추가할 수 있습니다.
+
+### Shazam의 새로운 잠금 화면 위젯
+
+이제 사용자에게 제공되는 앱 버전 15.38에는 두 가지 새로운 잠금 화면 위젯이 함께 제공됩니다. 위젯 중 하나는 단순히 잠금 화면에서 Shazam을 직접 열 수 있는 바로 가기입니다. 더 큰 위젯은 앱을 사용하여 식별한 **마지막 노래를 보여줍니다.**
+
+Apple은 업데이트에 대한 릴리스 노트에서 다음과같이 설명했습니다.
+>"잠금 화면 위젯을 사용하여 Shazam을 열고 노래를 직접 식별할 수 있습니다. 또는 앱을 사용하여 식별한 마지막 노래를 표시하는 더 큰 위젯을 사용해보세요. 잠금 화면을 누르고 Customize 버튼이 나타날 때까지 누르고, 그런 다음 시작하려면 Customize를 탭하세요."
+
+잠금 화면 위젯은 iOS 16에서 도입되었으며 iPhone 전용으로 제공됩니다. iPadOS 17에서는 잠금 화면 위젯이 iPad에 처음으로 도입되며 iPhone용 위젯을 제공하는 모든 앱, Shazam을 포함하여 iPad에서도 작동합니다.
+
+Apple 소유의 Shazam 앱은 iPhone과 iPad용으로 **세 가지 다른 홈 화면 위젯**을 갖고 있습니다. iOS 17로 함께 제공되는 Shazam 앱은 Dynamic Island 에 맞게 새로운 인터페이스로 태어났습니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-23-shazam/2.webp" alt="" align="middle"/> </div>
+
+애플이 Shazam을 인수한 이후로 iOS의 제어 센터에 음악 인식 기능을 이용하여 Shazam을 설치하지 않고도 노래를 식별할 수 있도록 했습니다. **독립형 Shazam 앱은 여전히 태그 기록을 검토하고 Shazam 재생 목록을 정리하고 다른 앱에서 노래에 태그를 달 수도 있습니다.**
+
+Shazam은 App Store에서 무료로 제공됩니다. 앱은 iOS 15 이상을 실행하는 기기를 필요로하지만, 잠금 화면 위젯은 iOS 16을 실행하는 iPhone에만 사용할 수 있습니다.
