@@ -6,7 +6,7 @@ title: <i class="fa fa-tags" aria-hidden="true"></i> Tags
 
 <ul class="tag-cloud">
 {% for tag in site.tags %}
-  <span style="font-size: {{ tag | last | size | times:7 | plus: 30  }}%">
+  <span style="font-size: {{ tag | last | size | times:5 | plus: 70  }}%">
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
