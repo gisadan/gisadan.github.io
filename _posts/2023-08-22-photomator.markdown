@@ -7,7 +7,7 @@ tag: [픽셀메이터, Pixelmator, JPEG]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-22-photomator/1.wepb" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-22-photomator/1.webp" alt="" align="middle"/> </div>
 
 
 ### Photomator 포토 에디팅 앱

@@ -6,3 +6,5 @@ gem 'bourbon'
 gem 'jemoji'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
+
+gem "webrick", "~> 1.8"

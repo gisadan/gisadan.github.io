@@ -10,7 +10,7 @@
       <article class="post">
         {% if page.image %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %})">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ /assets/article_images/back.jpg }}{% endif %})">
             Article Image
           </div>
           <div class="post-meta">
@@ -20,6 +20,7 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
+              <!-- , tagged on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -28,7 +29,7 @@
         </div>
         {% else %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %})">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ /assets/article_images/back.jpg }}{% endif %})">
             Article Image
           </div>
           <div class="post-meta">
@@ -38,6 +39,7 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
+              <!-- , tagged on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -149,7 +151,7 @@
               </script>
             </footer>
           </div>
-          {{post}}
+          {{/post}}
           <div class="isRight">
             <h5 class="index-headline featured"><span>Written by</span></h5>
             <section class="author">
@@ -160,7 +162,7 @@
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
             <div class="inner">
-              <section class="copyright">All content copyright <a href="{{gisadan.github.io}}/">{{site.author}}</a> &copy; 2014<br>All rights reserved.</section>
+              <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; 2014<br>All rights reserved.</section>
             </div>
           </div>
         </div>
