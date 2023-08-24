@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰 15 Pro Max, 3~4주 딜레이 될 듯
+image: /assets/article_images/2023-08-23-iphone15max-deley/1.webp
 categories:
 - 애플
 tag: [아이폰15Pro , 아이폰]

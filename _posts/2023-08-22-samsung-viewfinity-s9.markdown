@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 삼성, Apple Studio Display와 경쟁하는 ViewFinity S9 5K의 사전 주문을 시작
+image: /assets/article_images/2023-08-22-samsung-viewfinity-s9/1.webp
 categories:
 - 삼성
 tag: [모니터, 애플스튜디오디스플레이, 뷰피니티, 5k, S9]

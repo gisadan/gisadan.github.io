@@ -1,6 +1,7 @@
 ---
 layout: post  
-title: ✚ Photomator, JPEG 이미지를 향상시키는의 'Smart Deband' 기능 추가!
+title: ✚ Photomator, JPEG 이미지를 향상시키는의 'Smart Deband' 기능 추가
+image: /assets/article_images/2023-08-22-photomator/1.webp
 categories:
 - 앱
 tag: [픽셀메이터, Pixelmator, JPEG]

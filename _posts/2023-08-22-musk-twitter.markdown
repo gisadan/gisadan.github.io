@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 일론머스트, 트위터에 뉴스 헤드라인 없애라!
+image: /assets/article_images/2023-08-22-musk-twitter/1.webp
 categories:
 - 뉴스
 tag: [일론머스크, 트위터]

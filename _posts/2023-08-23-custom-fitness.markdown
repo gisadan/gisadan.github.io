@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ iOS17, Apple Fitness+ 계획을 만드는 방법
+image: /assets/article_images/2023-08-23-custom-fitness/1.webp
 categories:
 - 
 tag: [애플, 맥]

@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 애플 워치 X, 지금까지 알려진 모든 루머
+image: /assets/article_images/2023-08-20-watch-x/1.jpeg
 categories:
 - 애플
 tag: [애플워치X, 루머]

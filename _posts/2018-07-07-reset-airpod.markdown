@@ -2,6 +2,7 @@
 layout: post  
 title: ✚ [How to] 에어팟이 먹통됐을 때 리셋, 초기화, 재설정시키는 방법
 categories:
+- 애플
 - 기기
 - How to
 tag: [에어팟, 리셋, How to]

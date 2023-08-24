@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 어도비(Adobe) 설립자, 별세하다
+image: /assets/article_images/2023-08-21-adobe-co-founder-dies/1.jpeg
 categories:
 - 어도비
 tag: [창립자, 별세]

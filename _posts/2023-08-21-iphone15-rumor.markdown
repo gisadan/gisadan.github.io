@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰 15 루머, '울트라'라는 이름 가능성, 직물로 된 USB-C 케이블
+image: /assets/article_images/2023-08-21-iphone15-rumor/1.webp
 categories:
 - 애플
 tag: [아이폰15, 루머]
