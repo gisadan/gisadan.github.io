@@ -25,7 +25,7 @@ tag: [아이폰15Pro , 아이폰]
 애플은 이전 몇 년간 특정 아이폰 모델을 다른 모델보다 몇 주 뒤에 출하한 바 있습니다. 예를 들어, iPhone XR은 iPhone XS 후에 출하되었으며, iPhone 14 Plus는 iPhone 14 후에 출하되었습니다. 또한 iPhone 12 mini와 iPhone 12 Pro Max는 iPhone 12와 iPhone 12 Pro 후 몇 주 후에 출하되었습니다.
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-23-iphone15max-deley/1.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-23-iphone15max-deley/2.webp" alt="" align="middle"/> </div>
 
 뱅크 오브 아메리카의 분석가 노트는 이전에 올해 10월로 iPhone 15 출하가 미뤄질 것으로 예측했습니다. 이번 여름에는 또 iPhone 15 Pro 디스플레이 생산 문제에 관한 일시적인 루머가 있었습니다.
 
