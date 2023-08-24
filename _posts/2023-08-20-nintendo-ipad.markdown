@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이패드를 닌텐도 스위치 모니터로 사용해보자!
+image: /assets/article_images/2023-08-20-nintendo-ipad/1.jpg
 categories:
 - 애플
 tag: [아이패드, 닌텐도, 외장모니터]

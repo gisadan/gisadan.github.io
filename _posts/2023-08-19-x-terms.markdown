@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 일론 머스크 블락기능 제거?, 애플 스토어 약관 위반
+image: /assets/article_images/2023-08-19-x-terms/1.jpg
 categories:
 - 애플
 tag: [일론머스크, 애플스토어, 약관, 위반]
