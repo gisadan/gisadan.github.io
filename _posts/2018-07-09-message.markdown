@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 문자메시지를 모든 애플기기에서 더 정확하게 연동하는 방법
+image: /assets/article_images/2018-07-09-message/1.jpeg
 categories:
 - How to
 - 아이폰

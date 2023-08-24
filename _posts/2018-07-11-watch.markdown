@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 애플워치 절전모드 켜는 방법과 스크린 샷 찍는 방법
+image: /assets/article_images/2018-07-11-watch/567.jpg
 categories:
 - How to
 - 애플워치

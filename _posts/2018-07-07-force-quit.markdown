@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 맥에서 앱을 강제종료 하는 법과 원인 알아내는 꿀팁
+image: /assets/article_images/2018-07-07-force-quit/1.png
 categories:
 - How to
 tag: [맥, 종료, How to]

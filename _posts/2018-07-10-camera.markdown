@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 아이폰 카메라 나만의 세팅 유지하는 방법
+image: /assets/article_images/2018-07-10-camera/1.jpeg
 categories:
 - How to
 tag: [아이폰, 카메라, How to]

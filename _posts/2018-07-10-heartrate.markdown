@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 갑작스러운 심박수 증가! 알림하는 방법
+image: /assets/article_images/2018-07-10-heartrate/1.jpeg
 categories:
 - How to
 - 애플워치

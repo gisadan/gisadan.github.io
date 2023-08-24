@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 아이폰 문자, 스팸메시지 차단 하는 방법
+image: /assets/article_images/2018-07-11-block/1.jpg
 categories:
 - How to
 - 아이폰
