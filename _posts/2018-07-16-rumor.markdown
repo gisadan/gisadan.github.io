@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [루머] 11인치 아이패드 프로, 맥미니, 1.57인치 그리고 1.78인치 애플워치, 에어파워 출시
+image: /assets/article_images/2018-07-16-rumor/1.jpg
 categories:
 -  기기
 tag: [루머, 신제품, 아이패드, 맥, 애플워치]

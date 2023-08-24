@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ Busycal3 등 맥 번들 할인 - 10가지 앱 $19.99
+image: /assets/article_images/2018-03-13-bundle/1.png
 categories:
 - 맥
 tag: [맥앱, 필수앱, 번들, 할인]

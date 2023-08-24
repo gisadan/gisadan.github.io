@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ iPhone 15 Pro 6기가 램, 한 개 더 늘어난 코어 수
+image: /assets/article_images/2023-08-11-iphone15pro-rumor/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

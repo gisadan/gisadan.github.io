@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플워치 항상 켜져있도록 하는 특허 획득.
+image: /assets/article_images/2018-09-04-watch-patent/1.jpeg
 categories:
 - 애플워치
 tag: [애플워치, 특허]

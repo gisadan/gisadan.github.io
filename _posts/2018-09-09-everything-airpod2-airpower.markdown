@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 9월 12일(한국시간 13일) 출시될 에어팟2, 에어파워 총정리
+image: /assets/article_images/2018-09-09-everything-airpod2-airpower/1.jpg
 categories:
 - 기기
 tag: [기기, 키노트]

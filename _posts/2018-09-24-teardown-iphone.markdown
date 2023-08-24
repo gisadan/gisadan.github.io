@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xs , Xs MAX 분해 - 무엇이 달라졌나?
+image: /assets/article_images/2018-09-24-teardown-iphone/1.jpeg
 categories:
 - 아이폰  
 tag: [아이폰, 분해]

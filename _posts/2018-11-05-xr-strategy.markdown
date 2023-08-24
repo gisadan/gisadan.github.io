@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xr 은 애플 스스로 필요없는 기능을 빼고 가격을 낮춘 혼란의 전략이다.
+image: /assets/article_images/2018-11-05-xr-strategy/1.png
 categories:
 - 아이폰
 tag: [아이폰, 아이폰Xr]

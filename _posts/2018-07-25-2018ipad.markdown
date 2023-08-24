@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 새로 출시될 2018 아이패드 프로 총정리
+image: /assets/article_images/2018-07-25-ipad/1.jpg
 categories:
 - 아이패드
 tag: [아이패드]

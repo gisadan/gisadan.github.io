@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 애플이 정말 새로운 USB-C 아이폰을 출시할 계획일까요?
+image: /assets/article_images/2023-08-12-iphone-usb-c/1.jpg
 categories:
 - 아이폰
 tag: [아이폰15]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 접을 수 있는 아이폰의 예측 사진
+image: /assets/article_images/2019-03-19-folderable-iphone/1.png
 categories:
 - 아이폰
 tag: [아이폰]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ iOS 13에서 업그레이드 됐으면 하는 스크린 타임 기능들
+image: /assets/article_images/2018-12-24-idea-screetime/2.png
 categories:
 - 아이폰
 tag: [아이폰, 아이패드]

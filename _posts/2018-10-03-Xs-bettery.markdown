@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xs 배터리 굉장히 큰 변화가 있지만, 갤럭시 노트 9과 비교하면??
+image: /assets/article_images/2018-10-03-xs-bettery/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

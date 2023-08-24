@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 1Password 7.1 업데이트, 무엇이 달라졌나?
+image: /assets/article_images/2018-07-20-update-1password/1.jpg
 categories:
 - 아이폰
 tag: [1Password, 업데이트]

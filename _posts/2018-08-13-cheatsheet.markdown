@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 맥에서 단축키를 억지로 외우지않고 저절로 외우는 방법
+image: /assets/article_images/2018-08-13-cheatsheet/1.png
 categories:
 - 맥
 - How to

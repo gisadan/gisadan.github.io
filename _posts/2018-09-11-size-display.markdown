@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플, 디스플레이 크기 키워 구독서비스 증가 노린다.
+image: /assets/article_images/2018-09-11-size-display/1.png
 categories:
 - 아이폰
 tag: [아이폰, 디스플레이]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 나스위한 아수스 공유기 세팅, 설정 방법, ASUS 68p, 68u, 88u
+image: /assets/article_images/2018-08-14-nas-router/1.jpg
 categories:
 - 나스
 tag: [큐냅, QNAP, 나스]

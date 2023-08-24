@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 맥북프로, 베젤이 완전히 없어진다!
+image: /assets/article_images/2023-08-17-bazelless-macbook/1.jpg
 categories:
 - 애플
 tag: [맥북프로, 베젤]

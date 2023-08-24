@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [루머] LG 더 커진 6.5인치 아이폰X 디스플레이 생산목표
+image: /assets/article_images/2018-06-30-rumor/1.jpg
 categories:
 - 아이폰
 tag: [루머, 아이폰, 디스플레이]

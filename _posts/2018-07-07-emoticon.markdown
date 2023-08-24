@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 맥에서 특수문자 제대로 사용하는 방법
+image: /assets/article_images/2018-07-07-emoticon/1.png
 categories:
 - How to
 tag: [맥, 이모티콘, How to]

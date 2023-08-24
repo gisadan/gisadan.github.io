@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플 공식적으로 어도비 플래시 지원 중지.
+image: /assets/article_images/2020-01-27-end-flash/1.jpg
 categories:
 - 애플
 tag: [애플, 맥]

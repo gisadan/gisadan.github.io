@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 앱스토어 동영상 자동재생 끄는 방법과 앱 리뷰알림 끄는 방법
+image: /assets/article_images/2018-08-05-turnoff-autoplay/1.jpg
 categories:
 - How to
 tag: [아이폰, 자동재생, 알림]

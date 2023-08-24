@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 집중력을 끌어올려보자. Noizio
+image: /assets/article_images/2018-03-04-noizio/1.jpg
 categories:
 - 아이폰
 - 아이패드

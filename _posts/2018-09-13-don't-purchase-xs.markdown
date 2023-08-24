@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xs / Xs Max 직구, 하지마세요.
+image: /assets/article_images/2018-09-13-don't-purchase-xs/1.png
 categories:
 - 아이폰
 tag: [아이폰, 직구]

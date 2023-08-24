@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰에서 스팀게임을 즐길 수 있을까?
+image: /assets/article_images/2018-07-02-guideline/2.jpg
 categories:
 - 아이폰
 tag: [앱스토어, 애플]

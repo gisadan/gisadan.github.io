@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 맥os 모하비 퍼블릭 베타 출시.
+image: /assets/article_images/2018-06-28-beta/1.png
 categories:
 - 맥
 tag: [맥os, 모하비]

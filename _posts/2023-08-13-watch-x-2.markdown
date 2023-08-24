@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ "Dynamic Island"이 iOS 17에서는 조금 다르게 보이나요?
+image: /assets/article_images/2023-08-13-dynamic-island/1.jpg
 categories:
 - 애플
 tag: [iOS17]

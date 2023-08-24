@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 아이폰에서 추적광고(맞춤 광고)를 끄는 방법.
+image: /assets/article_images/2018-03-21-ad/123.png
 categories:
 - 아이폰
 - How to

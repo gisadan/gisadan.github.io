@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xs 그리고 아이폰 Xs Max의 3가지 좋은 점
+image: /assets/article_images/2018-09-25-3things-good/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ "아이폰의 긴급 SOS via 위성 기능 덕분에 한 가족이 마우이의 산불로부터 구조"
+image: /assets/article_images/2023-08-10-iPhone-14-satellite-connectivity/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

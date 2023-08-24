@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 애플워치 스크린 더 길게 켜지게 하는 방법 및 아이폰&아이패드 화면잠금 시간 조절하는 방법
+image: /assets/article_images/2018-09-12-watch-keep-screen/1234.png
 categories:
 - How to
 tag: [애플워치, How to]

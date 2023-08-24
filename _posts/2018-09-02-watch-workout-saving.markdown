@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 애플워치 전원 절약하는 꿀팁과 운동시 자동으로 설정해둔 음악 플레이하기.
+image: /assets/article_images/2018-09-02-watch-workout-saving/1.png
 categories:
 - 애플워치
 - How to

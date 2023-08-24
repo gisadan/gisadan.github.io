@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 애플워치 시리즈 4의 모든 것
+image: /assets/article_images/2018-07-28-watch-everything/1.jpg
 categories:
 - 애플워치
 tag: [애플워치, 시리즈4]

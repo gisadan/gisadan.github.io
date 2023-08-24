@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 아이폰에 네이버 메일을 연동해보자!
-image: /assets/article_images/2018-07-13-add-mail/123.jpg
+image: /assets/article_images/2018-07-13-add-mail/1.jpeg
 categories:
 -  아이폰
 - How to

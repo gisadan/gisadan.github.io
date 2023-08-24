@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 맥북 프로 13인치, 썬더볼트 포트가 바뀌었다?
+image: /assets/article_images/2018-07-21-thunderbolt/1.jpg
 categories:
 - 맥  
 tag: [맥북프로, 13인치, 썬더볼트]

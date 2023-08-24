@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 WWDC에서 소개하지 않은 모하비의 새로운 기능들.
+image: /assets/article_images/2018-06-14-mojave/1.png
 categories:
 -  맥
 tag: [모하비, WWDC]

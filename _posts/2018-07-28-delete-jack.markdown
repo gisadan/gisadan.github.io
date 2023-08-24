@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 아이패드 3.5파이 이어폰 잭 제거하고 스마트 커넥터를 아래로 옮긴다
+image: /assets/article_images/2018-07-25-ipad/1.jpg
 categories:
 - 아이패드
 tag: [아이패드]

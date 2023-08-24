@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 9월 12일, 애플 이벤트에서 출시될 아이폰과 애플워치 총정리
+image: /assets/article_images/2018-09-09-everything-iphone-watch/1.jpg
 categories:
 - 아이폰
 - 애플워치

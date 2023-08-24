@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xr, 노치부분에 문제있어 공급에 지연이 생길 것.
+image: /assets/article_images/2018-09-16-delay-iphone-xr/1.png
 categories:
 - 아이폰
 tag: [아이폰, 노치]

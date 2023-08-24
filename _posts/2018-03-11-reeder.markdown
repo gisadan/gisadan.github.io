@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 자주 가는 블로그와 사이트를 한 눈에 모아보자. Reeder
+image: /assets/article_images/2018-03-10-reeder/7.png
 categories:
 - 아이폰
 - 아이패드

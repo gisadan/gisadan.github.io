@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ iWork 4.1, 레코딩 기능이 추가되다.
+image: /assets/article_images/2018-06-15-iwork/1.jpg
 categories:
 -  아이패드
 tag: [iWork, 녹음, 레코딩, 페이지, 키노트, 넘버스]

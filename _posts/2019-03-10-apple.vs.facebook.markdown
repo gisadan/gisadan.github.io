@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플과 직접 경쟁 중인 페이스북! (feat. 문자)
+image: /assets/article_images/2019-03-10-apple.vs.facebook/1.jpeg
 categories:
 - 아이폰
 tag: [아이폰, 페이스북]

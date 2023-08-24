@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 당신 손목에 애플워치밴드, 박테리아 수천마리가.. 
+image: /assets/article_images/2023-08-18-band-bacteria/1.jpg
 categories:
 - 애플
 tag: [애플워치, 박테리아, 소독]

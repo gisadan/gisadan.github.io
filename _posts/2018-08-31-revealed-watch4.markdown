@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플워치 시리즈 4 유출
+image: /assets/article_images/2018-08-31-revealed-watch4/1.jpg
 categories:
 - 애플워치
 tag: [애플워치]

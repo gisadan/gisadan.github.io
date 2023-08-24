@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이들을 위한 아마존 FreeTime 서비스 iOS 가능
+image: /assets/article_images/2018-07-04-freetime/1.jpg
 categories:
 - 아이패드
 - 아이폰

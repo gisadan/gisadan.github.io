@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 8, 로직보드와 관련 문제로 교체 프로그램 실시
+image: /assets/article_images/2018-09-01-iphone8-replacement-service/1.jpg
 categories:
 - 아이폰 
 tag: [아이폰, 교체프로그램]

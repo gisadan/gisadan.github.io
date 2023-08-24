@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 맥북 프로 i9 발열 테스트, 파이널 컷 프로와 함께
+image: /assets/article_images/2018-07-19-throttling/1.jpg
 categories:
 - 맥
 tag: [맥북, 발열, 파이널컷]

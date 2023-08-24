@@ -1,13 +1,14 @@
 ---  
 layout: post  
 title: ✚ iOS11 최고의 혁신적인 기능 (드래그 앤 드롭)
+image: /assets/article_images/2018-01-12-draganddrop/1.png
 categories:
 - 아이폰
 - 아이패드
 tag: [iOS, 신기능, iOS11, 드래그 앤 드롭, Drag and Drop, 아이패드, 아이폰, 활용, 혁신]
 ---  
 <div class="markdown-image">
-<img src="/assets/article_images/2018-01-12-draganddrop/1.png " alt="" align="middle"/></div>
+<img src="/assets/article_images/2018-01-12-draganddrop/1.png" alt="" align="middle"/></div>
 
 #### 들어가며
 

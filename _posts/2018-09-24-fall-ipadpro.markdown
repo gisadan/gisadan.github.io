@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 아이패드, 올 가을 출시하나?
+image: /assets/article_images/2018-09-24-fall-ipadpro/1.jpg
 categories:
 - 아이패드
 tag: [아이패드]

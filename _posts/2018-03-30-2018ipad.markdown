@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 아이패드 9.7" 아이패드 프로와이 전격비교
+image: /assets/article_images/2018-03-30-2018ipad9.7/1.png
 categories:
 - 아이패드
 tag: [아이패드, 2018, 뉴아이패드]

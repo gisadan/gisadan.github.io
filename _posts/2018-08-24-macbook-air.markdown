@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [루머] 맥북에어 베젤 줄이고 레티나 디스플레이로 출시, 그리고 업그레이드 된 맥미니도 출시.
+image: /assets/article_images/2018-08-24-macbook-air/1.png
 categories:
 - 맥
 tag: [맥북에어, 레티나, 맥미니]

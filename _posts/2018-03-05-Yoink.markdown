@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ Mac 의 필수 어플인 Yoink가 아이패드로
+image: /assets/article_images/2018-03-05-yoink/1.png
 categories:
 - 아이패드
 - 아이폰

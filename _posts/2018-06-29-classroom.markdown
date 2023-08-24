@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 선생님을 위한 교실'앱을 소개합니다.
+image: /assets/article_images/2018-06-29-classroom/1.png
 categories:
 - 아이패드
 - 맥

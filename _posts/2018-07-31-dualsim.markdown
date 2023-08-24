@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 차세대 아이폰 듀얼심 사용가능할 것 그리고 구글맵의 또 다른 진화
+image: /assets/article_images/2018-07-31-dualsim/1.jpeg
 categories:
 - 아이폰
 tag: [아이폰, 듀얼심, 구글맵]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 내가 아이패드 12.9인치를 추천하는 이유
+image: /assets/article_images/2018-11-29-which-ipad-buy/1.jpg
 categories:
 -  아이패드
 tag: [아이패드]

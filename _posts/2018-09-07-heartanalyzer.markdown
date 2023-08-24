@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플워치용 Heart Analyzer, 운동하거나 잠잘때 등등의 심박수를 시각화하여 보여주는 앱
+image: /assets/article_images/2018-09-07-heartanalyzer/123.png
 categories:
 - 애플워치
 tag: [애플워치]

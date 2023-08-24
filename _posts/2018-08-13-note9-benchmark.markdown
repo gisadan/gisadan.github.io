@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 갤럭시 노트 9 벤치마크, 아이폰 X가 여전히 뛰어나
+image: /assets/article_images/2018-08-13-note9-benchmark/1.png
 categories:
 - 아이폰
 tag: [갤럭시, 아이폰]

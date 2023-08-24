@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 최신버전 3세대 버터플라이 키보드, 과연 효과 있을까??
+image: /assets/article_images/2018-07-20-test/1.jpeg
 categories:
 - 맥
 tag: [버터플라이, 키보드]

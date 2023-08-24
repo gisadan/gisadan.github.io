@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 교사들을 위한 애플의 무료 Schoolwork 앱 출시.
+image: /assets/article_images/2018-06-29-school/1.jpg
 categories:
 - 아이패드
 tag: [아이패드앱, 추천앱]

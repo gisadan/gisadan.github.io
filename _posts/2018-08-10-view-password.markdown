@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 사파리에 저장된 비밀번호 수정하는 방법 및 데이터 잡아먹는 자동 앱 다운로드 및 업데이트 끄기
+image: /assets/article_images/2018-08-10-view-password/1234.png
 categories:
 - 아이폰
 - 아이패드

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 습관을 추적관리해보자. Streaks
+image: /assets/article_images/2018-06-14-mojave/3.jpg
 categories:
 - 아이폰
 tag: [습관, 관리, streaks, 습관관리, 추적, 아이폰앱, 앱추천]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [키노트] 애플워치 시리즈 4 출시, 총정리 그리고 사세요, 두번 사세요
+image: /assets/article_images/2018-09-16-series4/1.jpg
 categories:
 - 애플워치
 tag: [애플워치, 시리즈4]

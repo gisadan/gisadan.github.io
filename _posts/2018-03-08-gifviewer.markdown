@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰에서 움짤(gif)을 관리하는 법. gif viewer
+image: /assets/article_images/2018-03-08-gifviewer/12.png
 categories:
 - 아이폰
 - 아이패드

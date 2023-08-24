@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [필기] 아이패드로 필기는 어떻게 해야할까? (1)
+image: /assets/article_images/2018-06-29-write/1.jpg
 categories:
 - 아이패드
 - 필기

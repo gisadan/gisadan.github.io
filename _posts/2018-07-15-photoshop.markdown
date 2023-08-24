@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이패드용 포토샵 출시하나?
+image: /assets/article_images/2018-07-15-photoshop/1.jpg
 categories:
 - 아이패드
 tag: [포토샵, 아이패드앱]

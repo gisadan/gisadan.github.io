@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 왜 애플은 듀얼 심이 가능한 폰을 만드는 것인가?
+image: /assets/article_images/2018-09-02-dualsim/1.png
 categories:
 - 아이폰
 tag: [아이폰]

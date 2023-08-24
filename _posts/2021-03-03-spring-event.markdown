@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 3월에 애플 이벤트가 개최될까?? 현재까지 나온 소식의 모든 것!
+image: /assets/article_images/2021-03-03-spring-event/1.jpeg
 categories:
 - 애플
 tag: [이벤트]

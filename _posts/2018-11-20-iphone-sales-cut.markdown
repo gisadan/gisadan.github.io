@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플은 아이폰 XS와 아이폰 XR의 주문을 줄이고 있다.
+image: /assets/article_images/2018-11-20-iphone-sales-cut/1.png
 categories:
 - 아이폰
 tag: [아이폰]

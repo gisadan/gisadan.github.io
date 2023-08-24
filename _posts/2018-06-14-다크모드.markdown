@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 맥os 모하비(Mojave), 다크모드의 탄생
+image: /assets/article_images/2018-06-14-darkmode/12.jpg
 categories:
 - 맥
 tag: [맥, 모하비, 다크모드]

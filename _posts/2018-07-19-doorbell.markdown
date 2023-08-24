@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플 홈킷 악세서리 리스트에서 도어벨 아얘 삭제
+image: /assets/article_images/2018-07-19-doorbell/1.jpg
 categories:
 - 기기
 tag: [홈킷, 도어벨]

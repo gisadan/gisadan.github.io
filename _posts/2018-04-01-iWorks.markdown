@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ iWork와 애플펜슬의 만남. 새롭게 적용된 기술
+image: /assets/article_images/2018-04-01-iWorks/1.jpg
 categories:
 - 아이패드
 tag: [아이패드 , 애플펜슬 , iWork , 키노트 , 페이지]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 새로 출시한 맥북, 버터플라이 키보드 아직 문제있나?
+image: /assets/article_images/2018-07-18-ifixit-keyboard/1.jpeg
 categories:
 - 맥
 tag: [맥, 버터플라이, 키보드]

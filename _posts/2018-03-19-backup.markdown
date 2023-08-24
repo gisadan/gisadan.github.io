@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 타임머신이용 외장하드에 백업하는 방법.
+image: /assets/article_images/2018-03-19-backup/1.jpg
 categories:
 - 맥
 - How to

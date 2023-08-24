@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아름다운 배경화면 "FLOW" 무료 다운로드 하세요!
+image: /assets/article_images/2023-08-10-wallpaper/1.jpg
 categories:
 - 무료
 tag: [배경화면]

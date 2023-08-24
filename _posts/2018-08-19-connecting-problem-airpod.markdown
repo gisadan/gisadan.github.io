@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 에어팟 블루투스 연결됐는데 소리가 안나올 때 해결 방법
+image: /assets/article_images/2018-08-19-connect-airpod-problem/1.jpg
 categories:
 - 기기
 tag: [에어팟, 블루투스]

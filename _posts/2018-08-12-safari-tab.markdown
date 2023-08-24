@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 핸드폰 느려지게 만드는 열린 탭 모두 닫기 및 실수로 닫은 탭 열기
+image: /assets/article_images/2018-08-12-safari-tab/2.png
 categories:
 - 아이폰
 - How to

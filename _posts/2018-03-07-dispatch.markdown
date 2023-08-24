@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 이메일과 GTD가 만나다. Dispatch
+image: /assets/article_images/2018-03-07-dispatch/1.jpg
 categories:
 - 아이폰
 tag: [이메일, 아이폰, GTD]

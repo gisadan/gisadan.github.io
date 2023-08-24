@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플워치의 수면관리 서드파티앱, Sleep++ 그리고 AutoSleep
+image: /assets/article_images/2018-03-20-sleep/910.png
 categories:
 - 애플워치
 tag: [수면관리, 수면, 애플워치, Sleep++, AutoSleep]

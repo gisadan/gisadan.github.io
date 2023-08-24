@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ ForkLift 업데이트 오류 해결하는 법. (읽기 전용 오류)
+image: /assets/article_images/2018-03-21-forklift/1.png
 categories:
 - 맥
 tag: [ForkLift, 에러]

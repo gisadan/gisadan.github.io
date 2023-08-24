@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 미니LED제품, 2026년에나 가능할 것으로보여
+image: /assets/article_images/2023-08-12-mini-led/1.jpeg
 categories:
 - 애플
 tag: [미니LED]

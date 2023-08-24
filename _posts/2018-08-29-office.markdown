@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 오피스 365 , 오피스 2019 최신버전 맥에서만 이용가능해진다.
+image: /assets/article_images/2018-08-29-office/1.jpg
 categories:
 - 맥
 tag: [맥, 오피스]

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이패드 필기앱ㅣ굿노트ㅣ장점 9가지 리뷰
+image: /assets/article_images/2018-12-27-goodnotes-merit/1.png
 categories:
 -  
 tag: []

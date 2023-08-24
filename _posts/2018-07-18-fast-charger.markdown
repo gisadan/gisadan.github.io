@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 아이폰 18W USB-C 급속 충전기 별개로 구매 제한적일 것.
+image: /assets/article_images/2018-07-18-fast-charger/1.jpg
 categories:
 - 아이폰
 - 기기

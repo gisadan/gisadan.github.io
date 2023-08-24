@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ ios17과 macOS Sonoma를 업무에 활용하면 얼마나 생산성이 올라갈까??
+image: /assets/article_images/2023-08-13-ios17-mac/1.jpg
 categories:
 - 애플
 tag: [iOS17, macOS]

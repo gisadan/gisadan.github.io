@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 맥북프로 리프레쉬 모델 출시
+image: /assets/article_images/2018-07-15-newmacbook/1.png
 categories:
 -  맥
 tag: [맥, 업그레이드]

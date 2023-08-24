@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ iOS17 퍼블릭베타 새로운 기능 사용해본 결과..
+image: /assets/article_images/2023-08-13-ios17/1.jpg
 categories:
 - 애플
 tag: [iOS17]

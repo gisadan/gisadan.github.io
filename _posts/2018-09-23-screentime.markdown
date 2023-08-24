@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] iOS12 신기능, 스크린타임 사용의 모든 것
+image: /assets/article_images/2018-09-23-screentime/1.png
 categories:
 - 아이폰
 - How to

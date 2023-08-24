@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 새로 출시될 2018 6.1인치 아이폰의 새로운 루머
+image: /assets/article_images/2018-07-25-6.1iphone/1.png
 categories:
 - 아이폰
 tag: [아이폰, 루머]

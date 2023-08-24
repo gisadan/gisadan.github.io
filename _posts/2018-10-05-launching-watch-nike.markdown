@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플워치 시리즈 4 나이키 주문 가능
+image: /assets/article_images/2018-10-05-launching-watch-nike/1.png
 categories:
 - 애플워치
 tag: [애플워치, 나이키]

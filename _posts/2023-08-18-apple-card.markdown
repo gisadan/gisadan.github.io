@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 애플카드, 연회비 없는 신용카드중 만족도 가장 높아..
+image: /assets/article_images/2023-08-18-apple-card/1.jpg
 categories:
 - 애플
 tag: [애플카드]

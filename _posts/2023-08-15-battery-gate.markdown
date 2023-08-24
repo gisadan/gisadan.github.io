@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 5억 달러 규모의 아이폰 배터리게이트 소송에서 지급이 곧 시작될 예정
+image: /assets/article_images/2023-08-15-battery-gate/1.jpg
 categories:
 - 애플
 tag: [배터리, 배터리게이트]

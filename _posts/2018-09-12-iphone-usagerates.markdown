@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 시리즈 중 현재 가장 많이 쓰는 폰은?
+image: /assets/article_images/2018-09-12-iphone-usagerates/1.png
 categories:
 - 아이폰
 tag: [아이폰]

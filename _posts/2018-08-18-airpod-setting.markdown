@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ [How to] 에어팟 곡 넘김, 재생, 정지 각종 설정하는 방법 및 좌, 우 마이크 세팅 방법
+image: /assets/article_images/2018-08-18-airpod-setting/1.png
 categories:
 - How to
 - 기기

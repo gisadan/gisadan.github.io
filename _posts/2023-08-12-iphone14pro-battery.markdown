@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰14Pro, 1년도 안되 배터리 급격한 감소
+image: /assets/article_images/2023-08-12-iphone14pro-battery/1.jpg
 categories:
 - 아이폰
 tag: [아이폰14Pro]

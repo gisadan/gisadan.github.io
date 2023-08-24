@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2018 아이패드 프로 페이스 ID와 노치적용?
+image: /assets/article_images/2018-07-27-faceid/1.jpg
 categories:
 - 아이패드
 tag: [아이패드]

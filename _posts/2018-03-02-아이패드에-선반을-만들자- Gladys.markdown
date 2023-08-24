@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이패드에 선반을 만들자. Gladys
+image: /assets/article_images/2018-03-02-gladys/ipad5.png
 categories:
 - 아이패드
 - 아이폰

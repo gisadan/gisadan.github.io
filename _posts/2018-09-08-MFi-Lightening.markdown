@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2019 중순에 나올 예정인 MFI 인증 USB-C to 라이트닝 케이블, 가격 상승될 것으로 보여..
+image: /assets/article_images/2018-09-08-MFi-Lightning/1-1.jpg
 categories:
 - 기기
 tag: [케이블]

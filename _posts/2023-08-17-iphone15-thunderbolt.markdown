@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰15 시리즈, 썬더볼트/USB4 지원 루머
+image: /assets/article_images/2023-08-17-iphone15-thunderbolt/1.jpg
 categories:
 - 애플
 tag: [아이폰15]

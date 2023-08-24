@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 맥북 키보드 무상교체 프로그램 게시.
+image: /assets/article_images/2018-06-27-keyboard/1.jpg
 categories:
 - 맥
 tag: [맥북, 무상교체, 키보드]

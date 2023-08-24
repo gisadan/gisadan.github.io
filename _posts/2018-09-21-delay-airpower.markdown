@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 에어파워, 2019로 출시 연기되나..?!
+image: /assets/article_images/2018-09-21-delay-airpower/1.jpg
 categories:
 - 기기
 tag: [에어파워]

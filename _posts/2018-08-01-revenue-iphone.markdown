@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 100만원 넘는 아이폰 X의 가격 정책은 매우 성공적이었다. 오히려 매출 증가..
+image: /assets/article_images/2018-08-01-revenue-iphone/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

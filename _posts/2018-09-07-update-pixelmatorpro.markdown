@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 픽셀메이터 프로 반 값 할인, 그리고 새로운 이펙트 대거 추가되다. $29.99로 구매 가능
+image: /assets/article_images/2018-09-07-update-pixelmatorpro/2.jpg
 categories:
 - 맥
 tag: [맥, 픽셀메이터 프로]

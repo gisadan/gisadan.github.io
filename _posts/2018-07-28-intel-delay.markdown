@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 2019년 맥북프로에는 캐논레이크 탑재될까?
+image: /assets/article_images/2018-07-28-intel-delay/1.jpg
 categories:
 - 맥
 tag: [맥북, 프로세서]

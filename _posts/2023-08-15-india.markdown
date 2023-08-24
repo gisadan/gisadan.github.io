@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 애플, '메이드 인 인도' 프로그램 지원으로 200억 대의 스마트폰 생산, 그 중 98%가 현지 생산
+image: /assets/article_images/2023-08-15-india/1.jpg
 categories:
 - 애플
 tag: [아이폰]

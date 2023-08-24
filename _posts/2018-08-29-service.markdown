@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 애플, 서드파티 수리업체에 공식 권한을 주다
+image: /assets/article_images/2018-08-29-service/1.png
 categories:
 - 아이폰
 tag: [아이폰, 수리]

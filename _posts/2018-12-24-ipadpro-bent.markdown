@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이패드 프로 휨 또는 구부러짐 논란에 대한 애플의 공식입장
+image: /assets/article_images/2018-12-24-ipadpro-bent/1.jpeg
 categories:
 - 아이패드
 tag: [아이패드]

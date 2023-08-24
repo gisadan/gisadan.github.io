@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: ✚ 아이폰 Xs 시리즈 벤치마크 1등?!, A12 성능과 내구성 테스트와 함께
+image: /assets/article_images/2018-10-03-Xs-performance-durability/1.jpg
 categories:
 - 아이폰
 tag: [아이폰]

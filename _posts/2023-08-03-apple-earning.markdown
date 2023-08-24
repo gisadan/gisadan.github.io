@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 애플 2023년 제3분기 실적, 분석가들의 우려 ”2016년 이후 가장 큰 매출 하락 될 수도 있어“
+image: /assets/article_images/2023-08-03-apple-earning/1.jpg
 categories:
 - 애플
 tag: [애플, 실적, 매출]
