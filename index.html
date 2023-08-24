@@ -77,9 +77,7 @@ layout: default
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
             </div>
-            <div class="thumbnail-container">
-            <a href="{{ post.url }}" class="thumbnail-container"><img src="{{ post.image }}" width="660"></a>
-            </div>
+
             <section class="post-excerpt" itemprop="description">
               <div class="post-content"
               <p>{{ post.content | truncatewords: 80 }}</p>

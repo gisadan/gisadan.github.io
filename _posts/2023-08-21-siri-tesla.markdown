@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ✚ 테슬라앱, 애플과 공식적으로 통합으로 위젯으로도 "통제가능"
+image: /assets/article_images/2023-08-21-siri-tesla/1.webp
 categories:
 - 애플
 tag: [애플, 테슬라, 앱]
