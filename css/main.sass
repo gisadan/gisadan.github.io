@@ -185,6 +185,7 @@ body
       a
         color: #b3b3b1
         text-decoration: none
+        border-bottom: none
         &:hover
           text-decoration: none
     
@@ -214,6 +215,23 @@ body
         text-decoration: none
         &:hover
           text-decoration: underline
+
+    /* 관련글 이미지 오른쪽 반으로 하기 위해*/
+    .archive-image
+      img
+        max-width: 100%
+        border-radius: 0px
+        margin-top: 10px
+        margin-bottom: 10px
+      a
+        color: #b3b3b1
+        text-decoration: none
+        border-bottom: none
+        &:hover
+          text-decoration: none
+
+    
+
 .container.featured
   padding-bottom: 40px
 
@@ -372,6 +390,19 @@ body
         padding-top: 0px
         p
           padding: 0 0
+        /* 관련글 이미지 오른쪽 반으로 하기 위해*/
+    .archive-image2
+      img
+        max-width: 30%
+        border-radius: 0px
+        margin-top: 10px
+        margin-bottom: 10px
+      a
+        color: #b3b3b1
+        text-decoration: none
+        border-bottom: none
+        &:hover
+          text-decoration: none
   .noarticleimage
     .post-meta
       font-family: $font-sans
@@ -786,7 +817,6 @@ body
           padding: 0 0
 
 
-
     ul, ol
       margin: 15px 12px 30px 12px
       margin: 0
@@ -882,6 +912,7 @@ body
         padding-top: 0px
         p
           padding: 0 0
+    
     /* 태그 페이지내의 아케이브 글꼴 */
     .archive-group
       margin-top: 40px
@@ -933,21 +964,34 @@ body
             color: #C90000
             text-decoration: none
             border-bottom: 1px dashed #C90000
+    /* 본문 내 관련글 */
+      .tb
+        width: 640px
+        img
+          max-width: 100%
+          border-radius: 0px
+          margin-top: 10px
+          margin-bottom: 10px
 
     /* 아카이브페이지 및 카테고리 페이지 글꼴 스타일 */
     .archive-item2
-      margin-top: 5px
+      margin-top: 0px
       margin-left: 5px
       margin-bottom: 5px
       p
-        padding: 0 10px
+        float: right
+        padding: 0 0px
         font-weight: 400
         font-style: $font-sans
-        font-size: 15px
+        font-size: 12px
         line-height: 1.4
-        margin-left: 30px
+        margin-top: 0px
+        margin-left: 0px
         margin-bottom: 0px
         padding-top: 0px
+      h5
+        padding: 0
+        margin: 0
       a
         color: #000000
         text-decoration: none
@@ -970,7 +1014,7 @@ body
         margin: 0 12px 12px 0
       a.tags
         text-decoration: none
-
+  
   /* 본문 내 관련글 */
   .related-post
     h4
@@ -1020,7 +1064,7 @@ body
 
 
   .bottom-teaser
-    padding: 50px 0
+    padding: 0 0
     font-family: $font-sans
     hr
       border: 0
@@ -1037,7 +1081,7 @@ body
       @include box-sizing(border-box)
       @include respond-to(800)
         width: 100%
-        padding-bottom: $rs*2
+        padding-bottom: 0
       .index-headline
         padding-bottom: 0px
         a
@@ -1094,7 +1138,8 @@ body
             text-decoration: underline
         .poweredby
           display: block
-          padding-bottom: 18px
+          padding-bottom: 18
+          line-height: 1.8
           font-weight: 700
           color: #333
           font-size: 17px
@@ -1152,6 +1197,7 @@ body
     padding: 120px 0 90px
     text-align: center
     margin: 0 auto
+
     .blog-title
       margin: 0
       padding: 0 0 10px
@@ -1192,6 +1238,7 @@ body
       border-radius: 999em
       line-height: 44px
       padding: 0 18px
+    
 
   /*add for tag cloud and archives */
 

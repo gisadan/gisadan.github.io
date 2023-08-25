@@ -3,8 +3,8 @@ layout: post
 title: ✚ 아이패드 필기앱ㅣ굿노트ㅣ장점 9가지 리뷰
 image: /assets/article_images/2018-12-27-goodnotes-merit/1.png
 categories:
--  
-tag: []
+- 앱
+tag: [아이패드, 필기앱, 굿노트]
 ---  
 <p class="drop-korean">
 아이패드를 구매하신 분들이 많으실텐데요. 이 아이패드를 조금 더 잘 활용할 수 있는 앱을 소개할까 합니다. 바로 굿노트(goodnotes)입니다. 굿노트많은 장점을 보여하고 있는 앱이며, 필기앱답게 뛰어난 필기감을 제공합니다. 아래 그 장점에 대해 알려드리겠습니다.

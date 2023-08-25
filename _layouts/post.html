@@ -118,7 +118,7 @@
                   <td width="40%">
                     <div>
                       <div class="related-image">
-                      <img src="{{ post.image }}" ></a>
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" ></a>
                     </div>
                   </td>
                 </tr>
@@ -141,8 +141,8 @@
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Sitemap</span></h5>
             <footer class="site-footer">
-              <section class="poweredby"><a href="http://gisadan.github.io/archive"> ⇥ 전체 글 목록 <span><i class="fa fa-archive "> </i>  </span></a></section>
-              <section class="poweredby"><a href="http://gisadan.github.io/category/"> ⇥ 카테고리 <span><i class="fa fa-sitemap "> </i></span></a></section>
+              <section class="poweredby"><a href="{{site.baseurl}}/archive"> ⇥ 전체 글 목록 <span><i class="fa fa-archive "> </i>  </span></a></section>
+              <section class="poweredby"><a href="{{site.baseurl}}/category/"> ⇥ 카테고리 <span><i class="fa fa-sitemap "> </i></span></a></section>
               <a class="poweredby" href="{{ "/feed.xml" | prepend: site.baseurl }}"> ⇥ 구독하기 <span> <i class="fa fa-rss-square "></i></span></a>
               <!— Html Elements for Search -->
               <div id="search-container">
@@ -185,7 +185,16 @@
         </div>
       </article>
     </main>
-
+    <div class="bottom-closer">
+      <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
+        Image
+      </div>
+      <div class="inner">
+        <a href="/">
+        <h1 class="blog-title">{{ site.title }}</h1>
+        <h2 class="blog-description">{{ site.description }}</h2></a>
+        <a href="/" class="btn">메인 페이지</a>
+      </div>
       </div>
     </div>
     {% include javascripts.html %}
