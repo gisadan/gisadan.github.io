@@ -20,12 +20,16 @@ title: <i class="fa fa-tags" aria-hidden="true"></i> Tags
 {% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <h2 id="#{{ tag_name | slugize }}"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name }}</h2>
-    <a name="{{ tag_name | slugize }}"></a>
+    
     {% for post in site.tags[tag_name] %}
 
-        <tr>
+    <tr>
       <td width="60%">
+        <div class="archive-item3">
+        <i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name }}
+        <a name="{{ tag_name | slugize }}"></a>
+        </div>
+
         <div class="archive-item2">
         <h5><a href="{{ post.url }}">{{ post.title }} <br> <p> <time>({{ post.date | date:"%y년 %m월 %d일" }})</time></p></a></h5>
         </div>

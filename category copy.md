@@ -11,19 +11,15 @@ title: <i class="fa fa-sitemap fa-lg"> </i> Categories
   <div class="archive-group2">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-    
-    
+    <p></p>
+
+    <h2 class="category-head"><i class="fa fa-folder-open"> </i> {{ category_name }}</h2>
+    <a name="{{ category_name | slugize }}"></a>
 
     {% for post in site.categories[category_name] %}
     
     <tr>
-      
       <td width="60%">
-        <div class="archive-item3">
-        <i class="fa fa-tag"> </i> {{ category_name }}
-        <a name="{{ category_name | slugize }}"></a>
-        </div>
-
         <div class="archive-item2">
         <h5><a href="{{ post.url }}">{{ post.title }} <br> <p> <time>({{ post.date | date:"%y년 %m월 %d일" }})</time></p></a></h5>
         </div>

@@ -5,7 +5,10 @@
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <i class="fa fa-tag" aria-hidden="true"></i><a class="tags" href="/tags/#{{tag|slugize}}" > {{tag}}</a>{% unless forloop.last %},{% endunless %}
+  <div class="archive-item3">
+  <i class="fa fa-tag" aria-hidden="true"></i><a class="tags" href="/tags/#{{tag|slugize}}" > {{tag}}</a>{% unless forloop.last %}{% endunless %}
+  </div>
   {% endfor %}
+  
 </div>
 <br/>
