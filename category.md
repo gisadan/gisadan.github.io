@@ -38,4 +38,4 @@ title: <i class="fa fa-sitemap fa-lg"> </i> Categories
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+

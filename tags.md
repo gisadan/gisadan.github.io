@@ -42,4 +42,4 @@ title: <i class="fa fa-tags" aria-hidden="true"></i> Tags
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+
