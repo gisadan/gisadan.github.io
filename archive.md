@@ -16,12 +16,8 @@ title: <i class="fa fa-archive fa-lg"> </i> Archive
   {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
   {% if month != nmonth %}
   {% if forloop.index != 1 %}{% endif %}
-
-  
-  <div class="archive-group">
   {% endif %}
-  </div>
-
+  
     <tr>
       <td width="60%">
         <div class="archive-item2">
@@ -33,9 +29,6 @@ title: <i class="fa fa-archive fa-lg"> </i> Archive
           <div class="archive-image2">
           <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" ></a>
         </div>
-
-
+  </div>
   {% endfor %}
-    
 
-</div>
