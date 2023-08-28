@@ -62,7 +62,7 @@ iOS 17은 새로운 아이폰과 함께 9월에 출시될 예정입니다. 이 �
 <div class="markdown-image">
 <img src="/assets/article_images/2023-08-28-iphone15-series-rumors/6.jpeg" alt="" align="middle"/> </div>
 
-이번 주에는 여러 해 동안 하드웨어 업그레이드를 받지 못한 현재 제품과 액세서리 다섯 가지에 관한 포스팅을 했습니다. 이 목록에는 Mac용 USB SuperDrive와 같이 더 이상 업데이트될 가능성이 낮은 제품은 포함되지 않았습니다.
+[이번 주에는 여러 해 동안 하드웨어 업그레이드를 받지 못한 현재 제품과 액세서리 다섯 가지에 관한 포스팅을 했습니다.](http://gisadan.github.io/애플/2023/08/27/old-products.html) 이 목록에는 Mac용 USB SuperDrive와 같이 더 이상 업데이트될 가능성이 낮은 제품은 포함되지 않았습니다.
 
 한 번 읽어보시면 좋을 것 같습니다.
 
