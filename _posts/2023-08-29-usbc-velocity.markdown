@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰15프로, USB-C 포트 속도는 어떻게 될까?
-image: 
+image: /assets/article_images/2023-08-29-usbc-velocity/1.jpg
 categories:
 - 애플
 tag: [아이폰15프로, USB-C]
