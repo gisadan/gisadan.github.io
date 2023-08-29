@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰 15 Pro의 주요 기능 루머, USB-C 포트, 티타늄 및 기타
-image: /assets/article_images/2023-08-29-iphone15-5-feature/1.jpg
+image: /assets/article_images/2023-08-29-iphone15-5-features/1.jpg
 categories:
 - 애플
 tag: [아이폰15]
