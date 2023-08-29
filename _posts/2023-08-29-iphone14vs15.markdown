@@ -1,0 +1,22 @@
+---
+layout: post  
+title: ✚ 아이폰 14 vs. 아이폰 15, 기대되는 15가지 이상의 개선사항과 변화
+image: /assets/article_images/2023-08-29-iphone14vs15/1.jpg
+categories:
+- 애플
+tag: [아이폰15]
+---
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-29-iphone14vs15/1.jpg" alt="" align="middle"/> </div>
+
+<p class="drop-korean">
+애플의 아이폰 15와 아이폰 15 Plus는 몇 주 안에 공개될 예정으로, 지난해에 소개된 아이폰 14 모델을 능가할 15가지 이상의 개선사항과 변화를 소개할 것으로 예상됩니다.
+</p>
+
+### 아이폰 14 vs. 아이폰 15 특징
+오랜 시간동안 예상되어 온 이 기기들에 대한 루머들을 거친 후, 우리는 Bloomberg의 Mark Gurman, DSCC의 Ross Young, 애플 분석가 Ming-Chi Kuo 등 신뢰할 만한 출처로부터 얻은 정보를 기반으로 **다음 세대의 표준 아이폰 모델들이 예상되는 주요 차이점들을 모두 모았습니다.** 이러한 통찰력들 중 많은 것이 검증되었지만, 몇 가지는 고립된 보도에서만 루머로 언급되었습니다. 그럼에도 불구하고 다음 표로 아이폰 15이 아이폰 14와 비교해 보기 편하게 한 방에 표로 정리했습니다.
+
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-29-iphone14vs15/2.jpg" alt="" align="middle"/> </div>
+
