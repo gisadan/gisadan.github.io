@@ -8,8 +8,8 @@ tag: [수명, 신뢰성]
 description: 더 많은 기업들이 직원들이 사용하기 위해 맥, 아이패드 및 아이폰 기기를 구매하고 있습니다.
 ---
 
-<div class=“markdown-image”>
-<img src=“/assets/article_images/2023-08-30-longevity/1.jpeg” alt=“” align=“middle”/></div>
+<div class="markdown-image">
+<img src="/assets/article_images/2023-08-30-longevity/1.jpeg" alt="" align="middle"/> </div>
 
 <p class=”drop-korean“>
 애플 하드웨어 사용은 여러 가지 측면에서 기업에 이익을 제공한다는 것이 IT 전문가 및 임원들의 조사를 통해 밝혀졌으며, 더 많은 기업들이 직원들이 사용하기 위해 맥, 아이패드 및 아이폰 기기를 구매하고 있습니다.
