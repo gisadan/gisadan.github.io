@@ -50,7 +50,7 @@ Apple은 Pro Display XDR을 2019년 12월에 출시하여 올해 나중에 4년�
 
 ### 5. Apple Pencil
 <div class="markdown-image">
-<img src="/assets/article_images/2023-08-27-old-products/5.jpeg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-08-28-old-products/5.jpeg" alt="" align="middle"/> </div>
 
 두 번째 세대 Apple Pencil은 2018년 10월에 발표되어 거의 5년이 지난 제품입니다. 새로운 Apple Pencil의 신뢰할만한 루머는 없으므로 129달러 가격의 액세서리가 언제 업데이트될지는 알려지지 않았습니다. 2022년 10월에 출시된 iPad Pro 모델에서는 두 번째 세대 Apple Pencil이 디스플레이 위로 최대 12mm 떠 있을 때 감지될 수 있어 사용자가 그림을 그리기 전에 미리 미리 보는 미리 보기를 볼 수 있습니다. 그리고 Scribble 기능을 위해 연필이 화면에 가까워지면 텍스트 필드가 자동으로 확장됩니다.
 
