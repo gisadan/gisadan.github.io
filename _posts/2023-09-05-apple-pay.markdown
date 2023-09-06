@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ [How to] iOS 17에서 반복되는 Apple Pay Cash 지급 설정하는 방법
-image: 
+image: /assets/article_images/2023-09-05-apple-pay/1.jpg
 categories:
 - 애플
 tag: [Howto]
