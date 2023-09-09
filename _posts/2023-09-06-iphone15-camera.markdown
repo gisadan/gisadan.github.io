@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰 15 카메라 사양에 관한 모든 것
-image: 
+image: /assets/article_images/2023-09-06-iphone15-camera/1.jpg
 categories:
 - 애플
 tag: [아이폰15 카메라, 아이폰15, 아이폰15 프로맥스]
