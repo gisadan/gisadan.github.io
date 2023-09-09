@@ -1,10 +1,10 @@
 ---
 layout: post  
-title: ✚ iOS 17에서 iMessage 앱을 재정렬하는 방법
+title: ✚[How to] iOS 17에서 iMessage 앱을 더 효과적으로 쓰는 법.
 image: /assets/article_images/2023-09-09-imessage-rearrange/1.jpg
 categories:
 - 애플
-tag: [아이메시지, iOS17]
+tag: [아이메시지, iOS17, How to]
 ---
 
 <div class="markdown-image">
