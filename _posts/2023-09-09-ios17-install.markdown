@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ iOS 17 공개 또는 개발자 베타 설치 방법
-image: /assets/article_images/2023-09-09-ios17-install/1.webp
+image: /assets/article_images/2023-09-09-ios17-install/2.webp
 categories:
 - 애플
 tag: [iOS17]
@@ -19,6 +19,7 @@ tag: [iOS17]
 
 ---
 **업데이트 2023년 7월 12일:** iOS 17 공개 베타가 이제 watchOS 10, macOS Sonoma 및 tvOS 17의 첫 번째 퍼블릭 베타와 함께 제공됩니다.
+
 ---
 
 iOS 16.4부터 애플은 설정에서 개발자 및 공개 베타를 활성화하는 기능이 생겼습니다.
