@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚[How to] iOS 17에서 iMessage 앱을 더 효과적으로 쓰는 법.
-image: /assets/article_images/2023-09-09-imessage-rearrange/1.jpg
+image: /assets/article_images/2023-09-09-imessage-rearrange/1.webp
 categories:
 - 애플
 tag: [아이메시지, iOS17, How to]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-09-imessage-rearrange/1.jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-09-imessage-rearrange/1.webp" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
 iMessage 앱 서랍은 iOS 17에서 새롭게 디자인되었지만 처음에는 많이 헷갈릴 수 있습니다. 여기서는 메시지에서 앱의 순서를 변경하는 방법을 알려드리겠습니다. 
