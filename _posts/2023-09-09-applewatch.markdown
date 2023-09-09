@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚ 애플워치9 및 애플워치울트라2 일부 중요한 업그레이드 예정.
-image: /assets/article_images/2023-09-09-applewatch/1.jpg
+image: /assets/article_images/2023-09-09-applewatch/1.webp
 categories:
 - 애플
 tag: [애플워치울트라, 애플워치9]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-09-applewatch/1.jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-09-applewatch/1.webp" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
 금요일의 보고서에 따르면, 애플워치 9와 애플워치울트라 모두 중요한 업그레이드로 보이는 내용이 공개되었습니다.
