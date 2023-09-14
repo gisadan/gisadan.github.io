@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰 15에서는 최대 배터리 충전량을 제한할 수 있는 옵션을 제공
-image: 
+image: /assets/article_images/2023-09-14-iphone-charging/1.webp
 categories:
 - 애플
 tag: [아이폰15, 아이폰15프로, 배터리]
