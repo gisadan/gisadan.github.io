@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚ 아이폰15 Pro, 파이널 컷 프로와 너무나 좋은 조합
-image: /assets/article_images/2023-09-20-finalcutpro/1.jpg
+image: /assets/article_images/2023-09-20-finalcutpro/1.webp
 categories:
 - 애플
 tag: [아이폰15 Pro, 파이널 컷 프로]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-20-finalcutpro/1.jpg" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-20-finalcutpro/1.webp" alt="" align="middle"/> </div>
 
 애플은 아이폰 15 프로를 출시하며 **프로급 비디오 촬영 기능을 새롭게 선보였습니다.** 
 그러면서 동시에 **맥과 아이패드용 파이널 컷 프로를 업데이트하여 촬영 기능과 호환되도록 했습니다.**
