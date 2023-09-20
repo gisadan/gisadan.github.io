@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: ✚ 아이폰15 시리즈, 전기종 비교분석
-image: 
+image: /assets/article_images/2023-09-19-iphone15-iphone15pro/1.webp
 categories:
 - 애플
 tag: [아이폰15, 아이폰15프로]
