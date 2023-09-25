@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚ 구글, 애플에게 갑질?
-image: /assets/article_images/2023-09-25-search-engine/1.webp
+image: /assets/article_images/2023-09-24-search-engine/1.webp
 categories:
 - 애플
 tag: [구글, 검색엔진]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-25-search-engine/1.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-24-search-engine/1.webp" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
 존 지아난드레아, 애플의 머신 러닝 및 인공 지능 전략 담당 시니어 부사장은 이번 주에 열린 미국 법무부의 구글에 대한 기소 소송에서 증언하기 위해 증인석에 올랐습니다.

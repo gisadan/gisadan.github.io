@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚ watchOS 10 위젯 '새로운 애플 워치 UI 사용 방법'
-image: /assets/article_images/2023-09-25-watchos10/1.webp
+image: /assets/article_images/2023-09-24-watchos10/1.webp
 categories:
 - 애플
 tag: [워치OS10, 애플워치]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-25-watchos10/1.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-24-watchos10/1.webp" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
 애플의 새로운 워치OS 는 스마트하고 사용자 정의 가능한 위젯 기반 UI를 중심으로 한 중요한 변화를 가져왔습니다.
@@ -39,12 +39,12 @@ tag: [워치OS10, 애플워치]
 
 위젯 UI 상단의 날짜와 시간은 현재로서는 사용자 정의할 수 없습니다. 위젯을 편집하려면 위젯을 길게 누르면 위쪽의 +와 각 위젯에 대한 제거 및 핀 아이콘을 볼 수 있습니다.
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-25-watchos10/2.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-24-watchos10/2.webp" alt="" align="middle"/> </div>
 
 새로운 위젯을 추가할 때 상단에 추천 선택 항목이 나타나며 아래에 모든 앱이 나열됩니다.
 
 맨 아래의 세 개의 복잡한 위젯은 사용자 정의할 수 있으며 상단으로 이동시키려면 핀을 사용할 수도 있습니다.
 <div class="markdown-image">
-<img src="/assets/article_images/2023-09-25-watchos10/3.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-24-watchos10/3.webp" alt="" align="middle"/> </div>
 
 워치OS 10의 새로운 위젯에 대한 의견은 어떠신가요? 애플 워치 위젯 사용 가이드를 읽어 주셔서 감사합니다! 😁
