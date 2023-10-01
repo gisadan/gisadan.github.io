@@ -4,7 +4,7 @@ title: ✚ iOS 17, QR 코드를 스캔하고 탭하는 과정이 드디어 더�
 image: /assets/article_images/2023-09-21-qr/1.webp
 categories:
 - 애플
-tag: [iOS 17, QR코드]
+tag: [iOS17, QR코드]
 ---
 
 <div class="markdown-image">

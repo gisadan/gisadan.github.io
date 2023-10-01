@@ -1,10 +1,10 @@
 ---
 layout: post  
-title: ✚ WatchOS 10, 날씨앱 확인이 안된다..
+title: ✚ watchOS 10, 날씨앱 확인이 안된다..
 image: /assets/article_images/2023-09-28-weather/1.webp
 categories:
 - 애플
-tag: [WatchOS 10, 애플워치]
+tag: [watchOS10, 애플워치]
 ---
 
 <div class="markdown-image">

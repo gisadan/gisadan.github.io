@@ -8,12 +8,3 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 
 gem "webrick", "~> 1.8.1"
-
-gem 'minitest'
-gem 'activesupport'
-gem 'addressable'
-
-gem 'commonmarker'
-gem 'faraday'
-gem 'rexml'
-gem 'nokogiri'

@@ -256,18 +256,11 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  activesupport
-  addressable
   bourbon
-  commonmarker
-  faraday
   github-pages
   jekyll-seo-tag
   jekyll-sitemap
   jemoji
-  minitest
-  nokogiri
-  rexml
   webrick (~> 1.8.1)
 
 BUNDLED WITH

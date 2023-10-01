@@ -4,7 +4,7 @@ title: ✚ watchOS 10, 스누피얼굴 페이스 등장!
 image: /assets/article_images/2023-09-20-snoopy/1.webp
 categories:
 - 애플
-tag: [애플워치, watchOS 10, 스누피]
+tag: [애플워치, watchOS10, 스누피]
 ---
 
 <div class="markdown-image">

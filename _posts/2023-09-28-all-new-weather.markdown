@@ -4,7 +4,7 @@ title: ✚ 완전 새롭게 태어난 watchOS 10 날씨앱
 image: /assets/article_images/2023-09-28-all-new-weather/1.webp
 categories:
 - 애플
-tag: [watchOS 10, 날씨앱]
+tag: [watchOS10, 날씨앱]
 ---
 
 <div class="markdown-image">

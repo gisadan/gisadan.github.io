@@ -4,7 +4,7 @@ title: ✚ 아이폰 15이 과열, 46°C 돌파
 image: /assets/article_images/2023-09-26-iphone-overheat/1.webp
 categories:
 - 애플
-tag: [아이폰15, 아이폰15 프로]
+tag: [아이폰15, 아이폰15프로]
 ---
 
 <div class="markdown-image">

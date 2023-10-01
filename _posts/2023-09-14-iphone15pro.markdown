@@ -4,7 +4,7 @@ title: ✚ 아이폰 15 Pro의 새로운 디자인, 액션 버튼 등
 image: /assets/article_images/2023-09-14-iphone15pro/1.webp
 categories:
 - 애플
-tag: [아이폰15 Pro]
+tag: [아이폰15프로]
 ---
 
 <div class="markdown-image">

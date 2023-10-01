@@ -4,7 +4,7 @@ title: ✚ watchOS 10 위젯 '새로운 애플 워치 UI 사용 방법'
 image: /assets/article_images/2023-09-24-watchos10/1.webp
 categories:
 - 애플
-tag: [워치OS10, 애플워치]
+tag: [watchOS10, 애플워치]
 ---
 
 <div class="markdown-image">

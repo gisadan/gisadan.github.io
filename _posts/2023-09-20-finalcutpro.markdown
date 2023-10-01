@@ -1,10 +1,10 @@
 ---
 layout: post  
-title: ✚ 아이폰15 Pro, 파이널 컷 프로와 너무나 좋은 조합
+title: ✚ 아이폰15Pro, 파이널 컷 프로와 너무나 좋은 조합
 image: /assets/article_images/2023-09-20-finalcutpro/1.webp
 categories:
 - 애플
-tag: [아이폰15 Pro, 파이널 컷 프로]
+tag: [아이폰15프로, 파이널 컷 프로]
 ---
 
 <div class="markdown-image">

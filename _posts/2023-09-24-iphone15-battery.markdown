@@ -4,7 +4,7 @@ title: ✚ 아이폰 15 Plus, 이전 아이폰 모델들을 능가하는 배터�
 image: /assets/article_images/2023-09-24-iphone15-battery/1.webp
 categories:
 - 애플
-tag: [아이폰15, 아이폰15 프로, 배터리]
+tag: [아이폰15, 아이폰15프로, 배터리]
 ---
 
 <div class="markdown-image">
