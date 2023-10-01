@@ -1,14 +1,14 @@
 ---
 layout: post  
 title: ✚ 애플, 아이폰 15 과열 문제를 해결할 소프트웨어 업데이트 예정
-image: /assets/article_images/2023-10-01-iphone-overheat/1.webp
+image: /assets/article_images/2023-09-30-iphone-overheat/1.webp
 categories:
 - 애플
 tag: [아이폰15, 아이폰15프로]
 ---
 
 <div class="markdown-image">
-<img src="/assets/article_images/2023-10-01-iphone-overheat/1.webp" alt="" align="middle"/> </div>
+<img src="/assets/article_images/2023-09-30-iphone-overheat/1.webp" alt="" align="middle"/> </div>
 
 <p class="drop-korean">
 
